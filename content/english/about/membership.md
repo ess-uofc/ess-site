@@ -44,7 +44,7 @@ merch_discounts:
     logo: images/ess-logo.png
     percentage: 10-25
 partner_discounts:
-  enable: false
+  enable: true
   title: Discounts through our Partners
   content: ESS members can present their membership cards with our local partners
     in Calgary to receive discounts on various items and services!
