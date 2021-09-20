@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle: 
 social:
   website: 'https://vogappdevelopers.com'
-draft: true
+draft: false
 ---
 Vog App Developers was founded in 2012 based on the vision to provide entrepreneurs
 and businesses with high quality yet affordable custom mobile apps. The company

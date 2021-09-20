@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/frosh-banner.jpg"
-  title : "First Year Representative Applications"
-  content : "Apply to be a First Year Representative with ESS - Applications Close September 16"
+  bg_image : "images/events/career-fair/career-fairbg.jpg"
+  title : "Career Fair"
+  content : "Chat with some amazing companies - open to all years"
   button:
     enable : true
-    label : "APPLY NOW"
-    link : "/get-involved/applications/firstyearrep/"
+    label : "MORE INFO"
+    link : "/events/career-fair"
 
 ############################# About #################################
 about:
