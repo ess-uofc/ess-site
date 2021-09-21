@@ -1,5 +1,5 @@
 ---
-title: Neo
+title: Neo Financial
 description: 
 bg_image: images/events/career-fair/neo.png
 logo: images/events/career-fair/neo.png

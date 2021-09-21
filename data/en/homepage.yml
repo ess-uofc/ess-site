@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/events/career-fair/career-fairbg.jpg"
   title : "Career Fair"
-  content : "Chat with some amazing companies - open to all years"
+  content : "Open to all years: Thursday October 7th, 9:30 AM - 4:00 PM"
   button:
     enable : true
     label : "MORE INFO"

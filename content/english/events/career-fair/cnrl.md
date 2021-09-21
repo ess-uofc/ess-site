@@ -1,5 +1,5 @@
 ---
-title: CNRL
+title: Canadian Natural
 description: 
 bg_image: images/events/career-fair/cnrl.jpg
 logo: images/events/career-fair/cnrl.jpg
