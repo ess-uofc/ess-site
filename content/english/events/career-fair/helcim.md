@@ -9,4 +9,4 @@ social:
   website: 'https://www.helcim.com/ca/'
 draft: false
 ---
-Helcim is a payments company that lets businesses accept credit cards with ease. Helcim focuses on delivering a better payment service by making it easier to sign up, providing smarter payment tools, and making it more affordable to get paid. All of our software is built inhouse.
+Helcim is a Calgary based tech company on a mission to build the world’s most loved payments company. We acknowledge this is a challenge but we choose the harder path in everything we do. We hire junior level developers and give them an opportunity to learn and build something big. Our in-house development team is responsible for using the latest technology to create tools that give businesses a better payment experience and opportunity to grow. Learn more about working at Helcim and view our open positions on our website.

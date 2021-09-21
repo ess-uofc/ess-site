@@ -44,7 +44,7 @@ merch_discounts:
     logo: images/ess-logo.png
     percentage: 10-25
 partner_discounts:
-  enable: true
+  enable: false
   title: Discounts through our Partners
   content: ESS members can present their membership cards with our local partners
     in Calgary to receive discounts on various items and services!
@@ -133,6 +133,3 @@ Support the Engineering Students’ Society by becoming a member today! The Engi
 - Access to hot water
 - Charging cables (USB-C, lightning cable)
 - Calculator, lab coat, and projector rental
-
-
-### Memberships are currently on sale for $10 (regularly $20) from June 20, 2021 - September 11, 2021

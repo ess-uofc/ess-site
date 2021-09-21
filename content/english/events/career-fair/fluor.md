@@ -9,4 +9,6 @@ social:
   website: 'https://www.fluor.com'
 draft: false
 ---
-Fluor is a global, publicly-traded engineering, procurement, construction (EPC) and maintenance company. Fluor works with clients in diverse industries around the world to design, construct and maintain their capital projects. Their projects range from Energy & Chemicals, Infrastructure & Power, Mining & Metals, Advanced technologies and life sciences.
+Fluor builds a better world by applying world‑class expertise to solve its clients' greatest challenges. Fluor's 44,000 employees provide professional and technical solutions that deliver safe, well‑executed, capital‑efficient projects to clients globally. Fluor is ranked 196 among the Fortune 500 companies. With headquarters in Irving, Texas, Fluor has been providing engineering, procurement and construction services for more than 100 years.
+ 
+Fluor employees have been instrumental in developing the tools and systems to execute complex projects safely, smartly and with the highest quality, using the latest technology to communicate and execute projects around the world. If you value teamwork and want to be challenged in your career, check out Fluor's New Graduate postings.
