@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle: 
 social:
   website: 'https://www.fluor.com'
-draft: false
+draft: true
 ---
 Fluor builds a better world by applying world‑class expertise to solve its clients' greatest challenges. Fluor's 44,000 employees provide professional and technical solutions that deliver safe, well‑executed, capital‑efficient projects to clients globally. Fluor is ranked 196 among the Fortune 500 companies. With headquarters in Irving, Texas, Fluor has been providing engineering, procurement and construction services for more than 100 years.
  
