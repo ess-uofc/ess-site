@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle: 
 social:
   website: 'https://www.arcurve.com/'
-draft: false
+draft: true
 ---
 Arcurve is one of North America’s leading full-service technology, advisory and software development companies. In 2006, we began with a belief that there was a better way to deliver professional services in the technology industry. Since then we have completed more than 700 projects for clients ranging from start-ups to Fortune 500 companies. From our offices in Calgary, Halifax, Houston and Vancouver we deliver exceptional results for our clients in a diverse range of industries including telecommunications, oil and gas, transportation, private equity, gaming, infrastructure, software, financial and hospitality.
 

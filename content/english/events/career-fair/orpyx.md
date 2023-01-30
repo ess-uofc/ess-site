@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle:
 social:
   website: "https://www.orpyx.com"
-draft: false
+draft: true
 ---
 
 Orpyx® plantar measurement technologies include wearable sensors used to create life-changing health tools and empower patients and practitioners through data analytics. Our platform enables a proxy feedback system. Orpyx is an anagram of proxy. Clever, huh?

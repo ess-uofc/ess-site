@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle:
 social:
   website: "https://www.garmin.com/en-CA/"
-draft: false
+draft: true
 ---
 
 We make products that are engineered on the inside for life on the outside. We do this so our customers can make the most of the time they spend pursuing their passions.

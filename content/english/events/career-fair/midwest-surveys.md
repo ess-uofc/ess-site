@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle:
 social:
   website: "https://midwestsurveys.com"
-draft: false
+draft: true
 ---
 
 Midwest Surveys is an employee owned, professional land surveying firm providing specialized geomatics services to various industries throughout western Canada.

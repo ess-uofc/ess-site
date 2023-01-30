@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle:
 social:
   website: "https://www.ovintiv.com"
-draft: false
+draft: true
 ---
 
 Ovintiv has been at the forefront of our industry’s transition to a “new” business model. We are focused on generating free cash flow and delivering quality returns.
