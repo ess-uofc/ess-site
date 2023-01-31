@@ -7,7 +7,7 @@ layout: career-fair-company
 subtitle: 
 social:
   website: 'https://www.venturies.com/'
-draft: false
+draft: true
 ---
 Venturi Engineering Solutions is a boutique engineering firm based out of Edmonton, Canada specializing in energy based data analytics, optimization and hydraulic modelling.
 
