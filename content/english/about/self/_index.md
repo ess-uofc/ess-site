@@ -4,10 +4,7 @@ description: "Student Experiential Learning Fund"
 draft: false
 bg_image: "images/featue-bg.jpg"
 layout: single
-aliases : [
-    "/SELF",
-    "/self"
-]
+aliases: ["/SELF", "/self"]
 ---
 
 ## About the Fund
@@ -26,22 +23,22 @@ Experiential Learning (EL) is learning–by-doing that bridges knowledge and exp
 
 ## Timetable
 
-| Funding Competition    	| Application Deadline     	| Committee Meeting       	|
-|------------------------	|--------------------------	|-------------------------	|
-| Funding Competition #1 	| 11:59 pm, July 31        	| First Week of August    	|
-| Funding Competition #2 	| 11:59 pm, August 31      	| First Week of September 	|
-| Funding Competition #3 	| 11:59 pm, September 30   	| First Week of October   	|
-| Funding Competition #4 	| 11:59 pm, October 31     	| First Week of November  	|
-| Funding Competition #5 	| 11:59 pm, November 30    	| First Week of December  	|
-| Funding Competition #6 	| 11:59 pm, December 31    	| First Week of January   	|
-| Funding Competition #7 	| ~~11:59 pm, January 31~~ **11:59 pm,  February 14th***    	| First Week of February  	|
-| Funding Competition #8 	| 11:59 pm, February 28/29 	| First Week of March     	|
-
-*In light of the Program Launch, the first Application Deadline will be moved from January 31st to Monday, February 14th 11:59 PM MST. Applications will be reviewed by the SELF Committee that week.
+| Funding Competition     | Application Deadline           | Committee Meeting |
+| ----------------------- | ------------------------------ | ----------------- |
+| Funding Competition #1  | 11:59 pm, July 31, 2022        | August            |
+| Funding Competition #2  | 11:59 pm, August 31, 2022      | September         |
+| Funding Competition #3  | 11:59 pm, September 30, 2022   | October           |
+| Funding Competition #4  | 11:59 pm, October 31, 2022     | November          |
+| Funding Competition #5  | 11:59 pm, November 30, 2022    | December          |
+| Funding Competition #6  | 11:59 pm, December 31, 2022    | January           |
+| Funding Competition #7  | 11:59 pm, January 31, 2023     | February          |
+| Funding Competition #8  | 11:59 pm, February 28/29, 2023 | March             |
+| Funding Competition #9  | 11:59 pm, March 31, 2023       | April             |
+| Funding Competition #10 | 11:59 pm, April 30, 2023       | May               |
 
 ## How to Submit Applications
 
-Applications can be submitted on the Engineering Students’ Society D2L shell in the Dropbox section. Deadlines can be found on the respective Dropbox folder for each Funding Competition. 
+Applications can be submitted on the Engineering Students’ Society D2L shell in the Dropbox section. Deadlines can be found on the respective Dropbox folder for each Funding Competition.
 
 ## When will my Application be Reviewed
 
