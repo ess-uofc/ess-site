@@ -42,7 +42,7 @@ Applications can be submitted on the Engineering Students’ Society D2L shell i
 
 ## When will my Application be Reviewed
 
-All applications for each Funding Competition will be reviewed by the SELF Committee within a week after the Application Deadline. Applicants are encouraged to submit their applications early for activities within each fiscal year.
+All applications for each Funding Competition will be reviewed by the SELF Committee within a month after the Application Deadline. Applicants are encouraged to submit their applications early for activities within each fiscal year.
 
 ## Contact Us
 
