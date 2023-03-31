@@ -4,7 +4,7 @@ description: Apply now
 bg_image: images/featue-bg.jpg
 content_image: images/company/company-group-pic.jpg
 layout: posting
-accepting: true
+accepting: false
 role: Commissioner
 ending_date: 2023-01-29T23:59:00-07:00
 starting_date: 2022-03-30T06:00:00+00:00
