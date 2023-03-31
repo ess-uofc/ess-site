@@ -19,7 +19,7 @@ ESS selects eleven (11) commissioners each year to help plan the day-to-day even
 
 Commissioner positions include: 1) Artistic 2) Administration 3) Community Relations 4) Competitions 5) Diversity 6) Finance 7) Professional Development 8) Publications 9) Social (2 positions) 10) Sponsorship 11) Technology 12) Website 13?) Sustainability
 
-**APPLY HERE: https://forms.gle/XbFZs5HzGjR1D2bbA **
+**APPLY HERE: https://forms.gle/XbFZs5HzGjR1D2bbA**
 
 ### Artistic Commissioner
 
