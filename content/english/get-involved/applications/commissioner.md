@@ -6,20 +6,20 @@ content_image: images/company/company-group-pic.jpg
 layout: posting
 accepting: false
 role: Commissioner
-ending_date: 2022-04-07T06:00:00+00:00
-starting_date: 2022-03-30T06:00:00+00:00
+ending_date: 2023-04-15T06:00:00+00:00
+starting_date: 2023-03-30T06:00:00+00:00
 attachments: []
 job_tags: []
-application_pdf_link: " "
+application_pdf_link: "https://forms.gle/XbFZs5HzGjR1D2bbA"
 aliases:
   - /commissioner
 ---
 
 ESS selects eleven (11) commissioners each year to help plan the day-to-day events and activities of the ESS. Please refer to the job descriptions attached to this application.
 
-Commissioner positions include: 1) Artistic 2) Administration 3) Community Relations 4) Competitions 5) Diversity 6) Finance 7) Professional Development 8) Publications 9) Social (2 positions) 10) Sponsorship 11) Technology
+Commissioner positions include: 1) Artistic 2) Administration 3) Community Relations 4) Competitions 5) Diversity 6) Finance 7) Professional Development 8) Publications 9) Social (2 positions) 10) Sponsorship 11) Technology 12) Website 13?) Sustainability
 
-**APPLY HERE: https://forms.gle/M2SsLf62QkVAAszb9**
+**APPLY HERE: https://forms.gle/XbFZs5HzGjR1D2bbA **
 
 ### Artistic Commissioner
 
@@ -145,6 +145,15 @@ The Technology Commissioner is responsible for maintaining the technological asp
 - Maintain computer and printer software
 - Keep all tools up to date and well documented
 - Work with council members to introduce new technology as needed
+
+### Website Commissioner
+
+The Website Commissioner is responsible for assisting the Vice President of Communications with updating and posting relevant content on the society's website. It is essential to oversee the development and maintenance of the society’s website, with up-to-date information. Additionally, you shall identify and implement digital methods to effectively reach students within the faculty.
+
+- Create and maintain our home page with the most relevant event
+- Update our applications page for every conference or event
+- Recognize our sponsors
+- Add any useful information or tools to grow the website
 
 ### Finance Commissioner
 
