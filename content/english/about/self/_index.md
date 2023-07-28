@@ -38,7 +38,7 @@ Experiential Learning (EL) is learning–by-doing that bridges knowledge and exp
 
 ## How to Submit Applications
 
-Applications can be submitted on the Engineering Students’ Society D2L shell in the Dropbox section. Deadlines can be found on the respective Dropbox folder for each Funding Competition.
+Applications can be submitted via email [self@essucalgary.com](mailto:self@essucalgary.com) by attaching the appropriate application form as listed above. See the Timetable section for deadlines.
 
 ## When will my Application be Reviewed
 
