@@ -38,7 +38,6 @@ body {
   display: flex;
 }
 
-
 .card img {
   align-self: center;
   margin-bottom: 8px;
@@ -125,8 +124,6 @@ a:hover {
 .dept-pres {
   float: left;
   padding-right: 5%;
-  /* display: inline-flexbox; */
-  /* height: 200px; */
 }
 
 .dept-pres-img {
@@ -183,7 +180,8 @@ td {
 }
 
 #navbar-logo {
-  height: 55px;
+  height: 100%;
+  width: 100%;
 }
 
 #head-img-text {
@@ -398,7 +396,7 @@ img.carousel-card-image {
   justify-content: center;
 }
 
-.sponsor-logo>img {
+.sponsor-logo > img {
   width: inherit;
 }
 
@@ -408,7 +406,7 @@ img.carousel-card-image {
   align-items: center;
 }
 
-.sponsor-deal>a {
+.sponsor-deal > a {
   display: flex;
   justify-content: space-between;
   align-items: center;
