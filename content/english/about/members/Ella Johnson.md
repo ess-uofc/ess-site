@@ -1,9 +1,10 @@
 ---
 name: Ella Johnson
-memberType: commissioner
-position: Sponsorship Commissioner
+memberType: executive
+position: VP External
 pronouns: she/her
-email: sponsorship@essucalgary.com
-image: /images/about/council-members/Ella-Johnson.jpg
+email: external@essucalgary.com
+image: /images/about/council-members/Ella Johnson.jpeg
 ---
-Hello everyone! My name is Ella Johnson, and I am the Sponsorship Commissioner for the upcoming year. My role primarily involves connecting with potential sponsors to help support ESS for the academic year. My favourite part about the ESS is how I get to interact with the campus community. I love how ESS offers incredibly unique and diverse experiences to the student body. I’m going into my second year of a dual degree in Mechanical Engineering and Business. In my spare time I like to read, play piano, bake, play Stardew Valley, and volunteer. I work during the school year, teaching piano to all levels, and ages. This year, I’m excited to explore new ideas and events with ESS. I’m extremely energetic, outgoing, and caffeinated. I love to meet new people, so don’t be afraid to stop and chat if you see me around!
+
+Hello! Welcome to Schulich. I’m in my third year of mechanical engineering and business, but I’m also excited to be your VP External! I’ve been in ESS since my first year. You can usually find me in the ESS office (room ENE 134 A) with an energy drink in hand. My job is to manage conference delegations, ESS documents, and the Schulich Engineering Competition. Make sure to get your Junior Design teams ready for October! I’m passionate about helping students get involved. My advice to you? Grades aren’t everything, take care of your mental health, and don’t overextend yourself. At the same time, don’t be afraid to extend yourself a little! This is your community for the next 4 (or more) years. Connect with it. I promise it will pay off. I’m extremely energetic, caffeinated, and outgoing, so feel free to reach out to external@essucalgary.com if you want to get involved or chat!

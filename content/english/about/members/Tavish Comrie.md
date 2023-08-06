@@ -1,9 +1,10 @@
 ---
 name: Tavish Comrie
-memberType: commissioner
-position: Social Commissioner
+memberType: executive
+position: VP Student Life
 pronouns: he/him
-email: social.comm2@essucalgary.com
-image: /images/about/council-members/placeholder.png
+email: studentlife@essucalgary.ca
+image: /images/about/council-members/Tavish Comrie.png
 ---
-My name is Tavish Comrie and I am one of the two student life commissioners. I am in my second year of engineering and am in geomatics. My favourite things to do when I have free time include playing or watching sports, watching shows or movies, going to the gym, and playing piano. I am also an athlete on the UofC rowing team, am a BC 4-H Ambassador, and am a Community Ambassador in Cascade this year. I hope to see you around!
+
+I am a third year geomatics engineering student who enjoys both watching and playing sports in my free time. I am also a CA in residence alongisde being an athlete and board member on the rowing team. I am a very chatty and outgoing person so if you see me around don't be afraid to come up and say hi.
