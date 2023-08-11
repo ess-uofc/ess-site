@@ -10,7 +10,7 @@ president:
   bio_img: "/images/teams/team-1.jpg"
   email: "ceus@ucalgary.ca"
 social:
-  website: "https://wcm.ucalgary.ca/ceus/"
+  website: "https://www.ceusucalgary.ca/"
   facebook: ""
   twitter: ""
   instagram: ""
@@ -18,4 +18,4 @@ social:
   youtube: ""
 ---
 
-CEUS represents all undergraduate Civil Engineering students at the Schulich School of Engineering. We provide academic, professional development, and social events and resources to students throughout the year. Our most notable events include a Winter Career Fair, Professor/Student mixers, and an onion-eating competition. These events allow students to network and interact with industry professionals and professors at various stages of their careers. We are dedicated to providing experiential learning opportunities to the student body and offer an annual international trip to approximately 20 students. Previous destinations include Tokyo and Singapore! CEUS is also responsible for the Civil Engineering homeroom located in F block, where students can study and socialize in a quiet environment. You can find us on our website (www.ceusucalgary.ca), Instagram (@ceusucalgary), or LinkedIn (https://www.linkedin.com/company/ceus-ucalgary
+CEUS represents all undergraduate Civil Engineering students at the Schulich School of Engineering. We provide academic, professional development, and social events and resources to students throughout the year. Our most notable events include a Winter Career Fair, Professor/Student mixers, and an onion-eating competition. These events allow students to network and interact with industry professionals and professors at various stages of their careers. We are dedicated to providing experiential learning opportunities to the student body and offer an annual international trip to approximately 20 students. Previous destinations include Tokyo and Singapore! CEUS is also responsible for the Civil Engineering homeroom located in F block, where students can study and socialize in a quiet environment. You can find us on our website (www.ceusucalgary.ca), Instagram (@ceusucalgary), or LinkedIn (https://www.linkedin.com/company/ceus-ucalgary)
