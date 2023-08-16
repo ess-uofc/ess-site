@@ -2,25 +2,19 @@
 
 {{ partial "page-title.html" . }}
 
-{{ $data := index .Site.Data .Site.Language.Lang }}
-
-{{ if $data.council.about.enable }}
-{{ with $data.council.about }}
 <section class="service-about section">
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h2>{{ .title | markdownify }}</h2>
-        <p class="mt-30">{{ .content | markdownify }}</p>
+        <h2>About the Team</h2>
+        <p class="mt-30">{{ .Content }}</p>
       </div>
       <div class="col-md-6">
-        <img class="img-responsive" src="{{ .image | absURL }}">
+        <img class="img-responsive" src="{{ .Params.about_image | absURL }}">
       </div>
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
 
 <!-- Exec Listing -->
 {{ if .Params.executive_team.enable }}
@@ -49,10 +43,9 @@
   </div>
 </section>
 {{ end }}
-
 <!-- /Exec Listing -->
 
-<!-- Comish Listing -->
+<!-- Commissioner Listing -->
 {{ if .Params.commissioner_team.enable }}
 <section class="service">
   <div class="container">
@@ -79,68 +72,6 @@
   </div>
 </section>
 {{ end }}
-
-<!-- /Comish Listing -->
-
-
-<!-- Council Listing -->
-{{ if $data.council.council_listing.enable }}
-{{ with $data.council.council_listing }}
-<section class="service">
-  <div class="container">
-    <div class="row">
-      <div class="section-title">
-        <h2>{{ .title | markdownify }}</h3>
-        <p>{{ .description | markdownify }}</p>
-      </div>
-    </div>
-    <div class="row council-container">
-      {{ range .council_member }}
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <img class="img-responsive img-council" src="{{ .image | absURL }}">
-          <h3>{{ .name | markdownify }}</h3>
-          <h4>{{ .title | markdownify }}</h4>
-          <p>{{ .biog | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-
-<!-- /Council Listing -->
-
-<!-- Commissioner Listing -->
-{{ if $data.council.commissioner_listing.enable }}
-{{ with $data.council.commissioner_listing }}
-<section class="service">
-  <div class="container">
-    <div class="row">
-      <div class="section-title">
-        <h2>{{ .title | markdownify }}</h3>
-        <p>{{ .description | markdownify }}</p>
-      </div>
-    </div>
-    <div class="row" style="display: flex; flex-wrap: wrap;">
-      {{ range sort .council_member "title" "asc"}}
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <img class="img-responsive img-council" src="{{ .image | absURL }}">
-          <h3>{{ .name | markdownify }}</h3>
-          <h4>{{ .title | markdownify }}</h4>
-          <p>{{ .biog | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-
 <!-- /Commissioner Listing -->
 
 <!-- FYR Listing -->
@@ -170,7 +101,6 @@
 </section>
 {{ end }}
 {{ end }}
-
 <!-- /FYR Listing -->
 
 {{ end }}
