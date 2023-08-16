@@ -97,6 +97,8 @@ a:hover {
 }
 
 .dept-container {
+  display: flex;
+  align-items: center;
   min-height: 200px;
   vertical-align: middle;
   padding-bottom: 3%;
@@ -147,8 +149,6 @@ a:hover {
 .dept-list-info {
   float: left;
   min-height: 200px;
-  padding-right: 5%;
-  /* padding-left: 2%; */
   min-width: 200px;
 }
 

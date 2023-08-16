@@ -1,5 +1,6 @@
 ---
 title: 2023-2024 Council
+description: "Get to know more about your Engineering Students’ Society council members"
 bg_image: images/about/202021-group-council-1-banner.jpg
 about_image: "images/about/202021-group-council-1.jpg"
 layout: council

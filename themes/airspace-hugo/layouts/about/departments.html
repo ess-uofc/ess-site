@@ -1,42 +1,31 @@
-{{ define "main" }}
-
-{{ partial "page-title.html" . }}
-
-{{ $data := index .Site.Data .Site.Language.Lang }}
-
-<section class="">
-    <div class="container">
-      <div class="row">
-        <div class="">
-          <h2>{{ .Params.title}}</h2>
-          <p>{{ .Content }}</p>
-        </div>
-      </div>
-    </div>
-  </section>
+{{ define "main" }} {{ partial "page-title.html" . }}
 
 <section>
-    <div class="container">
-        <div class="row">
-            <h2>Department Listings</h2>
-        </div>  
+  <div class="container">
+    <div class="row">
+      <h2>Engineering Department Societies</h2>
+    </div>
     {{ range (where .Site.Pages "Layout" "department") }}
     <div class="row dept-container">
-        <div class="dept-list-info">
-            <a class="" href="{{ .Permalink }}" style="width: 50%; ">
-                <img class="dept-list-logo" src="{{ .Params.Logo | relURL }}" alt="{{ .Title }}">
-            </a>
-        </div>
-        <div class="">
-            <h3 class=""><a href="{{ .Permalink }}">{{ .Title }} | {{ .Params.Subtitle }}</a></h3>
-            <h4>{{ .Params.President.title}}: {{ .Params.President.name}}</h4>
-            <p>{{ .Summary | truncate 200 }}</p>
-            
-        </div>
+      <div class="dept-list-info">
+        <a class="" href="{{ .Permalink }}" style="width: 50%">
+          <img
+            class="dept-list-logo"
+            src="{{ .Params.Logo | relURL }}"
+            alt="{{ .Title }}"
+          />
+        </a>
+      </div>
+      <div class="">
+        <h3 class="">
+          <a href="{{ .Permalink }}">{{ .Title }} | {{ .Params.Subtitle }}</a>
+        </h3>
+        <h4>{{ .Params.President.title}}: {{ .Params.President.name}}</h4>
+        <p>{{ .Summary | truncate 200 }}</p>
+      </div>
     </div>
-    {{ end }} 
-
-    </div>
+    {{ end }}
+  </div>
 </section>
 
 {{ end }}
