@@ -17,7 +17,7 @@ fyr_team:
   description: "2023-2024"
 ---
 
-The Engineering Students’ Society Council is a group of student volunteers dedicated to the improvement of your time at the Schulich School of Engineering. We are a diverse group of students just like you, doing our best to be leaders for the engineering community here at the UofC. Our Board of Directors consists of the ESS President, 9 portfolio executives, and 10 departmental representatives elected by you as well as 10 first year representatives. Alongside our commissioner, we advocate for engineering students to the faculty, host social and professional events, and provide an array of services aimed at making your time at Schulich enjoyable, and memorable!
+The Engineering Students’ Society Council is a group of student volunteers dedicated to the improvement of your time at the Schulich School of Engineering. We are a diverse group of students just like you, doing our best to be leaders for the engineering community here at the UofC. Our Board of Directors consists of the ESS President, 8 portfolio executives, 9 departmental representatives elected by you, and 10 first year representatives. Alongside our commissioners, we advocate on behalf of engineering students to the school, host social and professional events, and provide an array of services aimed at making your time at Schulich enjoyable!
 
 We can’t wait to see you around!
 
