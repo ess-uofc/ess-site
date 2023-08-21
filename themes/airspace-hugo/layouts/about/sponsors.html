@@ -1,19 +1,5 @@
-{{ define "main" }}
-
-{{ partial "page-title.html" . }}
-
-{{ $data := index .Site.Data .Site.Language.Lang }}
-
-<!-- <section class="">
-    <div class="container">
-      <div class="row">
-        <div class="">
-          <h2>{{ .Params.title}}</h2>
-          <p>{{ .Content }}</p>
-        </div>
-      </div>
-    </div>
-  </section> -->
+{{ define "main" }} {{ partial "page-title.html" . }} {{ $data := index
+.Site.Data .Site.Language.Lang }}
 
 <section>
   <div class="contianer">
@@ -21,12 +7,12 @@
     <div class="sponsor-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "gold" }}
       <a class="sponsor-logo gold-sponsor" href="{{.Params.website}}">
-        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}"/>
+        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
       </a>
       {{end}}
     </div>
   </div>
-  <hr>
+  <hr />
 </section>
 
 <section>
@@ -35,12 +21,12 @@
     <div class="sponsor-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "silver" }}
       <a class="sponsor-logo silver-sponsor" href="{{.Params.website}}">
-        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}"/>
+        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
       </a>
       {{end}}
     </div>
   </div>
-  <hr>
+  <hr />
 </section>
 
 <section>
@@ -49,12 +35,12 @@
     <div class="sponsor-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "bronze" }}
       <a class="sponsor-logo bronze-sponsor" href="{{.Params.website}}">
-        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}"/>
+        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
       </a>
       {{end}}
     </div>
   </div>
-  <hr>
+  <hr />
 </section>
 
 <section>
@@ -63,7 +49,7 @@
     <div class="sponsor-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "none" }}
       <a class="sponsor-logo general-sponsor" href="{{.Params.website}}">
-        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}"/>
+        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
       </a>
       {{end}}
     </div>

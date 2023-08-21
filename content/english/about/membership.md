@@ -7,7 +7,7 @@ bg_image: images/about/202021-group-council-1-banner.jpg
 layout: membership
 aliases: ["/card"]
 buy_now:
-  enable: true
+  enable: false
   title: "Buy a Membership Now"
   content: "Support your Engineering Students’ Society today!"
   bg_image: "images/about/202021-group-council-1-banner.jpg"

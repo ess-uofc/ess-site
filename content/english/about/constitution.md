@@ -1,6 +1,6 @@
 ---
 title: "Constitution"
-description: ""
+description: "The ESS constitution contains the policies and procedures that we abide and govern by"
 draft: false
 bg_image: "images/featue-bg.jpg"
 layout: "constitution"
@@ -10,17 +10,14 @@ layout: "constitution"
 
 # Engineering Students’ Society
 
-
 Revision Number 8 
 Revision Date March 7, 2019
 Last Revised March 6, 2018
-
 
 ## PREAMBLE:
 
 This document is the Constitution of the University of Calgary Engineering Students’
 Society (ESS). It contains the governing rules and regulations of the Society.
-
 
 ## ARTICLE 1 – NAME
 
@@ -49,7 +46,6 @@ discussion of engineering problems and the exchange of views in matters related
 to engineering education;
 f) To establish, construct, and maintain suitable quarters for the Society, and to
 permit the quarters to be used on terms to be agreed upon by the BoD;
-
 
 g) To establish and support or aid in the establishment of funds or trusts calculated
 to benefit the members of the Society; and,
@@ -80,7 +76,6 @@ distribution of the property of the Society upon dissolution of the Society.
 d) Students and alumni may be added by an extraordinary resolution by BoD to a
 list indicating that the person is barred from all ESS events and their ESS
 membership be revoked due to breaking member conduct guidelines as outlined
-
 
 in the policy manual. Such member has the right to formally appeal this decision
 to the BoD.
@@ -117,7 +112,6 @@ xiv) First Year Representatives;
 xv) Department Society Presidents;
 xvi) Past President
 
-
 ● Honourary Member of the Society.
 d) The Affiliates of the Society shall consist of:
 i) Directors as deemed appropriate by the Officers of the Society;
@@ -150,7 +144,6 @@ ix) Maintain a transition document; and,
 x) Submit an Annual Report and proposed changes to the Policy Manual and
 Constitution at the Annual General Meeting.
 b) The Vice President Academic shall:
-
 
 i) Be responsible for any academic affairs related to or involving the Society,
 including member representation;
@@ -190,7 +183,6 @@ applications;
 v) Be charged with the supervision of the affairs of the Sponsorship and
 Community Relations Commissioners;
 
-
 vi) Perform any additional duties as directed by the Policy Manual and the
 BoD;
 vii) Maintain a transition document; and,
@@ -227,7 +219,6 @@ Commissioner;
 vi) Perform any additional duties as directed by the Policy Manual and the
 BoD;
 vii) Maintain a transition document; and,
-
 
 viii) Submit an Annual Report and proposed changes to the Policy Manual at
 the Annual General Meeting.
@@ -266,7 +257,6 @@ ix) Submit and Annual Report and proposed changes to the Policy Manual at
 the Annual General Meeting.
 i) The Vice President Student Life shall:
 
-
 i) Ensure proper social, athletic, and charity events are delivered;
 ii) Be responsible for liaising with committees and task forces that influence
 student life at The Schulich School of Engineering;
@@ -303,7 +293,6 @@ i) Be responsible for duties relating to partnership documentation and
 applications;
 ii) Be responsible for maintaining partnerships on the membership card;
 
-
 iii) Be responsible for acquiring partnerships for various events;
 iv) Maintain a transition document; and,
 v) Perform any additional duties as directed by the Policy Manual and the
@@ -336,7 +325,6 @@ iii) Maintain a transition document; and,
 iv) Perform any additional duties as directed by the Policy Manual and the
 Executive Officers.
 r) The Mentorship Commissioner shall:
-
 
 i) Act as a liaison with the Associate Dean of Professional Development
 regarding the Peer Mentorship Program;
@@ -374,7 +362,6 @@ sponsorship of the Society within corporate community;
 ii) Be responsible for assisting the VP Corporate Relations​ ​with maintaining
 relationships with our corporate community;
 
-
 iii) Be charged with the supervision of the affairs of the Career Fair
 Director(s);
 iv) Be responsible for assisting the VP Corporate Relations​ ​with duties
@@ -410,7 +397,6 @@ y) The Past President or person appointed by the Past President shall:
 i) Act in an advisory capacity to the BoD.
 **ARTICLE 6 - ADMINISTRATOR OF THE SOCIETY**
 
-
 The Society may have an Administrator following the terms:
 a) The Administrator shall not be a current student of the university;
 b) The position is by contract which is passed by vote during a BoD meeting;
@@ -437,7 +423,6 @@ provided it is approved by an extraordinary resolution (No less than 75% of
 votes) of the Society, and so long as the goals of the Department Society meet
 that of the Society; In other case, the Specialization Society Presidents will
 remain in a non-voting seat.
-
 
 ## ARTICLE 8 – MEETINGS OF THE SOCIETY
 
@@ -474,7 +459,6 @@ v) Motions by the active membership must be submitted to the Annual
 General Meeting Chair at least ten (10) days before the Annual General
 Meeting. Counter-proposals must be submitted to the Chair at least seven
 (7) days before the meeting; and,
-
 
 vi) Adjournment of any General Meeting to any time may occur, at which
 outstanding, relevant business may be transacted.
@@ -514,7 +498,6 @@ c) Executive Officer Meetings shall be called as deemed appropriate by the
 President of the Society, and shall follow such guidelines as determined by the
 President.
 
-
 ## ARTICLE 9 – ELECTION OF THE OFFICERS OF THE SOCIETY
 
 a) The Chief Returning Officer (CRO) shall be responsible for all proceedings of the
@@ -550,7 +533,6 @@ meeting any of the following requirements:
 excluding First Year Representatives; or,
 ● Has served one full term as the President of a Department Society in
 accordance with Article 7 of this Constitution.
-
 
 ii) The candidate must have a good academic standing for a full engineering
 course load over the previous academic semester as defined by the
@@ -588,7 +570,6 @@ e) Any campaign activity consistent with relevant university policies shall be
 permitted, up to the discretion of the CRO and approved by the BoD as stated in
 Article 9, subsection (a), subpoint (ii);
 
-
 f) Election of the Executive Officers of the Society shall start (first voting day) no
 more than fourteen (14) days after the Annual General Meeting. The BoD through
 resolution shall determine the election date. Eligible voters shall be any current
@@ -618,7 +599,6 @@ place on the date determined by the Students’ Union to be Bermuda Shorts Day.
 The terms of office of incoming Officers begin on this day, and end on this day
 the following year.
 **ARTICLE 10 – ACTIVITIES HOSTED BY THE SOCIETY**
-
 
 a) Any Organizing Committee wishing to host an Activity (Conference or
 Competition) offered by either the Canadian Federation of Engineering Students
@@ -656,7 +636,6 @@ ii) The BoD shall vote to accept the motion. The matter shall be tabled until
 the following BoD Meeting. Notice shall immediately be given one (1) week
 before the Impeachment Hearing;
 
-
 iii) The Officer shall be given fair opportunity to defend their position. The
 matter may, at most, be deferred once if the Officer is absent from their
 Impeachment Hearing;
@@ -690,7 +669,6 @@ ten (10) days prior to the meeting. Grammatical and syntactical amendments, or
 formatting changes which do not change the content, can be made by an extraordinary
 resolution at a meeting of the BoD. Policy Manual changes can be amended by a
 resolution at a meeting of the BoD.
-
 
 ## ARTICLE 13 – AMENDMENT HISTORY
 
