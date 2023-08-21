@@ -133,11 +133,12 @@ a:hover {
 }
 
 .dept-list-logo {
-  max-width: 200px;
-  min-width: 200px;
-  height: auto;
-  padding: 15%;
-  margin-right: 5%;
+  max-width: 125px;
+  min-width: 125px;
+}
+
+.dept-info-conatiner {
+  margin-left: 25px;
 }
 
 .middle-helper {
@@ -147,9 +148,7 @@ a:hover {
 }
 
 .dept-list-info {
-  float: left;
-  min-height: 200px;
-  min-width: 200px;
+  margin: auto;
 }
 
 .hours-table th {
@@ -232,7 +231,6 @@ td {
   width: 50%;
   float: left;
   padding: 20px;
-  align: center;
   background-color: #c5332c;
   color: white;
 }

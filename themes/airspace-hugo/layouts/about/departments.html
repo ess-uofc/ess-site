@@ -1,6 +1,6 @@
 {{ define "main" }} {{ partial "page-title.html" . }}
 
-<section>
+<section class="section">
   <div class="container">
     <div class="row">
       <h2>Engineering Department Societies</h2>
@@ -8,7 +8,7 @@
     {{ range (where .Site.Pages "Layout" "department") }}
     <div class="row dept-container">
       <div class="dept-list-info">
-        <a class="" href="{{ .Permalink }}" style="width: 50%">
+        <a href="{{ .Permalink }}" style="display: inline-block">
           <img
             class="dept-list-logo"
             src="{{ .Params.Logo | relURL }}"
@@ -16,8 +16,8 @@
           />
         </a>
       </div>
-      <div class="">
-        <h3 class="">
+      <div class="dept-info-conatiner">
+        <h3>
           <a href="{{ .Permalink }}">{{ .Title }} | {{ .Params.Subtitle }}</a>
         </h3>
         <h4>{{ .Params.President.title}}: {{ .Params.President.name}}</h4>
