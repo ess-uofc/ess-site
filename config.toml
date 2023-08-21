@@ -151,11 +151,11 @@ text = "COVID-19 Information"
 enable = true
 link = "/about/officehours"
 
-# Store
+# Bookings
 [params.nav_button]
 enable = true
-label = "Store"
-link = "https://store.essucalgary.com/"
+label = "Bookings"
+link = "https://ess-bookings.square.site/"
 
 # Plugins
 [[params.plugins.css]]
