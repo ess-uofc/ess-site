@@ -8,9 +8,7 @@
   </div>
 </section>
 
-{{ if .Params.accepting}}
-
-<section>
+<section class="section" style="padding-top: 0px">
   <div class="container">
     <div class="row">
       {{ $postings := 0 }} {{ range where .Pages "Layout" "posting"}} {{ if
@@ -41,4 +39,4 @@
   </div>
 </section>
 
-{{end}} {{ end }}
+{{ end }}
