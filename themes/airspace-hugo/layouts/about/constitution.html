@@ -3,20 +3,21 @@
 
 <section class="section">
   <div class="container">
-    <h1>{{ .Title }}</h1>
+    <h2>{{ .Title }}</h2>
+    {{.Content}}
+    <hr />
+    <h2>University of Calgary Engineering Students’ Society Constitution</h2>
     {{ if $data.constitution.info.enable }} {{ with $data.constitution.info }}
-
     <p>
       Revision Number: {{.last_revision.number}} | Revised: {{
       .last_revision.date }}
     </p>
-
-    <h2>Preamble</h2>
+    <h3>Preamble</h3>
     {{.preamble | markdownify }} {{ end }} {{ end }} {{ if
     $data.constitution.articles.enable }} {{ with $data.constitution.articles }}
     {{ range .article_items}}
     <div class="container">
-      <h2>{{ .name }}</h2>
+      <h3>{{ .name }}</h3>
       <div>{{ .content | markdownify }}</div>
     </div>
     {{end}} {{end}} {{end}}
