@@ -1,8 +1,6 @@
 ---
 title: ESS Membership
-description:
-  Members of the Engineering Students’ Society get access to events hosted
-  by the society along with many other perks
+description: ESS members get access to events hosted by the society along with many other perks
 bg_image: images/about/202021-group-council-1-banner.jpg
 layout: membership
 aliases: ["/card"]

@@ -372,19 +372,15 @@ img.carousel-card-image {
   flex-wrap: wrap;
 }
 
-.gold-sponsor {
-  width: 65%;
+.gold-sponsor-logo {
+  width: 50%;
 }
 
-.silver-sponsor {
-  width: 35%;
+.silver-sponsor-logo {
+  width: 40%;
 }
 
-.bronze-sponsor {
-  width: 30%;
-}
-
-.general-sponsor {
+.bronze-sponsor-logo {
   width: 30%;
 }
 

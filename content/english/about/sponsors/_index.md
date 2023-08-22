@@ -5,3 +5,5 @@ layout: sponsors
 bg_image: images/featue-bg.jpg
 draft: false
 ---
+
+The ESS would like to thank every one of our sponsors for making it possible for us to improve your student experience. Their contributions are much appreciated and we applaud them for making a positive impact on the next generation of engineers!
