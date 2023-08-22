@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/events/career-fair/career-fairbg.jpg"
-  title: "2022 Career Fair"
-  content: "Chat with some amazing companies - open to all years"
+  bg_image: "/images/fyr_tryouts.jpg"
+  title: "2023 First Year Rep Tryouts"
+  content: "We're looking for first years to join our team - be on the lookout for applications!"
   button:
-    enable: true
-    label: "MORE INFO"
-    link: "https://essucalgary.com/events/career-fair/"
+    enable: false
+    label: "More about council"
+    link: "https://essucalgary.com/about/council/"
 
 ############################# About #################################
 about:
