@@ -15,4 +15,4 @@ The ESS hosts an annual career fair where students get the chance network and co
 
 ### Esports Tournament
 
-A relatively new addition to the ESS line of events, we host an annual esports tournament for students to unwind and get their gaming in before exams. Register with your team to compete against others at a LAN tournament at the university!
+A relatively new addition to the ESS line of events, we host an annual esports tournament for students to unwind and get their gaming in before exams. Register with your team to compete against others in a LAN tournament at the university!

@@ -1,7 +1,7 @@
 ---
 title: ESS Membership
 description: ESS members get access to events hosted by the society along with many other perks
-bg_image: images/about/202021-group-council-1-banner.jpg
+bg_image: images/about/202223-council-1-banner.png
 layout: membership
 aliases: ["/card"]
 buy_now:

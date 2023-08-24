@@ -1,9 +1,9 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/fyr_tryouts.jpg"
-  title: "2023 First Year Rep Tryouts"
-  content: "We're looking for first years to join our team - be on the lookout for applications!"
+  bg_image: "/images/events/2021/frosh/frosh-ad2.jpg"
+  title: "FROSH Week 2023"
+  content: "Get ready to start the year off with a bang!"
   button:
     enable: false
     label: "More about council"
@@ -15,7 +15,7 @@ about:
   title: "About Us"
   description: "The Engineering Students' Society (ESS) works hard to ensure engineering students have the information and services they need. This website contains a collection of resources to help you - academic, social and everything in between."
   content: "The ESS's mission is to advocate for engineering students and promote a strong sense of community. The ESS will represent student voices while maintaining accountability and transparency. We aim for every engineering student to be supported socially, academically, and professionally."
-  image: "images/about/202021-group-council-1.jpg"
+  image: "images/about/201819-council.jpg"
 
 membership:
   enable: true

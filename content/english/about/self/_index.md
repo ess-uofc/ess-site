@@ -2,7 +2,7 @@
 title: "SELF"
 description: "Student Experiential Learning Fund"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/about/202223-council-1-banner.png"
 layout: single
 aliases: ["/SELF", "/self"]
 ---
@@ -23,15 +23,15 @@ Experiential Learning (EL) is learning–by-doing that bridges knowledge and exp
 
 ## Timetable
 
-| Funding Competition     | Application Deadline           | Committee Meeting |
-| ----------------------- | ------------------------------ | ----------------- |
+| Funding Competition     | Application Deadline     | Committee Meeting |
+| ----------------------- | ------------------------ | ----------------- |
 | Funding Competition #1  | 11:59 pm, July 31        | August            |
 | Funding Competition #2  | 11:59 pm, August 31      | September         |
 | Funding Competition #3  | 11:59 pm, September 30   | October           |
 | Funding Competition #4  | 11:59 pm, October 31     | November          |
 | Funding Competition #5  | 11:59 pm, November 30    | December          |
 | Funding Competition #6  | 11:59 pm, December 31    | January           |
-| Funding Competition #7  | 11:59 pm, January 31    | February          |
+| Funding Competition #7  | 11:59 pm, January 31     | February          |
 | Funding Competition #8  | 11:59 pm, February 28/29 | March             |
 | Funding Competition #9  | 11:59 pm, March 31       | April             |
 | Funding Competition #10 | 11:59 pm, April 30       | May               |
