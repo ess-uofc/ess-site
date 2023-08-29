@@ -291,6 +291,7 @@ ul ul {
   list-style-type: circle;
   list-style-position: inside;
   margin-left: 10px;
+  padding: 10px;
 }
 
 .img-council {
