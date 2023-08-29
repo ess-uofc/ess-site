@@ -1,90 +1,40 @@
 ############################### Banner ##############################
 banner:
-  enable : true
-  bg_image : "/images/events/career-fair/career-fairbg.jpg"
-  title : "2022 Career Fair"
-  content : "Chat with some amazing companies - open to all years"
+  enable: true
+  bg_image: "/images/events/2021/frosh/frosh-ad2.jpg"
+  title: "FROSH Week 2023"
+  content: "Get ready to start the year off with a bang!"
   button:
-    enable : true
-    label : "MORE INFO"
-    link : "https://essucalgary.com/events/career-fair/"
+    enable: false
+    label: "More about council"
+    link: "https://essucalgary.com/about/council/"
 
 ############################# About #################################
 about:
-  enable : true
-  title : "About Us"
-  description : "The Engineering Students' Society (ESS) works hard everyday to ensure you have the information and services you need. This website contains a collection of resources to help you - academic, social and everything in between."
-  content : "Our Mission: The ESS advocates for engineering students and promotes a strong sense of community
-  Mandate and Goals: For every engineering student to be supported socially, academically, and professionally. ESS will represent student voices while maintaining accountability and transparency.."
-  image : "images/about/202021-group-council-1.jpg"
+  enable: true
+  title: "About Us"
+  description: "The Engineering Students' Society (ESS) works hard to ensure engineering students have the information and services they need. This website contains a collection of resources to help you - academic, social and everything in between."
+  content: "The ESS's mission is to advocate for engineering students and promote a strong sense of community. The ESS will represent student voices while maintaining accountability and transparency. We aim for every engineering student to be supported socially, academically, and professionally."
+  image: "images/about/201819-council.jpg"
 
 membership:
-    enable: true
-    title: "Become a Member"
-    description: "Members of the Engineering Students’ Society get access to events hosted by the society along with many other perks."
-    button_text: "Learn More"
-    button_link: "about/membership"
+  enable: true
+  title: "Become a Member"
+  description: "Members of the Engineering Students’ Society get access to events hosted by the society along with many other perks."
+  button_text: "Learn More"
+  button_link: "about/membership"
 
 posts:
-  enable : true
-  title : "News"
+  enable: true
+  title: "News"
 
-############################ call to action ###########################
+############################ Call to Action ###########################
 cta:
-  enable : true
-  bg_image : "images/call-to-action-bg.jpg"
-  title : "We would love to hear any feedback you have for us"
-  content : "Let us know what you would like to see from us. Let us know what you like and what you want to see more of."
+  enable: true
+  bg_image: "images/call-to-action-bg.jpg"
+  title: "We would love to hear any feedback you have for us"
+  content: "Let us know what you would like to see from us. Let us know what you like and what you want to see more of."
   button:
-    enable : true
-    label : "Give Us Feedback"
-    link : "contact"
-
-############################# Funfacts ###############################
-funfacts:
-  enable : false
-  title : "Fun Facts About Us"
-  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-    # funfacts item loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Cups Of Coffee"
-      count : "99"
-
-    # funfacts item loop
-    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Article Written"
-      count : "45"
-
-    # funfacts item loop
-    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
-      count : "125"
-
-    # funfacts item loop
-    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
-      count : "200"
-
-  testimonial_slider:
-    # testimonial item loop
-    - name : "Raymond Roy"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-    # testimonial item loop
-    - name : "Randi Renin"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-    # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    enable: true
+    label: "Give Us Feedback"
+    link: "contact"

@@ -38,7 +38,6 @@ body {
   display: flex;
 }
 
-
 .card img {
   align-self: center;
   margin-bottom: 8px;
@@ -98,6 +97,8 @@ a:hover {
 }
 
 .dept-container {
+  display: flex;
+  align-items: center;
   min-height: 200px;
   vertical-align: middle;
   padding-bottom: 3%;
@@ -125,8 +126,6 @@ a:hover {
 .dept-pres {
   float: left;
   padding-right: 5%;
-  /* display: inline-flexbox; */
-  /* height: 200px; */
 }
 
 .dept-pres-img {
@@ -134,11 +133,12 @@ a:hover {
 }
 
 .dept-list-logo {
-  max-width: 200px;
-  min-width: 200px;
-  height: auto;
-  padding: 15%;
-  margin-right: 5%;
+  max-width: 125px;
+  min-width: 125px;
+}
+
+.dept-info-conatiner {
+  margin-left: 25px;
 }
 
 .middle-helper {
@@ -148,11 +148,7 @@ a:hover {
 }
 
 .dept-list-info {
-  float: left;
-  min-height: 200px;
-  padding-right: 5%;
-  /* padding-left: 2%; */
-  min-width: 200px;
+  margin: auto;
 }
 
 .hours-table th {
@@ -183,7 +179,8 @@ td {
 }
 
 #navbar-logo {
-  height: 55px;
+  height: 100%;
+  width: 100%;
 }
 
 #head-img-text {
@@ -234,7 +231,6 @@ td {
   width: 50%;
   float: left;
   padding: 20px;
-  align: center;
   background-color: #c5332c;
   color: white;
 }
@@ -295,6 +291,7 @@ ul ul {
   list-style-type: circle;
   list-style-position: inside;
   margin-left: 10px;
+  padding: 10px;
 }
 
 .img-council {
@@ -376,19 +373,15 @@ img.carousel-card-image {
   flex-wrap: wrap;
 }
 
-.gold-sponsor {
-  width: 65%;
+.gold-sponsor-logo {
+  width: 50%;
 }
 
-.silver-sponsor {
-  width: 35%;
+.silver-sponsor-logo {
+  width: 40%;
 }
 
-.bronze-sponsor {
-  width: 30%;
-}
-
-.general-sponsor {
+.bronze-sponsor-logo {
   width: 30%;
 }
 
@@ -398,7 +391,7 @@ img.carousel-card-image {
   justify-content: center;
 }
 
-.sponsor-logo>img {
+.sponsor-logo > img {
   width: inherit;
 }
 
@@ -408,7 +401,7 @@ img.carousel-card-image {
   align-items: center;
 }
 
-.sponsor-deal>a {
+.sponsor-deal > a {
   display: flex;
   justify-content: space-between;
   align-items: center;

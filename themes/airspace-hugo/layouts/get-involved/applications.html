@@ -1,49 +1,42 @@
-{{ define "main" }}
-
-{{ partial "page-title.html" . }}
+{{ define "main" }} {{ partial "page-title.html" . }}
 
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12">
-        {{ .Content }}
-      </div>
+      <div class="col-lg-12">{{ .Content }}</div>
     </div>
   </div>
 </section>
 
-{{ if .Params.accepting}}
-
-<section class="section">
+<section class="section" style="padding-top: 0px">
   <div class="container">
     <div class="row">
-      {{ $postings := 0 }}
-        {{ range where .Pages "Layout" "posting"}}
-        {{ if .Params.accepting}}
-        {{ $postings = add $postings 1}}
-        <a href="{{ .Permalink }}" class="app-link">
-          <div class="app-card">
+      {{ $postings := 0 }} {{ range where .Pages "Layout" "posting"}} {{ if
+      .Params.accepting}} {{ $postings = add $postings 1}}
+      <a href="{{ .Permalink }}" class="app-link">
+        <div class="app-card">
           <div>
             <h2>{{ .Params.Title }}</h2>
             <p>Type: {{.Params.Role}}</p>
-            <p>Closing Date: {{dateFormat "Jan 2, 2006" .Params.ending_date }}</p>
+            <p>
+              Closing Date: {{dateFormat "Jan 2, 2006" .Params.ending_date }}
+            </p>
           </div>
           <div>
             <p>{{ .Content | truncate 250 }}</p>
           </div>
         </div>
-        </a>
-        {{end}}
-        {{end}}
-      {{ if lt $postings 1 }}
-        <div class="app-card">
-          <p>No applications are available at the moment, please check back later for new opportunities!</p>
-        </div>
+      </a>
+      {{end}} {{end}} {{ if lt $postings 1 }}
+      <div class="app-card">
+        <p>
+          No applications are available at the moment, please check back later
+          for new opportunities!
+        </p>
+      </div>
       {{ end }}
     </div>
   </div>
 </section>
-
-{{end}}
 
 {{ end }}

@@ -9,51 +9,27 @@ title = "Engineering Students' Society U of C"
 
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Engineering Students Society University of Calgary. All Rights Reserved"
+copyright = "Copyright &copy; 2023 Engineering Students Society University of Calgary. All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 
-# Nav options
-[[menu.footer]]
-URL = "about/officehours"
-name = "Office Hours"
-weight = 2
+# Footer
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
-# [[menu.main]]
-# URL = "resources"
-# name = "Resources"
-# parent = "Services"
-# weight = 1
-# [[menu.main]]
-# URL = "projects-hub"
-# name = "Projects Hub"
-# parent = "Get Involved"
-# weight = 1
-# [[menu.main]]
-# URL = "volunteer-hub"
-# name = "Volunteer Hub"
-# parent = "Get Involved"
-# weight = 2
-# [[menu.main]]
-# URL = "get-involved/conferences"
-# name = "Conferences"
-# parent = "Get Involved"
-# weight = 3
+[[menu.footer]]
+URL = "about/officehours"
+name = "Office Hours"
+weight = 2
+
+# Nav options
 [[menu.main]]
-URL = "get-involved/applications"
-name = "Applications"
-parent = "Get Involved"
-weight = 4
-[[menu.main]]
-URL = "get-involved/teams"
-name = "Teams"
-parent = "Get Involved"
-weight = 5
+hasChildren = true
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "about/council"
 name = "Council"
@@ -69,52 +45,57 @@ URL = "about/membership"
 name = "Membership"
 parent = "About"
 weight = 3
-[[menu.main]]
-URL = "about/sponsors"
-name = "Sponsors"
-parent = "About"
-weight = 4
+# [[menu.main]]
+# URL = "about/sponsors"
+# name = "Sponsors"
+# parent = "About"
+# weight = 4
 [[menu.main]]
 URL = "about/constitution"
 name = "Constitution"
 parent = "About"
 weight = 5
-# [[menu.main]]
-# URL = "bookings"
-# name = "Bookings"
-# parent = "Services"
-# weight = 2
-# [[menu.main]]
-# URL = "events/career-fair"
-# name = "Career Fair"
-# parent = "Events"
-# weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact us"
-weight = 6
-[[menu.main]]
-URL = '/about/self'
-name = "SELF"
-weight = 5
-[[menu.main]]
-hasChildren = true
-name = "Get Involved"
-weight = 4
-# [[menu.main]]
-# hasChildren = true
-# name = "Services"
-# weight = 3
+
 [[menu.main]]
 hasChildren = true
 URL = "events"
 name = "Events"
 weight = 2
+# [[menu.main]]
+# URL = "events/career-fair"
+# name = "Career Fair"
+# parent = "Events"
+# weight = 1
+
 [[menu.main]]
 hasChildren = true
-name = "About"
-weight = 1
+name = "Get Involved"
+weight = 3
+# [[menu.main]]
+# URL = "get-involved/conferences"
+# name = "Conferences"
+# parent = "Get Involved"
+# weight = 1
+[[menu.main]]
+URL = "get-involved/applications"
+name = "Applications"
+parent = "Get Involved"
+weight = 2
+# [[menu.main]]
+# URL = "get-involved/teams"
+# name = "Teams"
+# parent = "Get Involved"
+# weight = 3
 
+[[menu.main]]
+URL = '/about/self'
+name = "SELF"
+weight = 4
+
+[[menu.main]]
+URL = "contact"
+name = "Contact us"
+weight = 5
 
 [params]
 
@@ -151,11 +132,11 @@ text = "COVID-19 Information"
 enable = true
 link = "/about/officehours"
 
-# Store
+# Bookings
 [params.nav_button]
 enable = true
-label = "Store"
-link = "https://store.essucalgary.com/"
+label = "Bookings"
+link = "https://ess-bookings.square.site/"
 
 # Plugins
 [[params.plugins.css]]
