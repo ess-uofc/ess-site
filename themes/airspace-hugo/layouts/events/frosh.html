@@ -1,166 +1,64 @@
-{{ define "main" }}
+{{ define "main" }} {{ partial "page-title.html" . }} {{ $data := index
+.Site.Data .Site.Language.Lang }}
 
-{{ partial "page-title.html" . }}
-
-{{ $data := index .Site.Data .Site.Language.Lang }}
-
-<section>
-    <div class="container">
-        <div class="row">
-            {{.Content }}
-        </div>
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <h2>FROSH Week 2023</h2>
+      {{.Content }}
     </div>
+    <div class="row" style="text-align: center; padding: 10px 0px">
+      <img src="{{.Params.schedule | relURL}}" />
+    </div>
+  </div>
 </section>
 
 <section>
-    <div class="container">
-        <div class="row frosh-calendar-row">
-            <table class="frosh-calendar">
-                <tr>
-                    <td></td>
-                    <th>Tuesday September 7th</th>
-                    <td></td>
-                    <th>Wednesday September 8th</th>
-                    <td></td>
-                    <th>Thursday September 9th</th>
-                    <td></td>
-                    <th>Friday September 10th</th>
-                    <td></td>
-                    <th>Saturday September 11th</th>
-                </tr>
-                <tr>
-                    <td class="calendar-time">11am</td>
-                    <td colspan="6" />
-                    <td class="calendar-event" rowspan="5">ENGG Fair</td>
-                    <td />
-                    <td class="calendar-event" rowspan="7">Field Day</td>
-                </tr>
-                <tr>
-                    <td />
-                </tr>
-                <tr>
-                    <td class="calendar-time">12pm</td>
-                    <td class="calendar-event" rowspan="6">Catch Patches and Clubs Fair</td>
-                    <td />
-                    <td class="calendar-event" rowspan="5">College Olympics</td>
-                    <td />
-                    <td class="calendar-event" rowspan="5">Major Tug O' War</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">1pm</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">2pm</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">3pm</td>
-                </tr>
-                <tr>
-                    <td />
-                </tr>
-                <tr>
-                    <td class="calendar-time">4pm</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">5pm</td>
-                    <td />
-                    <td />
-                    <td />
-                    <td />
-                    <td class="calendar-event" rowspan="6">FROSH Stage</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">6pm</td>
-                    <td class="calendar-event" rowspan="5">Quizheads</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">7pm</td>
-                    <td />
-                    <td class="calendar-event" rowspan="5">Movie Night</td>
-                    <td />
-                    <td />
-                    <td />
-                    <td />
-                    <td class="calendar-event" rowspan="7">Virtual Games Night</td>
-                </tr>
-                <tr>
-                    <td />
-                    <td />
-                    <td />
-                    <td />
-                </tr>
-                <tr>
-                    <td class="calendar-time">8pm</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">9pm</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">10pm</td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td class="calendar-time">11pm</td>
-                </tr>
-            </table>
-            <span>Note: schedule not to scale, check event registration for precise time</span>
+  <div class="container">
+    <div class="row">
+      <h2>Events</h2>
+      <div class="card-carousel">
+        {{range where .Site.Pages "Params.froshevent" true}}
+        <div class="card carousel-item col-sm-6 col-md-4 col-lg-3">
+          <img class="carousel-card-image" src="{{ .Params.image | absURL }}" />
+          <div class="carousel-card-content">
+            <h4>{{.Params.title}}</h4>
+            <p>
+              <i class="ion-calendar"></i> {{.Params.eventdate}} @ {{.Params.time}}</i
+              >
+            </p>
+            {{if isset .Params "location"}}
+            <p>
+              <i class="ion-ios-location-outline"> {{.Params.location}}</i>
+            </p>
+            {{end}}
+            <p>{{.Params.description}}</p>
+            {{if .Params.registration_link}}
+            <a class="btn btn-main" href="{{.Params.registration_link}}"
+              >REGISTER NOW</a
+            >
+            {{end}}
+          </div>
         </div>
+        {{end}}
+      </div>
     </div>
+  </div>
 </section>
 
-<section>
-    <div class="container">
-        <div class="row">
-            <h2>Events</h2>
-            <div class="card-carousel">
-                {{range where .Site.Pages "Params.froshevent" true}}
-                <div class="card carousel-item col-sm-6 col-md-4 col-lg-3">
-                    <img class="carousel-card-image" src="{{ .Params.image | absURL }}">
-                    <div class="carousel-card-content">
-                        <h4>{{.Params.title}}</h4>
-                        <span>{{.Params.eventdate}} @ {{.Params.time}}</span>
-                        {{if isset .Params "location"}}
-                        <p>
-                            <i class="ion-ios-location-outline"> {{.Params.location}}</i>
-                        </p>
-                        {{end}}
-                        <p>{{.Params.description}}</p>
-                        {{if .Params.registration.required}}
-                        {{if .Params.registration.active}}
-                        <a class="btn btn-main" href="{{.Params.registration.link}}">REGISTER NOW</a>
-                        {{else if .Params.registration.custom_button}}
-                        <a class="btn btn-main" href="{{.Params.registration.link}}">{{.Params.registration.button_text}}</a>
-                        {{else}}
-                        <p>Registration not yet available, check back later</p>
-                        {{end}}
-                        {{else if .Params.registration.custom_message}}
-                        <p>{{.Params.registration.message_text}}</p>
-                        {{else}}
-                        <p>Registration not required</p>
-                        {{end}}
-                    </div>
-                </div>
-                {{end}}
-            </div>
-        </div>
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <h2>Got Questions?</h2>
+      <p>
+        Reach out to
+        <a href="mailto:studentlife@essucalgary.ca"
+          >studentlife@essucalgary.ca</a
+        >
+        for questions, concerns, or feedback!
+      </p>
     </div>
-</section>
-
-<section>
-    <div class="container">
-        <div class="row">
-            <h2>Got Questions?</h2>
-            <p>Reach out to our frosh week team at <a href="mailto:frosh@essucalgary.com">frosh@essucalgary.com</a></p>
-        </div>
-    </div>
+  </div>
 </section>
 
 {{ end }}
