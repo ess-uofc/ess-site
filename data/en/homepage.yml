@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Learn More"
-    link: "https://essucalgary.com/events/frosh/"
+    link: "events/frosh/"
 
 ############################# About #################################
 about:
