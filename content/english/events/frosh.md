@@ -1,15 +1,12 @@
 ---
 title: "FROSH Week"
-description: "Check out our events"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2020-03-23T13:05:29+06:00
+description: "Start the year off right!"
+date: 2023-09-05T00:00:00+06:00
 draft: false
-bg_image: "/images/events/2021/frosh/froshheader.jpg"
-layout: 'frosh'
-aliases : [
-    "/frosh"
-]
+bg_image: "/images/events/2021/frosh/frosh-ad2.jpg"
+schedule: "/images/events/2023/frosh/frosh-2023-schedule.png"
+layout: "frosh"
+aliases: ["/frosh"]
 ---
 
-# Frosh Week 2021
-Frosh week is the best way to start the year with a BANG! The purpose is to welcome the first years into Schulich as smoothly as possible. This is your opportunity to get to know your classmates, meet upper-year students, and learn a little bit about what it means to be a part of the engineering community before you begin the grind.
+Welcome to the new engineering class! Studying can wait, there'll be plenty of time for that later. For now, the ESS has a lot planned for FROSH 2023. There's sure to be a FROSH event for you no matter who you are, so be sure to get out there and have some fun before the year gets going! This is a great chance to get to know your classmates and make new friends for the upcoming year

@@ -1,11 +1,13 @@
 ul {
   font-family: $primary-font;
-  list-style: none;
+  list-style-type: disc;
+  list-style-position: inside;
   padding: 10px 20px;
 }
 
 ol {
   font-family: $primary-font;
+  list-style-position: inside;
   padding: 10px 20px;
 }
 

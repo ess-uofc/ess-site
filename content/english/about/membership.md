@@ -17,22 +17,18 @@ Support the Engineering Students’ Society by becoming a member today! The Engi
 
 _Members Receive:_
 
-### Discounts on Events
+### Discounts on Events and Merchandise
 
-- ESS members will receive access to exclusive opportunities, which include but are not limited to:
+- ESS members receive access to exclusive opportunities, which include but are not limited to:
   - Being able to apply for CFES and WEC engineering student conferences
   - Being able to participate in the Schulich Engineering Competition
-- ESS members will also receive a discount on paid events and services such as
+- ESS members also receive a discount on paid events and services such as
   - Discounts on tickets to events such as the ESS Engineering Dinners and grad banquets
   - Discounts on graduation services such grad photos, yearbook, and grad gifts
   - Discounts on any paid social, academic, or professional ESS event
+- ESS members receive a discount on all new & existing merchandise in the ESS store, with discounts ranging from 10% to 25% off!
 
-### Discounts on Merchandise
-
-- ESS members will receive a discount on all new & existing merchandise in the ESS store, with discounts ranging from 10% to 25% off.
-- ESS merch discounts are valid both instore and online. Visit [store.essucalgary.com](store.essucalgary.com)
-
-### Discounts through Partners
+### Discounts through our Partners
 
 - To be announced!
 

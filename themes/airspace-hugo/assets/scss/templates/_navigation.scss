@@ -12,11 +12,11 @@
     border: 0px;
 
     .navbar-nav {
-      padding-top: 10px;
+      padding: 10px 0px 0px 0px;
 
-      >li {
-        >a {
-          color: #5C5C5C;
+      > li {
+        > a {
+          color: #5c5c5c;
           padding: 10px 15px;
 
           font : {
@@ -24,7 +24,7 @@
             size: 14px;
           }
 
-          text-transform:uppercase;
+          text-transform: uppercase;
 
           &:hover,
           &:focus {
@@ -49,7 +49,7 @@
         font-weight: normal;
         color: #808080;
         padding: 10px 20px;
-        @include transition (all, 0.3s, ease);
+        @include transition(all, 0.3s, ease);
 
         &:hover {
           background: $primary-color;
@@ -61,6 +61,6 @@
   }
 }
 
-.nav .open>a {
+.nav .open > a {
   background: transparent;
 }

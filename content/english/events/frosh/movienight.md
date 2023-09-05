@@ -1,15 +1,9 @@
 ---
 title: "Movie Night"
-description: "It's a MOVIE NIGHT! We will have free food for all ESS members! So bring your friends, and enjoy a nice evening with us!"
-location: "ENG 60"
-image: "/images/events/2021/frosh/movienight.jpg"
-eventdate: "September 8"
-time: "7pm - 9pm"
-registration:
-  required: true
-  active: true
-  link: "https://www.eventbrite.ca/e/165820628965"
+description: "It's a MOVIE NIGHT, so bring your friends and enjoy a nice evening with us! All ESS members will get free pizza while supplies last!"
+location: "ENG 207"
+eventdate: "September 5"
+time: "6pm - 10pm"
 froshevent: true
 layout: "froshredirect"
 ---
-

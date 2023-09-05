@@ -5,9 +5,9 @@ banner:
   title: "FROSH Week 2023"
   content: "Get ready to start the year off with a bang!"
   button:
-    enable: false
-    label: "More about council"
-    link: "https://essucalgary.com/about/council/"
+    enable: true
+    label: "Learn More"
+    link: "events/frosh/"
 
 ############################# About #################################
 about:
