@@ -8,7 +8,7 @@ president:
   name: "Vincent Paul Morga"
   title: "SEE President"
   bio_img: "/images/teams/team-1.jpg"
-  email: "mustafa.alasadi@ucalgary.ca"
+  email: "vincentpaul.morga@ucalgary.ca"
 social:
   website: "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/energy-engineering"
   facebook: "https://www.facebook.com/OfficialSEEUofC"

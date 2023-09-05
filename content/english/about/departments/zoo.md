@@ -9,7 +9,7 @@ president:
   name: Shivam Desai
   title: ZOO President
   bio_img: "/images/teams/team-1.jpg"
-  email: president@zooengg.ca
+  email: "president@zooengg.ca"
 social:
   website: https://zooengg.ca/
   facebook: ""
