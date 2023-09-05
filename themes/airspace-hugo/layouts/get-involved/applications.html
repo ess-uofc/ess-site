@@ -1,6 +1,6 @@
 {{ define "main" }} {{ partial "page-title.html" . }}
 
-<section class="section">
+<section class="section" style="padding-bottom: 0px">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">{{ .Content }}</div>
@@ -16,8 +16,7 @@
       <a href="{{ .Permalink }}" class="app-link">
         <div class="app-card">
           <div>
-            <h2>{{ .Params.Title }}</h2>
-            <p>Type: {{.Params.Role}}</p>
+            <h2 style="margin-top: 0">{{ .Params.Title }}</h2>
             <p>
               Closing Date: {{dateFormat "Jan 2, 2006" .Params.ending_date }}
             </p>

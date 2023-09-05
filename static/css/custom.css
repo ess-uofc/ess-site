@@ -282,16 +282,15 @@ td {
   width: 100%;
 }
 
-ul {
-  list-style-type: disc;
-  list-style-position: inside;
-}
-
 ul ul {
   list-style-type: circle;
   list-style-position: inside;
   margin-left: 10px;
   padding: 10px;
+}
+
+ul li:last-child ul {
+  padding-bottom: 0px;
 }
 
 .img-council {
