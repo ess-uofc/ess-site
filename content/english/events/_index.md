@@ -2,7 +2,7 @@
 title: "ESS Events"
 description: "Check out our events"
 draft: false
-bg_image: "images/fs-year-dinner.jpg"
+bg_image: "images/dinner-ad2.jpg"
 ---
 
 ### Frosh Week

@@ -1,8 +1,7 @@
 ---
 title: First Year Representative
 description: Apply now
-bg_image: /images/frosh-banner.jpg
-content_image: images/company/company-group-pic.jpg
+bg_image: /images/group-photo1.jpg
 layout: posting
 accepting: true
 ending_date: 2023-09-18T23:59:00.000Z

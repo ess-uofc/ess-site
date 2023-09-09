@@ -4,7 +4,7 @@ description: "What would engineering be without drinks? Get a sneak peak at your
 location: "???"
 eventdate: "September 8"
 time: "7pm - 1am (6pm bus check-in)"
-registration_link: "https://www.eventbrite.com/e/frosh-week-tap-the-town-tickets-700568919497?aff=oddtdtcreator"
+registration_link: "https://www.eventbrite.com/e/frosh-week-tap-the-town-tickets-700568919497"
 froshevent: true
 layout: "froshredirect"
 ---
