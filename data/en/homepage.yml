@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/events/2023/frosh/frosh-ad.jpg"
-  title: "FROSH Week 2023"
-  content: "Get ready to start the year off with a bang!"
+  bg_image: "/images/fyr-tryouts-ad.jpg"
+  title: "First Year Rep Applications"
+  content: "We're looking for first year reps - apply now!"
   button:
     enable: true
     label: "Learn More"
-    link: "events/frosh/"
+    link: "get-involved/applications/firstyearrep/"
 
 ############################# About #################################
 about:
