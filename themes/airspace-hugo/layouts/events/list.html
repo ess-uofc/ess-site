@@ -6,13 +6,11 @@
     <div class="row">
       <div class="col-md-12">
         <h2>{{ .Title }}</h2>
-        <p>
-          The ESS hosts a number of social and professional events throughout
-          the year. Whether you want to develop your soft skills, gain industry
-          connections, or have a good time, the ESS has an event for you. We
-          can't wait to see you out there!
-        </p>
+        <p>{{.Content}}</p>
+        {{ range where .Site.Pages ".Params.eventlisting" true}}
+        <h3>{{.Title}}</h3>
         <p>{{ .Content }}</p>
+        {{end}}
       </div>
     </div>
   </div>
