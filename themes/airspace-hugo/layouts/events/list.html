@@ -1,5 +1,5 @@
-{{ define "main" }} {{ partial "page-title.html" . }} {{ $data := index
-.Site.Data .Site.Language.Lang }}
+{{ define "main" }} {{ partial "page-title.html" . }} {{ partial "update.html" .
+}} {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <section class="section">
   <div class="container">
