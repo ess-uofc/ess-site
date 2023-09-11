@@ -71,14 +71,14 @@ weight = 2
 hasChildren = true
 name = "Get Involved"
 weight = 3
-# [[menu.main]]
-# URL = "get-involved/conferences"
-# name = "Conferences"
-# parent = "Get Involved"
-# weight = 1
 [[menu.main]]
 URL = "get-involved/applications"
 name = "Applications"
+parent = "Get Involved"
+weight = 1
+[[menu.main]]
+URL = "get-involved/conferences"
+name = "Conferences"
 parent = "Get Involved"
 weight = 2
 # [[menu.main]]

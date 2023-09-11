@@ -1,8 +1,7 @@
 ---
 title: "Conferences"
-draft: false
-bg_image: "images/about/202021-group-council-1-banner.jpg"
+bg_image: "images/conference-ad-banner.jpg"
 layout: "conferences"
 ---
 
-The ESS is proud to offer opportunities to send students to engineering conferences. Below is a list to apply.
+The Engineering Students’ Society is proud to offer opportunities to send students to engineering conferences. Conferences are a great way to network with your fellow peers from other engineering schools, so please apply to any that interest you!
