@@ -1,8 +1,7 @@
 ---
-title: "FROSH Week"
+title: "Esports Tournament"
 description: "Start the year off right!"
 bg_image: "/images/events/2023/frosh/frosh-ad.jpg"
-schedule: "/images/events/2023/frosh/frosh-2023-schedule.png"
 layout: "frosh"
 ---
 

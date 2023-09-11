@@ -8,7 +8,7 @@
     {{ range (where .Site.Pages "Layout" "department") }}
     <div class="row dept-container">
       <div class="dept-list-info">
-        <a href="{{ .Permalink }}" style="display: inline-block">
+        <a href="{{ .Permalink }}">
           <img
             class="dept-list-logo"
             src="{{ .Params.Logo | relURL }}"

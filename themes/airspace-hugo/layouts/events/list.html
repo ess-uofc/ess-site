@@ -10,6 +10,7 @@
         {{ range where .Site.Pages ".Params.eventlisting" true}}
         <h3>{{.Title}}</h3>
         <p>{{ .Content }}</p>
+        <a class="btn btn-main" href="{{ .Permalink }}">Learn More</a>
         {{end}}
       </div>
     </div>

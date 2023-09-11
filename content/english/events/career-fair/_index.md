@@ -1,9 +1,7 @@
 ---
 title: "Career Fair"
-draft: false
 bg_image: "images/about/202021-group-council-1-banner.jpg"
 layout: "career-fair"
-draft: false
 ---
 
 The Engineering Students’ Society (ESS) will be hosting our second in-person Career Fair since the pandemic. Join us on Thursday, February 9th from 9:00 AM - 3:00 pm (MST). You don't have to stay at the event for the full 6 hours; you can pop in and out, as well as drop in when you see the company you really want to speak to!
