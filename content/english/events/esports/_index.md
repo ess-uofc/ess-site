@@ -1,8 +1,10 @@
 ---
 title: "Esports Tournament"
-description: "Start the year off right!"
-bg_image: "/images/events/2023/frosh/frosh-ad.jpg"
-layout: "frosh"
+description: "Are ya winning?"
+bg_image: "/images/events/2023/esports/esports-ad-banner.jpg"
+layout: "esports"
 ---
 
-FROSH is our way of welcoming the new engineering class! Studying can wait, there'll be plenty of time for that later. There's sure to be a FROSH event for you no matter who you are, so be sure to get out there and have some fun before the year gets going! This is a great chance to get to know your classmates and make new friends for the upcoming year. See what to expect and the schedule of events below!
+The annual ESS esports tournament is a charity tournament hosted in the Schulich School of Engineering. For anyone who has dreams of being an esports player, your time has come! Gaming computers and food are provided for players at this in person LAN event, so no there's no copium here. Turn on the livestream or drop by the atrium to see the action yourself!
+
+Registeration is required for this event. The schedule and tournament details for the 2023-2024 esports tournament will be posted here, so please check back for those!
