@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/fyr-tryouts-ad.jpg"
-  title: "First Year Rep Applications"
-  content: "We're looking for first year reps - apply now!"
+  bg_image: "/images/events/2023/sec/sec-ad2.jpg"
+  title: "Schulich Engineering Competition"
+  content: "Our annual engineering competition is coming up! Sign up to compete now!"
   button:
     enable: true
     label: "Learn More"
-    link: "get-involved/applications/firstyearrep/"
+    link: "events/sec/"
 
 ############################# About #################################
 about:

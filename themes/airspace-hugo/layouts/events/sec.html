@@ -1,0 +1,27 @@
+{{ define "main" }} {{ partial "page-title.html" . }} {{ $data := index
+.Site.Data .Site.Language.Lang }}
+
+<section class="section" style="padding-bottom: 0px">
+  <div class="container">
+    <div class="row">
+      <h2>{{.Title}}</h2>
+      {{.Content }}
+    </div>
+    <div class="row">
+      {{range where .Site.Pages "Params.secevent" true}}
+      <div>
+        <h3>{{ .Title }}</h3>
+        {{ .Content }}
+      </div>
+      {{end}}
+      <a
+        class="btn btn-main"
+        href="{{.Params.registration_link}}"
+        target="_blank"
+        >REGISTER NOW</a
+      >
+    </div>
+  </div>
+</section>
+
+{{ end }}
