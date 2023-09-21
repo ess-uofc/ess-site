@@ -2,7 +2,7 @@
 title: "Constitution"
 description: "The ESS constitution contains the policies and procedures that we abide and govern by"
 draft: false
-bg_image: "images/about/202223-council-1-banner.png"
+bg_image: "images/conference-ad-banner.jpg"
 layout: "constitution"
 ---
 

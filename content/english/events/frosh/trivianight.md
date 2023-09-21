@@ -4,7 +4,7 @@ description: "We all know engineers love taking tests, so come down to the Den f
 location: "The Den"
 eventdate: "September 6"
 time: "5:30pm - 8pm"
-registration_link: "https://www.eventbrite.com/e/frosh-week-den-trivia-tickets-706380070807?aff=oddtdtcreator"
+registration_link: "https://www.eventbrite.com/e/frosh-week-den-trivia-tickets-706380070807"
 froshevent: true
 layout: "froshredirect"
 ---

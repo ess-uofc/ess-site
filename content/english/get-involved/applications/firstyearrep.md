@@ -1,12 +1,10 @@
 ---
 title: First Year Representative
 description: Apply now
-bg_image: /images/frosh-banner.jpg
-content_image: images/company/company-group-pic.jpg
+bg_image: /images/group-photo1.jpg
 layout: posting
 accepting: true
-ending_date: 2023-09-18T23:59:00.000Z
-starting_date: 2023-08-28T00:00:00.000Z
+expiryDate: 2023-09-18T23:59:00.000Z
 attachments: []
 job_tags: []
 application_link: https://forms.gle/xZybL4VPEZQxUQ5d6

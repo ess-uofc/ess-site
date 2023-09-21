@@ -3,8 +3,8 @@ type: post
 is_index: "false"
 title: 2023-2024 First Year Representatives Applications are open!
 date: 2023-08-28T00:00:00.000Z
-image: /images/img_8637.jpg
-bg_image: /images/frosh-banner.jpg
+image: /images/news/fyr-application-ad.jpg
+bg_image: /images/group-photo1.jpg
 author: ESS
 description: ESS will be selecting First Year Representatives (FYR) to be on
   council this year. We are looking for students who are ready to hit the ground

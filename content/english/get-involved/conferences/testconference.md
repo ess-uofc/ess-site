@@ -1,13 +1,12 @@
 ---
 title: Test Conference
-description: test
-bg_image: images/about/202021-group-council-1-banner.jpg
 logo: images/ess-logo.png
 layout: conference
 accepting: false
+ending_date: 2023-09-18T23:59:00.000Z
+starting_date: 2023-08-28T00:00:00.000Z
 application_form: "https://docs.google.com/forms/d/e/1FAIpQLSdBuSK9UgPufow_A00bSmARyfALIckVGqhdtDtf7JZFamKMrA/viewform?embedded=true"
 subtitle:
-apply: #
 social:
   website: "https://zooengg.ca/"
   facebook: ""

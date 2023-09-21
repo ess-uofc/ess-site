@@ -17,9 +17,7 @@
         <div class="app-card">
           <div>
             <h2 style="margin-top: 0">{{ .Params.Title }}</h2>
-            <p>
-              Closing Date: {{dateFormat "Jan 2, 2006" .Params.ending_date }}
-            </p>
+            <p>Closing Date: {{dateFormat "Jan 2, 2006" .ExpiryDate }}</p>
           </div>
           <div>
             <p>{{ .Content | truncate 250 }}</p>

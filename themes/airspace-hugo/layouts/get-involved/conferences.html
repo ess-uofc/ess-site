@@ -1,48 +1,52 @@
-{{ define "main" }}
+{{ define "main" }} {{ partial "page-title.html" . }}
 
-{{ partial "page-title.html" . }}
-
-{{ $data := index .Site.Data .Site.Language.Lang }}
-
-<section class="">
+<section class="section" style="padding-bottom: 0px">
   <div class="container">
     <div class="row">
-      <div class="">
-        <h2>{{ .Params.title}}</h2>
-        <p>{{ .Content }}</p>
-      </div>
+      <div class="col-lg-12">{{ .Content }}</div>
     </div>
   </div>
 </section>
 
-<section>
+<section class="section" style="padding-top: 0px">
   <div class="container">
     <div class="row">
-      <h2>Conference Listings</h2>
-    </div>
-    {{ $conferencesLive := 0 }}
-    {{ range (where .Site.Pages "Layout" "conference") }}
-    {{ if .Params.accepting}}
-    {{ $conferencesLive = add $conferencesLive 1 }}
-    <div class="row dept-container">
-      <div class="dept-list-info">
-        <a class="" href="{{ .Permalink }}">
-          <img class="dept-list-logo" src="{{ .Params.Logo | relURL }}" alt="{{ .Title }}">
-        </a>
+      {{ $postings := 0 }} {{ range where .Pages "Layout" "conference"}} {{ if
+      .Params.accepting}} {{ $postings = add $postings 1}}
+      <a href="{{ .Permalink }}" class="app-link">
+        <div class="app-card">
+          <div
+            class="dept-container"
+            style="padding-bottom: 0px; min-height: auto"
+          >
+            <div class="dept-list-info">
+              <img
+                class="dept-list-logo"
+                src="{{ .Params.Logo | relURL }}"
+                alt="{{ .Title }}"
+              />
+            </div>
+            <div class="dept-info-container">
+              <h2 style="margin-top: 0">{{ .Params.Title }}</h2>
+              <p>
+                Closing Date: {{dateFormat "Jan 2, 2006" .Params.ending_date }}
+              </p>
+              <div>
+                <p>{{ .Content | truncate 250 }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+      {{end}} {{end}} {{ if lt $postings 1 }}
+      <div class="app-card">
+        <p>
+          No conference applications are available at the moment, please check
+          back later for new opportunities!
+        </p>
       </div>
-      <div class="dept-text-container">
-        <h3 class=""><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-        <!-- <h4>{{ .Title}}: {{ .Params.President.name}}</h4> -->
-        <p>{{ .Summary | truncate 200 }}</p>
-      </div>
+      {{ end }}
     </div>
-    {{ end }}
-    {{ end }}
-    {{ if lt $conferencesLive 1 }}
-    <div class="app-card" style="margin-bottom: 1em;">
-      <p>No conference applications are available at the moment, please check back later!</p>
-    </div>
-    {{ end }}
   </div>
 </section>
 

@@ -2,65 +2,65 @@
 label: Job Posting
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: Title
-  description: Title of the Job Posting
-  config:
-    required: true
-- type: text
-  name: description
-  label: Subtitle
-- type: file
-  name: bg_image
-  label: Header Image
-  default: "/images/frosh-banner.jpg"
-- name: application_form
-  type: text
-  config:
-    required: false
-  label: Application Form
-  description: URL of the Application Form
-- type: boolean
-  name: accepting
-  description: Is the posting currently active on the site?
-  default: true
-  label: Posting Active
-- name: starting_date
-  type: datetime
-  description: The date applications will start to be accepted
-  config:
-    required: true
-    date_format: 
-    time_format: 
-    display_utc: false
-  label: Posting Starting Date
-  default: now
-- name: ending_date
-  type: datetime
-  label: Posting Ending Date
-  description: The date which we will not accept any more applications
-  config:
-    required: true
-    date_format: MMMM Do, YYYY
-    time_format: 
-    display_utc: false
-    export_format: MM/DD/YYYY
-- name: job_tags
-  type: tag_list
-  default: []
-  label: Job Tags
-  description: Tags that describe the job
-- name: attachments
-  type: image_gallery
-  config: {}
-  label: Posting Attachments
-  description: Files to attach to the posting
-- type: text
-  name: layout
-  label: layout
-  hidden: true
-  description: Parameter specifying if the posting will be enabled on the website
-  default: posting
+  - type: text
+    name: title
+    label: Title
+    description: Title of the Job Posting
+    config:
+      required: true
+  - type: text
+    name: description
+    label: Subtitle
+  - type: file
+    name: bg_image
+    label: Header Image
+    default: "/images/group-photo1.jpg"
+  - name: application_form
+    type: text
+    config:
+      required: false
+    label: Application Form
+    description: URL of the Application Form
+  - type: boolean
+    name: accepting
+    description: Is the posting currently active on the site?
+    default: true
+    label: Posting Active
+  - name: starting_date
+    type: datetime
+    description: The date applications will start to be accepted
+    config:
+      required: true
+      date_format:
+      time_format:
+      display_utc: false
+    label: Posting Starting Date
+    default: now
+  - name: ending_date
+    type: datetime
+    label: Posting Ending Date
+    description: The date which we will not accept any more applications
+    config:
+      required: true
+      date_format: MMMM Do, YYYY
+      time_format:
+      display_utc: false
+      export_format: MM/DD/YYYY
+  - name: job_tags
+    type: tag_list
+    default: []
+    label: Job Tags
+    description: Tags that describe the job
+  - name: attachments
+    type: image_gallery
+    config: {}
+    label: Posting Attachments
+    description: Files to attach to the posting
+  - type: text
+    name: layout
+    label: layout
+    hidden: true
+    description: Parameter specifying if the posting will be enabled on the website
+    default: posting
 pages:
-- content/english/get-involved/applications/firstyearrep.md
+  - content/english/get-involved/applications/firstyearrep.md

@@ -1,14 +1,13 @@
-{{ define "main" }} {{ partial "page-title.html" . }} {{ $data := index
-.Site.Data .Site.Language.Lang }}
+{{ define "main" }} {{ partial "page-title.html" . }} {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <section class="section">
   <div class="container">
     <div class="row">
-      <h2>FROSH Week 2023</h2>
+      <h2>{{.Title}}</h2>
       {{.Content }}
     </div>
     <div class="row" style="text-align: center; padding: 10px 0px">
-      <img src="{{.Params.schedule | relURL}}" />
+      <img src="{{.Params.schedule | relURL}}" style="max-width: 100%;"/>
     </div>
   </div>
 </section>
