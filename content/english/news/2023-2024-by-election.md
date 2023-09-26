@@ -16,7 +16,7 @@ The ESS By-Election is coming up! We're holding elections for the following posi
 - Vice President Academic
 - Vice President Finance
 
-Candidates must be an active member of the Society. ESS memberships can be purchased in the ESS Office (ENE 134A) between 10am - 3pm (hours subject to change). The election will be held between September 25th - September 27th online through Qualtrics; if we're able to, the election may move to D2L. Don't miss your chance to vote!
+Candidates must be an active member of the Society. ESS memberships can be purchased in the ESS Office (ENE 134A) between 10am - 3pm (hours subject to change). The election will be held between September 25th - September 27th online through Qualtrics; if we're able to, the election may move to D2L. Don't miss your chance to [vote](https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_1Iin1LBYOkllGcu)!
 
 Important Dates:
 

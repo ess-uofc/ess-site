@@ -2,12 +2,12 @@
 banner:
   enable: true
   bg_image: "/images/events/2023/sec/sec-ad2.jpg"
-  title: "Schulich Engineering Competition"
-  content: "Our annual engineering competition is coming up! Sign up to compete now!"
+  title: "2023-2024 ESS By-Election"
+  content: "Don't miss your chance, vote now!"
   button:
     enable: true
-    label: "Learn More"
-    link: "events/sec/"
+    label: "VOTE"
+    link: "https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_1Iin1LBYOkllGcu"
 
 ############################# About #################################
 about:
