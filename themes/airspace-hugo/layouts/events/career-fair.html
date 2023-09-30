@@ -6,31 +6,62 @@
     <div class="row">
       <h2>{{.Title}}</h2>
       {{.Content }}
+      <a
+        class="btn btn-main"
+        href="{{.Params.registration_link}}"
+        target="_blank"
+        >REGISTER NOW</a
+      >
     </div>
   </div>
   <div class="container">
-    <!-- <div class="row">
+    <div class="row">
       <h3>Companies Attending</h3>
-    </div> -->
-    {{ range (where .Site.Pages "Layout" "career-fair-company") }}
-    <div class="row dept-container">
+    </div>
+    <div style="display: flex; align-items: center; flex-wrap: wrap">
+      {{ range (where .Site.Pages "Layout" "career-fair-company") }}
+      <!-- <div class="row dept-container">
       <div class="dept-list-info">
-        <a href="{{ .Params.social.website }}">
+        <a href="{{ .Params.website }}">
           <img
             class="dept-list-logo"
-            src="{{ .Params.Logo | relURL }}"
+            src="{{ .Params.logo | relURL }}"
             alt="{{ .Title }}"
           />
         </a>
       </div>
       <div class="dept-info-container">
         <h3>
-          <a href="{{ .Params.social.website }}">{{ .Title }}</a>
+          <a href="{{ .Params.website }}">{{ .Title }}</a>
         </h3>
         <p>{{ .Content }}</p>
       </div>
+    </div> -->
+      <div
+        class="col-sm-6 col-md-4 col-lg-3"
+        style="
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+        "
+      >
+        <a href="{{ .Params.website }}">
+          <img
+            class="dept-list-logo"
+            src="{{ .Params.logo | relURL }}"
+            alt="{{ .Title }}"
+          />
+        </a>
+        <div>
+          <h3>
+            <a href="{{ .Params.website }}">{{ .Title }}</a>
+          </h3>
+          <p>{{.Content}}</p>
+        </div>
+      </div>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
 </section>
 
