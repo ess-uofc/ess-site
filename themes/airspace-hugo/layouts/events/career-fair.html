@@ -18,34 +18,9 @@
     <div class="row">
       <h3>Companies Attending</h3>
     </div>
-    <div style="display: flex; align-items: center; flex-wrap: wrap">
+    <div class="career-fair-companies">
       {{ range (where .Site.Pages "Layout" "career-fair-company") }}
-      <!-- <div class="row dept-container">
-      <div class="dept-list-info">
-        <a href="{{ .Params.website }}">
-          <img
-            class="dept-list-logo"
-            src="{{ .Params.logo | relURL }}"
-            alt="{{ .Title }}"
-          />
-        </a>
-      </div>
-      <div class="dept-info-container">
-        <h3>
-          <a href="{{ .Params.website }}">{{ .Title }}</a>
-        </h3>
-        <p>{{ .Content }}</p>
-      </div>
-    </div> -->
-      <div
-        class="col-sm-6 col-md-4 col-lg-3"
-        style="
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          text-align: center;
-        "
-      >
+      <div class="col-sm-6 col-md-4 col-lg-3 career-fair-company">
         <a href="{{ .Params.website }}">
           <img
             class="dept-list-logo"
