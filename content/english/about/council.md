@@ -2,7 +2,7 @@
 title: 2023-2024 Council
 description: "Get to know more about your ESS council members"
 bg_image: images/about/202021-council-banner.jpg
-about_image: "images/about/202223-council-2.png"
+about_image: "images/about/202324-council.jpg"
 layout: council
 executive_team:
   title: Executive Team
