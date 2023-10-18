@@ -2,7 +2,7 @@
 name: Lujaina Eldelebshany
 memberType: executive
 position: VP Internal
-pronouns: he/him
+pronouns: she/her
 email: internal@essucalgary.com
 image: /images/about/council-members/VP Internal.jpg
 ---

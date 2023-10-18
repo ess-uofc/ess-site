@@ -14,6 +14,20 @@
 
 <section>
   <div class="container">
+    <h2 class="sponsor-level" style="color: #5d81a3">Title</h2>
+    <div class="sponsor-logos-container">
+      {{ range where .Site.Pages "Params.sponsortier" "title" }}
+      <a class="sponsor-logo gold-sponsor-logo" href="{{.Params.website}}">
+        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
+      </a>
+      {{end}}
+    </div>
+  </div>
+  <hr />
+</section>
+
+<section>
+  <div class="container">
     <h2 class="sponsor-level" style="color: #ffd700">Gold</h2>
     <div class="sponsor-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "gold" }}
@@ -40,7 +54,7 @@
   <hr />
 </section>
 
-<section>
+<!-- <section>
   <div class="container">
     <h2 class="sponsor-level" style="color: #cd7f32">Bronze</h2>
     <div class="sponsor-logos-container">
@@ -52,6 +66,6 @@
     </div>
   </div>
   <hr />
-</section>
+</section> -->
 
 {{ end }}
