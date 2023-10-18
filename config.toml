@@ -45,11 +45,11 @@ URL = "about/membership"
 name = "Membership"
 parent = "About"
 weight = 3
-# [[menu.main]]
-# URL = "about/sponsors"
-# name = "Sponsors"
-# parent = "About"
-# weight = 4
+[[menu.main]]
+URL = "about/sponsors"
+name = "Sponsors"
+parent = "About"
+weight = 4
 [[menu.main]]
 URL = "about/constitution"
 name = "Constitution"
