@@ -2,12 +2,12 @@
 banner:
   enable: true
   bg_image: "/images/events/2023/sec/sec-ad2.jpg"
-  title: "Grad Director Applications Open"
-  content: "Apply to help us throw a great graduation for our 2024 graduating class!"
+  title: "Schulich Clubs and Teams Mixer"
+  content: "Calling all Schulich club and team members!"
   button:
     enable: true
     label: "Learn More"
-    link: "get-involved/applications/2023-2024-grad-director"
+    link: "news/ess-schulich-clubs-and-teams-mixer/"
 
 ############################# About #################################
 about:
