@@ -1,5 +1,5 @@
 ---
-title: Be a part of our team
+title: Get involved with the ESS!
 description: Apply now
 bg_image: images/get-involved/applications/applications-header.jpg
 content_image: images/company/company-group-pic.jpg
