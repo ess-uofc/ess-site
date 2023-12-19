@@ -30,7 +30,7 @@ _Members Receive:_
 
 ### Discounts through our Partners
 
-- To be announced!
+- Get discounts through [our partners](/about/sponsors#community-partners) when you present your ESS membership!
 
 ### Services in the ESS office
 

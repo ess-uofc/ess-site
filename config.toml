@@ -47,7 +47,7 @@ parent = "About"
 weight = 3
 [[menu.main]]
 URL = "about/sponsors"
-name = "Sponsors"
+name = "Sponsors & Partners"
 parent = "About"
 weight = 4
 [[menu.main]]
@@ -57,15 +57,10 @@ parent = "About"
 weight = 5
 
 [[menu.main]]
-hasChildren = true
+hasChildren = false
 URL = "events"
 name = "Events"
 weight = 2
-# [[menu.main]]
-# URL = "events/career-fair"
-# name = "Career Fair"
-# parent = "Events"
-# weight = 1
 
 [[menu.main]]
 hasChildren = true
