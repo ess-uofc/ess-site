@@ -51,7 +51,6 @@
       {{end}}
     </div>
   </div>
-  <hr />
 </section>
 
 <!-- <section>
@@ -65,7 +64,33 @@
       {{end}}
     </div>
   </div>
-  <hr />
 </section> -->
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2 id="community-partners">Community Partners</h2>
+        <p>
+          Get discounts when you present your ESS membership at any of our
+          community partners! We'd like to thank each and every one of our
+          community partners for helping bring the Schulich community together!
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="padding: 0px 0px 30px 0px">
+  <div class="container">
+    <div class="sponsor-logos-container partner-logos-container">
+      {{ range where .Site.Pages "Params.sponsortier" "partner" }}
+      <a class="sponsor-logo bronze-sponsor-logo" href="{{.Params.website}}">
+        <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
+      </a>
+      {{end}}
+    </div>
+  </div>
+</section>
 
 {{ end }}

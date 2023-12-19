@@ -372,6 +372,10 @@ img.carousel-card-image {
   flex-wrap: wrap;
 }
 
+.partner-logos-container {
+  row-gap: 25px;
+}
+
 .gold-sponsor-logo {
   width: 50%;
 }
@@ -400,7 +404,7 @@ img.carousel-card-image {
   align-items: center;
 }
 
-.sponsor-deal > a {
+/* .sponsor-deal > a {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -416,7 +420,7 @@ img.carousel-card-image {
 .sponsor-deal-listing {
   display: flex;
   flex-wrap: wrap;
-}
+} */
 
 .col-lg-12 img {
   width: 90vw;

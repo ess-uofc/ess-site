@@ -2,12 +2,12 @@
 banner:
   enable: true
   bg_image: "/images/events/2023/sec/sec-ad2.jpg"
-  title: "Schulich Clubs and Teams Mixer"
-  content: "Calling all Schulich club and team members!"
+  title: "Submit Your Stories for GaG!"
+  content: "Spill the tea! We're looking for stories for our Geers are Gods (GaG) magazine!"
   button:
     enable: true
     label: "Learn More"
-    link: "news/ess-schulich-clubs-and-teams-mixer/"
+    link: "get-involved/applications/geers-are-gods/"
 
 ############################# About #################################
 about:
