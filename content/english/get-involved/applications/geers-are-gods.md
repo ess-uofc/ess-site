@@ -1,10 +1,9 @@
 ---
-title: Gears are Gods (GaG) Submissions
+title: Geers are Gods (GaG) Submissions
 description: Engineers can write, right?
 bg_image: /images/group-photo1.jpg
 layout: posting
 accepting: true
-expiryDate: 2024-09-18T23:59:00.000Z
 attachments: []
 job_tags: []
 application_link: https://docs.google.com/forms/d/1xRxlZ6UACccSUTVnMmAoA09LRszPFoJY4kf3dnQIif4/edit

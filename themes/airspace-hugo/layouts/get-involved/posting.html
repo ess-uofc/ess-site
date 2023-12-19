@@ -5,7 +5,11 @@
     <div class="row">
       <div class="col-lg-12">
         <h2>Position Title: {{ .Params.title }}</h3>
-        <p>Closing Date: {{ dateFormat "Jan 2, 2006" .ExpiryDate }}</p>
+          {{ if .Params.ExpiryDate }}
+            <p>Closing Date: {{dateFormat "Jan 2, 2006" .ExpiryDate }}</p>
+          {{ else }}
+            <p>Closing Date: Ongoing</p>
+          {{ end }}
         <h2>Position Description:</h3>
         {{ .Content }}
       </div>
