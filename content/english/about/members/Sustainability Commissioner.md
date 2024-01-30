@@ -3,7 +3,7 @@ name: Camilla Abdrazakov
 memberType: commissioner
 position: Sustainability Commissioner
 pronouns: she/her
-email: sustainability.comm@essucalgary.com
+email: sustainability@essucalgary.com
 image: /images/about/council-members/Sustainability Commissioner.jpg
 ---
 
