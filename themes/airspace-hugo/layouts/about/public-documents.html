@@ -5,6 +5,12 @@
   <div class="container">
     <h2>{{ .Title }}</h2>
     {{.Content}}
+    <a
+      class="btn btn-main"
+      target="_blank"
+      href="https://drive.google.com/drive/folders/1uDVChpl-1ni5lij5Mj7cHn3U7DJMRYao?usp=drive_link"
+      >Public Drive</a
+    >
     <hr />
     <h2>University of Calgary Engineering Students’ Society Constitution</h2>
     {{ if $data.constitution.info.enable }} {{ with $data.constitution.info }}
