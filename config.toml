@@ -50,14 +50,8 @@ URL = "about/sponsors"
 name = "Sponsors & Partners"
 parent = "About"
 weight = 4
-[[menu.main]]
-URL = "about/constitution"
-name = "Constitution"
-parent = "About"
-weight = 5
 
 [[menu.main]]
-hasChildren = false
 URL = "events"
 name = "Events"
 weight = 2
@@ -83,14 +77,19 @@ weight = 2
 # weight = 3
 
 [[menu.main]]
+URL = "about/public-documents"
+name = "Public Documents"
+weight = 4
+
+[[menu.main]]
 URL = '/about/self'
 name = "SELF"
-weight = 4
+weight = 5
 
 [[menu.main]]
 URL = "contact"
 name = "Contact us"
-weight = 5
+weight = 6
 
 [params]
 
