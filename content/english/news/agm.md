@@ -3,7 +3,7 @@ type: post
 is_index: "false"
 title: 2024 ESS Annual General Meeting
 date: 2024-02-20T00:00:00.000Z
-image: /images/news/plenery-head.jpg
+image: /images/news/agm.png
 bg_image: /images/group-photo1.jpg
 author: ESS
 description: Announcing the 2024 ESS AGM!
