@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/news/chairs.jpg"
-  title: "2024 ESS Annual General Meeting"
-  content: "The 2024 ESS AGM will be held on Monday, March 11, 2024 from 7:00 pm - 8:00 pm in the ENGG Atrium. Food will be provided. Be sure to attend!"
+  bg_image: "/images/events/2023/esports/esports-ad-banner.jpg"
+  title: "ESS X CESU Valorant Open"
+  content: "The ESS teaming up with CeSU to host our last MAJOR event of the year with a 16 team Valorant charity tournament! Come get FREE food, Red Bull, and contribute to charity at the 2 day tournament!"
   button:
     enable: true
-    label: "Learn More"
-    link: "/news/agm/"
+    label: "Sign Up Now"
+    link: "https://www.ucalgary.ca/ActiveLiving/registration/Program/2286"
 
 ############################# About #################################
 about:
