@@ -1,6 +1,6 @@
 ---
 type: post
-is_index: "false"
+is_index: false
 title: 2023-2024 ESS By-Election
 date: 2023-09-18T00:00:00.000Z
 image: /images/news/election-ad.jpg
