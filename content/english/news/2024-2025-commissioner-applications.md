@@ -13,4 +13,4 @@ tags:
 
 CALLING ALL ENGINEERING STUDENTS 📢‼️ ESS Commissioner applications are now OPEN for the 2024-2025 academic season!! This is a great way to get involved in the community 😊! We're looking for students who are interested in helping us foster a strong sense of community within Schulich.
 
-Apply NOW until April 16th 2024! For more info on what positions are available and what they do, [see our application post](). Any inquiries can be directed to _president@essucalgary.com_. We can't wait to see your applications!
+Apply NOW until April 16th 2024! For more info on what positions are available and what they do, [see our application post](/get-involved/applications/commissioner/). Any inquiries can be directed to _president@essucalgary.com_. We can't wait to see your applications!
