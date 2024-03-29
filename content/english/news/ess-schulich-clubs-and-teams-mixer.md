@@ -1,6 +1,6 @@
 ---
 type: post
-is_index: "false"
+is_index: false
 title: Schulich Clubs and Teams Mixer!
 date: 2023-11-17T00:00:00.000Z
 image: /images/news/club-mixer-poster.png

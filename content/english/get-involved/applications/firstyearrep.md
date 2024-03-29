@@ -3,7 +3,7 @@ title: First Year Representative
 description: Apply now
 bg_image: /images/group-photo1.jpg
 layout: posting
-accepting: true
+accepting: false
 expiryDate: 2023-09-18T23:59:00.000Z
 attachments: []
 job_tags: []

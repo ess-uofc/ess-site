@@ -1,6 +1,6 @@
 ---
 type: post
-is_index: "false"
+is_index: false
 title: Vote in the 2024 ESS Elections March 11-12!
 date: 2024-02-20T00:00:00.000Z
 image: /images/news/elections.png

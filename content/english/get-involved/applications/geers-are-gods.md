@@ -3,7 +3,7 @@ title: Geers are Gods (GaG) Submissions
 description: Engineers can write, right?
 bg_image: /images/group-photo1.jpg
 layout: posting
-accepting: true
+accepting: false
 attachments: []
 job_tags: []
 application_link: https://docs.google.com/forms/d/1xRxlZ6UACccSUTVnMmAoA09LRszPFoJY4kf3dnQIif4/edit
