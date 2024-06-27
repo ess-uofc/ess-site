@@ -4,7 +4,7 @@ memberType: executive
 position: VP Communications
 pronouns: She/Her
 email: communications@essucalgary.com
-image: /images/about/council-members/2024-2025/VP Communications.jpeg
+image: /images/about/council-members/2024-2025/VP Communications.jpg
 ---
 
 **Year & Major:** 2nd Year - Software 💻

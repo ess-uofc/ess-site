@@ -4,7 +4,7 @@ memberType: commissioner
 position: Social Commissioner
 pronouns: He/Him
 email: social.comm4@essucalgary.com
-image: /images/about/council-members/2024-2025/Social Commissioner 3.jpeg
+image: /images/about/council-members/2024-2025/Social Commissioner 3.jpg
 ---
 
 **Year & Major:** 2nd Year - Mechanical

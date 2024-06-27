@@ -4,7 +4,7 @@ memberType: commissioner
 position: Diversity Commissioner
 pronouns: She/They
 email: diversity@essucalgary.com
-image: /images/about/council-members/2024-2025/Diversity Commissioner.jpeg
+image: /images/about/council-members/2024-2025/Diversity Commissioner.jpg
 ---
 
 **Year & Major:** 2nd Year - Electrical w/ Mechatronics Minor

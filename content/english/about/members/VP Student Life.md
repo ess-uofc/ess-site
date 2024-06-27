@@ -4,7 +4,7 @@ memberType: executive
 position: VP Student Life
 pronouns: She/Her
 email: studentlife@essucalgary.ca
-image: /images/about/council-members/2024-2025/VP Student Life.png
+image: /images/about/council-members/2024-2025/VP Student Life.jpg
 ---
 
 **Year & Major:** 4th Year - Mechanical & Business

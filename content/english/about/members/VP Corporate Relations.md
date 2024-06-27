@@ -4,7 +4,7 @@ memberType: executive
 position: VP Corporate Relations
 pronouns: She/Her
 email: corporaterelations@essucalgary.com
-image: /images/about/council-members/2024-2025/VP Corporate Relations.png
+image: /images/about/council-members/2024-2025/VP Corporate Relations.jpg
 ---
 
 **Year & Major:** 3rd Year - Biomedical

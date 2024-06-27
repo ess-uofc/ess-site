@@ -4,7 +4,7 @@ memberType: commissioner
 position: Finance Commissioner
 pronouns: He/Him
 email: finance.comm@essucalgary.com
-image: /images/about/council-members/2024-2025/Finance Commissioner.png
+image: /images/about/council-members/2024-2025/Finance Commissioner.jpg
 ---
 
 **Year & Major:** 2nd Year - Undeclared

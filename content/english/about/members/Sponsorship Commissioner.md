@@ -4,7 +4,7 @@ memberType: commissioner
 position: Sponsorship Commissioner
 pronouns: She/Her
 email: sponsorship@essucalgary.com
-image: /images/about/council-members/2024-2025/Sponsorship Commissioner.png
+image: /images/about/council-members/2024-2025/Sponsorship Commissioner.jpg
 ---
 
 **Year & Major:** 2nd Year - Electrical

@@ -4,7 +4,7 @@ memberType: executive
 position: VP Operations
 pronouns: She/Her
 email: operations@essucalgary.com
-image: /images/about/council-members/2024-2025/VP Operations.jpeg
+image: /images/about/council-members/2024-2025/VP Operations.jpg
 ---
 
 **Year & Major:** 2nd Year - Mechanical
