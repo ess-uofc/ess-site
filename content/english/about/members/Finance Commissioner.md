@@ -1,10 +1,18 @@
 ---
-name: Shannon Wong
+name: Zach Grappolini
 memberType: commissioner
 position: Finance Commissioner
-pronouns: she/her
+pronouns: He/Him
 email: finance.comm@essucalgary.com
-image: /images/about/council-members/Finance Commissioner.png
+image: /images/about/council-members/2024-2025/Finance Commissioner.jpg
 ---
 
-Hello everyone! I’m Shannon, and I am this year’s Finance Commissioner. I’m in my second year of electrical engineering. I’m really excited to be part of ESS this school year! As the Finance Commissioner, I am responsible for the administration and management of the SELF fund - an amazing source of funding for Schulich clubs and teams. In my free time, I like to play music and explore nature. If you ever see me, feel free to stop by and say hello! :)
+**Year & Major:** 2nd Year - Undeclared
+
+**Weird fact about yourself:** I wear shorts year round
+
+**Current song on repeat:** Six Legs(tippy tappy toes) - Scrawny, Madilyn Mei
+
+**Fave memory from eng:** Those five minutes after the last exam
+
+**Why you joined ESS:** Abia told me to join,  and to be more active within the engineering community

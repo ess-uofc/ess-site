@@ -35,7 +35,9 @@
             <p>{{.Params.pronouns}}</p>
             <a href="mailto:{{.Params.email}}"><i class="ion-ios-email-outline council-email"></i></a>
             <h4>{{ .Params.position | markdownify }}</h4>
-            <p>{{ .Content }}</p>
+            <div style="text-align: left">
+              <p>{{ .Content }}</p>
+            </div>
           </div>
         </div>
       {{end}}
@@ -64,7 +66,9 @@
             <p>{{.Params.pronouns}}</p>
             <a href="mailto:{{.Params.email}}"><i class="ion-ios-email-outline council-email"></i></a>
             <h4>{{ .Params.position | markdownify }}</h4>
-            <p>{{ .Content }}</p>
+            <div style="text-align: left">
+              <p>{{ .Content }}</p>
+            </div>
           </div>
         </div>
       {{end}}

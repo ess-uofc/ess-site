@@ -1,10 +1,18 @@
 ---
-name: Ebube Anachebe
+name: Aarushi Bhargava
 memberType: executive
 position: VP Academic
-pronouns: she/her
+pronouns: She/Her
 email: academic@essucalgary.com
-image: /images/about/council-members/VP Academic.jpg
+image: /images/about/council-members/2024-2025/VP Academic.jpg
 ---
 
-Hello! My name is Ebube and I am currently the Interim VP Academic for the 2023-2024 school year - hopefully I will be joining long term :). I am in my 3rd year of Electrical Engineering with a minor in Computer Engineering. In my free time, you will probably find me trying to learn a new skill, playing one of my various musical instruments, singing, or just being a curious person trying to learn something new! If you have not already noticed, I love learning! I am looking forward to working on ESS this year to better support students. I love meeting new people so if you see me, please do not hesitate to say hi! It’s always a pleasure meeting other students!
+**Year & Major:** 2nd Year - Chemical w/ Entrepreneurship and Enterprise Development Minor
+
+**Weird fact about yourself:** I don’t like chocolate…
+
+**Current song on repeat:** Can’t Hold Us by Macklemore & Ryan Lewis (feat. Ray Dalton)
+
+**Fave memory from eng:** Dr. Kerry Black giving me my Iron Pin at the First Year Dinner
+
+**Why you joined ESS:** I was excited to join a community of inspiring people, and to help make an impact on students at the Schulich School of Engineering

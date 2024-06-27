@@ -1,10 +1,18 @@
 ---
-name: Michael Akl
+name: Caden Kjelgren
 memberType: commissioner
 position: Community Relations Commissioner
-pronouns: he/him
+pronouns: He/Him
 email: community@essucalgary.com
-image: /images/about/council-members/Community Relations Commissioner.jpg
+image: /images/about/council-members/2024-2025/Community Relations Commissioner.jpg
 ---
 
-I am a passionate and driven individual, constantly seeking opportunities to make a positive impact. With a curious mind and a heart that thrives on challenges, I am dedicated to pushing boundaries and exploring new horizons.
+**Year & Major:** 2nd Year - Mechanical w/ Digital Minor
+
+**Weird fact about yourself:** I did boy scouts for 10 years, and patch culture in eng is INCREDIBLY  similar to badge trading in scouts
+
+**Current song on repeat:** Undercover Martyn by Two Door Cinema Club
+
+**Fave memory from eng:** Attending CELC 2024 in Newfoundland
+
+**Why you joined ESS:** I want to gain valuable experience, elevate the engineering community, and make some amazing friends

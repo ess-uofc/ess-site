@@ -1,10 +1,18 @@
 ---
-name: Camilla Abdrazakov
+name: Huda Nirmal
 memberType: commissioner
 position: Sustainability Commissioner
-pronouns: she/her
+pronouns: She/Her
 email: sustainability@essucalgary.com
-image: /images/about/council-members/Sustainability Commissioner.jpg
+image: /images/about/council-members/2024-2025/Sustainability Commissioner.jpg
 ---
 
-Heyo! I'm Camilla and I'm your Sustainability Commissioner this year! I'm going into my 5th of Mechanical Engineering with a Digital Minor. In my free time, I really enjoy climbing, hiking, and running! I am looking forward to pushing our campus community to adopt more sustainable practices - if you have any ideas for events or initiatives, please reach out! :)
+**Year & Major:** 3rd Year - Electrical
+
+**Weird fact about yourself:** I have everything on light mode.
+
+**Current song on repeat:** Summer - Good Kid
+
+**Fave memory from eng:** Meeting engg students from all over Canada at conferences!
+
+**Why you joined ESS:** To connect with the local engineering community and contribute to ESS’ sustainability goals!

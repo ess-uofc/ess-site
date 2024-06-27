@@ -1,10 +1,18 @@
 ---
-name: Dennis Lieu
+name: Michael Belger
 memberType: commissioner
 position: Website Commissioner
-pronouns: he/him
+pronouns: He/Him
 email: website@essucalgary.com
-image: /images/about/council-members/Website Commissioner.jpg
+image: /images/about/council-members/2024-2025/Website Commissioner.jpg
 ---
 
-Hey all! My name is Dennis, and I’ll be the Website Commissioner for this year. I’m entering my final year of electrical engineering with a minor in digital engineering. I love technology and software, which is why I decided to take on the new role of Website Commissioner on this year’s council. Outside of school, I enjoy playing games, watching anime, and hiking. I think that getting involved with the community is one of the best things we can do to make the most of our time here. Having been on the ESS previously, I can say that the team hosts lots of great events throughout the year, so be sure to check them out! I’m excited to have a “normal” uni experience again for my last year after going through so many online and hybrid semesters. Feel free to say hey if you bump into me!
+**Year & Major:** 2nd Year - Mechanical w/ Mechatronics Minor
+
+**Weird fact about yourself:** My squat record is roughly the weight of 1.5 pandas 💪🐼
+
+**Current song on repeat:** In Quiet Rooms - Ollie MN
+
+**Fave memory from eng:** Making friendship bracelets
+
+**Why you joined ESS:** To grow our skills together :)

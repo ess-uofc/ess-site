@@ -1,10 +1,18 @@
 ---
-name: Amber Quo
+name: Simar Kandola
 memberType: executive
 position: VP Communications
-pronouns: she/her
+pronouns: She/Her
 email: communications@essucalgary.com
-image: /images/about/council-members/VP Communications.jpeg
+image: /images/about/council-members/2024-2025/VP Communications.jpg
 ---
 
-Hi! My name is Amber and I am so excited to be your VP Communications this year! I'll be ensuring engineering students stay in the loop and are engaged, whether it be through social media, email, or any other platform. I'm a second year biomedical engineering student with a minor in digital engineering, but who wants to talk about school? For fun, I love to play rugby, ski, and travel. Feel free to reach out (email above!) or if you see me in the hall be sure to say hi!
+**Year & Major:** 2nd Year - Software 💻
+
+**Weird fact about yourself:** I’m really good at finding 4 leaf clovers - i’ve found like 15 in my life 🍀
+
+**Current song on repeat:** Out Getting Ribs - King Krule
+
+**Fave memory from eng:** Losing SEC last year - what doesn’t kill you makes you stronger 😤
+
+**Why you joined ESS:** Because we’re lit 😝

@@ -1,10 +1,18 @@
 ---
-name: Tavish Comrie
+name: Ella Johnson
 memberType: executive
 position: VP Student Life
-pronouns: he/him
+pronouns: She/Her
 email: studentlife@essucalgary.ca
-image: /images/about/council-members/VP Student Life.png
+image: /images/about/council-members/2024-2025/VP Student Life.jpg
 ---
 
-I am a third year geomatics engineering student who enjoys both watching and playing sports in my free time. I am also a CA in residence alongisde being an athlete and board member on the rowing team. I am a very chatty and outgoing person so if you see me around don't be afraid to come up and say hi.
+**Year & Major:** 4th Year - Mechanical & Business
+
+**Weird fact about yourself:** I collect engg-themed patches (current count is 200+)
+
+**Current song on repeat:** American Pie by Don Mclean
+
+**Fave memory from eng:** Meeting students from across the country at conferences  tied with when any of my design projects worked
+
+**Why you joined ESS:** Bring hype to the deprived engg students!
