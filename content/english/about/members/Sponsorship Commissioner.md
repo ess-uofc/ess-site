@@ -1,10 +1,18 @@
 ---
-name: Riya Sharma
+name: Ana-Maria Tellez
 memberType: commissioner
 position: Sponsorship Commissioner
-pronouns: she/her
+pronouns: She/Her
 email: sponsorship@essucalgary.com
-image: /images/about/council-members/Sponsorship Commissioner.png
+image: /images/about/council-members/2024-2025/Sponsorship Commissioner.png
 ---
 
-Hi everyone! My name is Riya and I’m an incoming second year Software Engineering student with a minor in Biomedical Engineering. I’ll be your Sponsorship Commissioner for the 2023-2024 academic year! I have been connecting with potential ESS sponsors to support us during the upcoming year. I am part of a few campus clubs, and outside of school I love volunteering throughout the community, staying active, and I’m also a Bollywood dancer/dance teacher! We have a lot planned for this year and I’m really excited about it - I hope you are too!
+**Year & Major:** 2nd Year - Electrical
+
+**Weird fact about yourself:** I have like no peripheral vision
+
+**Current song on repeat:** Perfect Portrait of Young Love by The 502’s
+
+**Fave memory from eng:** First year Eng dinner!!
+
+**Why you joined ESS:** To contribute to the engineering community and make an impact!

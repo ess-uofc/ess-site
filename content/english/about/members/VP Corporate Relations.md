@@ -1,10 +1,18 @@
 ---
-name: Fabiha Chohan
+name: Pamela Jaya Armas
 memberType: executive
 position: VP Corporate Relations
-pronouns: she/her
+pronouns: She/Her
 email: corporaterelations@essucalgary.com
-image: /images/about/council-members/VP Corporate Relations.png
+image: /images/about/council-members/2024-2025/VP Corporate Relations.png
 ---
 
-Hello! My name is Fabiha Chohan and I am the incoming VP Corporate Relations at ESS. I am going into my third year of Biomedical Engineering with a minor in digital. This summer, I have been collaborating with industry professionals to facilitate engagement, collaboration and networking opportunities for the students. I have also worked with our community partners to provide awesome benefits to our students. I can't wait for another year of awesome events that we have planned! In my free time, I love to stay active, be outdoors and hang out with my friends!
+**Year & Major:** 3rd Year - Biomedical
+
+**Weird fact about yourself:** I either wake up to Party Rock Anthem or I don't wake up
+
+**Current song on repeat:** Why by Dominic Fike
+
+**Fave memory from eng:** Watching movies in the engg building when it's deserted, cup run and the beginning of the year pub crawl.
+
+**Why you joined ESS:** I wanted to be part of the community and work to improve the experience for engg kids.

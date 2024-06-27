@@ -2,8 +2,8 @@
 name: Naya Moustafa
 memberType: commissioner
 position: Academic Commissioner
-pronouns: she/her
-email: admin.comm@essucalgary.com
+pronouns: She/Her
+email: academic@essucalgary.com
 image: /images/about/council-members/2024-2025/Academic Commissioner.jpg
 ---
 

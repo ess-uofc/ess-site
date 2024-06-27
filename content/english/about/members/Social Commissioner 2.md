@@ -1,10 +1,18 @@
 ---
-name: Stephan Babak
+name: Isabel Gonzalez
 memberType: commissioner
 position: Social Commissioner
-pronouns: he/him
-email: social.comm2@essucalgary.com
-image: /images/about/council-members/Social Commissioner 2.jpeg
+pronouns: She/Her
+email: social.comm3@essucalgary.com
+image: /images/about/council-members/2024-2025/Social Commissioner 2.jpeg
 ---
 
-My name is Stephan Babak and I am one of the student life commissioners. I am in my second year of Mechanical Engineering with a Digital Minor. I will be running many events along side my VP and the other commissioner this year. Come have fun and destress from the year that is about to swallow us alive. Feel free to contact me or my fellow ESSers and come by the office (I swear we don’t bite).
+**Year & Major:** 2nd Year - Biomedical
+
+**Weird fact about yourself:** I put ketchup on pizza.
+
+**Current song on repeat:** S91- Karol G
+
+**Fave memory from eng:** The many hours my friends and I spent working on our design projects!
+
+**Why you joined ESS:** I wanted to become more involved, and help make a positive impact on the engineering community!

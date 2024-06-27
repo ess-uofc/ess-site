@@ -1,10 +1,18 @@
 ---
-name: Avi Muruganandam
+name: Aleks Berezowski
 memberType: executive
 position: President
-pronouns: he/him
+pronouns: He/They
 email: president@essucalgary.com
-image: /images/about/council-members/President.jpg
+image: /images/about/council-members/2024-2025/President.jpg
 ---
 
-Hola todos! My name is Avi and I'm your ESS President for this year! I'm going into my 5th year of Mechanical Engineering with a minor in Aerospace. I'm super grateful for the opportunity to be the leader of this student society. We have so many exciting things planned for this year and we can't wait to share them with you all! ESS has a lot to offer, so feel free to come by the office and ask anyone what we can do for you. In my personal life, I just finished an internship at Stantec. During the summers, I love to golf and during the winters, I love to snowboard. You will also catch me running around campus so, feel free to stop me and say hi! I would love to talk and get to know you all! Have a wonderful year!
+**Year & Major:** 4th Year - Software
+
+**Weird fact about yourself:** My skin and eyes turn yellow on occasion
+
+**Current song on repeat:** Interia by AJR & Stayed Gone from Hazbin Hotel
+
+**Fave memory from eng:** Yelling chants during ENGG week
+
+**Why you joined ESS:** The community at Schulich has been incredible for me, and I want to expand it so as many people as possible can have as great of a time as I have!

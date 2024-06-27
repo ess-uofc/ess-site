@@ -1,10 +1,18 @@
 ---
-name: Lujaina Eldelebshany
+name: Evan Bosdet
 memberType: executive
 position: VP Internal
-pronouns: she/her
+pronouns: He/Him
 email: internal@essucalgary.com
-image: /images/about/council-members/placeholder.png
+image: /images/about/council-members/2024-2025/VP Internal.jpg
 ---
 
-Hello hello! My name is Lujaina (Looj-eye-na) and I'm your ESS VP Internal! I'm in my third year of software and biomedical engineering, and I'll be doing my best this year to work with the other portfolios to bring you a holistic university experience as well as support technical and social initiatives on campus. Outside of university, I love to play cards, obsess over watches, travel, and bake desserts. I love to meet new friends through events or projects, and I'm very involved around campus with different clubs, so definitely feel free to say hi and chat if you see me around!!
+**Year & Major:** 3rd Year - Electrical
+
+**Weird fact about yourself:** I own way too many jackets.
+
+**Current song on repeat:** Tyranny - Gesaffelstein
+
+**Fave memory from eng:** Going to CSE 2024.
+
+**Why you joined ESS:** I wanted to change the engineering community for the better, and be a leader in that community.

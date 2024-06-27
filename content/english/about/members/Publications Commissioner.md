@@ -1,10 +1,18 @@
 ---
-name: Shakira Haji
+name: Mishal Chaudhry
 memberType: commissioner
 position: Publications Commissioner
-pronouns: she/her
+pronouns: She/Her
 email: publications@essucalgary.com
-image: /images/about/council-members/Publications Commissioner.jpg
+image: /images/about/council-members/2024-2025/Publications Commissioner.jpg
 ---
 
-Hey y'all! I'm Shakira (yes, like the singer) and I'm your Publications Commissioner for this year! I'll be entering my second year of biomedical engineering with a digital minor. My role primarily involves making sure you guys are informed about engineering related events and important opportunities. So, when you get an email from me, be sure not to ignore it!!! I'm excited to work on the ESS council this year with my wonderful colleagues, and we will do our best to represent our fellow engineering student body!
+**Year & Major:** 2nd Year - Mechanical
+
+**Weird fact about yourself:** I own four Minion figurines which feels like too many… (Yes, the ones from Despicable Me)
+
+**Current song on repeat:** Disturbia by Rihanna 
+
+**Fave memory from eng:** Pancake breakfast on Bermuda Shorts Day
+
+**Why you joined ESS:** Because it’s awesome…
