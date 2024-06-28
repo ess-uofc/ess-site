@@ -1,5 +1,5 @@
 ---
-name: Ariana Miller
+name: Angelina Lambrinoudis
 memberType: commissioner
 position: Social Commissioner
 pronouns: She/Her
