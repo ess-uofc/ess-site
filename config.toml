@@ -159,6 +159,9 @@ preloader = ""
 
 # Social
 [[params.social]]
+icon = "logo-discord"
+link = "https://discord.gg/9mUubJU"
+[[params.social]]
 icon = "ion-social-instagram-outline"
 link = "https://www.instagram.com/ess_uofc/"
 [[params.social]]

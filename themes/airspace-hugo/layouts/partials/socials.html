@@ -1,0 +1,9 @@
+{{ range .Site.Params.social }}
+  <a href="{{ .link }}" target="_blank">
+    {{ if eq .icon "logo-discord" }}
+      <img src="{{ "static/svg/ionicons/logo-discord.svg" | relURL }}" alt="Discord">
+    {{ else }}
+      <i class="{{ .icon }}"></i>
+    {{ end }}
+  </a>
+{{ end }}
