@@ -42,6 +42,7 @@
             <li><i class="ion-ios-time-outline"></i><a href=" {{ .Site.Params.officehours.link | absURL }} ">Hours</a></li>
           </ul>
           <ul class="social-icons">
+            {{- partial "social.html" . -}}
             {{ range .Site.Params.social }}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
