@@ -159,14 +159,17 @@ preloader = ""
 
 # Social
 [[params.social]]
-icon = "ion-social-instagram-outline"
+svg = "icons/logo-discord.html"
+link = "https://discord.com/invite/9mUubJU"
+[[params.social]]
+svg = "icons/logo-instagram.html"
 link = "https://www.instagram.com/ess_uofc/"
 [[params.social]]
-icon = "ion-social-linkedin-outline"
+svg = "icons/logo-linkedin.html"
 link = "https://www.linkedin.com/company/engineering-students%27-society-u-of-c-/"
 [[params.social]]
-icon = "ion-social-facebook-outline"
+svg = "icons/logo-facebook.html"
 link = "https://www.facebook.com/UofC.ESS"
 [[params.social]]
-icon = "ion-social-twitter-outline"
-link = "https://twitter.com/ESS_UofC"
+svg = "icons/logo-x.html"
+link = "https://x.com/ESS_UofC"
