@@ -52,8 +52,18 @@ parent = "About"
 weight = 4
 
 [[menu.main]]
-URL = "events"
+hasChildren = true
 name = "Events"
+weight = 2
+[[menu.main]]
+URL = "events/events-calendar"
+name = "Events Calendar"
+parent = "Events"
+weight = 1
+[[menu.main]]
+URL = "events/featured-events"
+name = "Featured Events"
+parent = "Events"
 weight = 2
 
 [[menu.main]]
