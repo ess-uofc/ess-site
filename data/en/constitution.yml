@@ -4,19 +4,17 @@ info:
   preamble: "This document is the Constitution of the University of Calgary Engineering Students’
 Society. It contains the ideals, governing rules, and regulations of the Society."
   last_revision:
-    number: "13"
-    date: "Date March 7, 2023"
+    number: "14"
+    date: "Date March 11, 2024"
 
 articles:
   enable: true
   article_items:
     - name: "ARTICLE 1 – NAME"
-      content: "The name of the organization shall be the University of Calgary Engineering
-Students’ Society, and hereinafter will be referred to as the Society.
-1.1. The name of the Society may be changed by a two-thirds majority vote at
-any Board of Directors (hereinafter referred to as the BoD) meeting in
-accordance with the Alberta Societies Act and any applicable
-incorporation rules."
+      content: "The name of the organization shall be the University of Calgary Engineering Students’ Society, and hereinafter will be referred to as the Society.
+      <br>
+1.1. The name of the Society may be changed by a two-thirds majority vote at any Board of Directors (hereinafter referred to as the BoD) meeting in accordance with the Alberta Societies Act and any applicable incorporation rules."
+
     - name: "ARTICLE 2 – OBJECTIVES OF THE SOCIETY"
       content: "2.1. Mission: The ESS advocates for engineering students and promotes a
 strong sense of community.
@@ -49,6 +47,7 @@ trusts calculated to benefit the members of the Society; and,
 support or enter into arrangements which may be conducive to the
 attainment or furtherance of any of the objectives of the Society,
 and for no other objectives."
+
     - name: "ARTICLE 3 – MEMBERSHIP OF THE SOCIETY"
       content: "There shall be three classes of membership in the Society: Honourary Membership,
 Associate Membership, and Active Membership.
@@ -78,6 +77,7 @@ to a list indicating that the person is barred from all ESS events and their
 ESS membership be revoked due to breaking member conduct guidelines
 as outlined in the policy manual. Such member has the right to formally
 appeal this decision to the BoD."
+
     - name: "ARTICLE 4 – OFFICERS AND COMMITTEES OF THE SOCIETY"
       content: "4.1. The BoD of the Society shall consist of:
 4.1.1. Executive Officers of the Society;
@@ -130,6 +130,7 @@ Engineering Students’ Society are as follows:
 Commissioner sits as chair of the committee)
 Support for all the other Committees/External Bodies not
 specified above will be considered at the discretion of the BoD."
+
     - name: "ARTICLE 5 – DUTIES OF OFFICERS OF THE SOCIETY"
       content: "5.1. The President shall:
 5.1.1. Be responsible for the general management and supervision of the
@@ -431,6 +432,7 @@ hours being two (2) hours per week;
 and the Executive Officers. “
 5.24. The Past President or person appointed by the Past President shall:
 5.24.1. Act in an advisory capacity to the BoD."
+
     - name: "ARTICLE 6 - DEPARTMENT SOCIETIES"
       content: "6.1. A Department Society is defined as a student association representing a
 major department as defined by the Schulich School of Engineering;
@@ -458,6 +460,7 @@ than 75% of votes) of the Society. A BoD vote may only be removed so
 long as the goals of the Interdepartmental Minor Society no longer meet
 that of the Society, or in the case an interdepartmental minor becomes a
 major department as defined by the Schulich School of Engineering."
+
     - name: "ARTICLE 7 – MEETINGS OF THE SOCIETY"
       content: "Meetings held for the business of the Society shall take on the following forms: Plenary
 Meeting, Annual General Meeting, BoD Meeting, and Executive Officer Meeting. All
@@ -561,6 +564,7 @@ appointed officers of the Society.
 7.4. Executive Officer Meetings shall be called as deemed appropriate by the
 President of the Society, and shall follow such guidelines as determined
 by the President."
+
     - name: "ARTICLE 8 – ELECTION OF THE OFFICERS OF THE SOCIETY"
       content: "8.1. The Chief Returning Officer (CRO) shall be responsible for all proceedings
 of the Annual General Meeting and the election process, and shall provide
@@ -671,6 +675,7 @@ take place on the date determined by the Students’ Union to be Bermuda
 19
 Shorts Day. The terms of office of incoming Officers begin on this day, and
 end on this day the following year."
+
     - name: "ARTICLE 9 – ACTIVITIES HOSTED BY THE SOCIETY"
       content: "9.1. Any Organizing Committee wishing to host an Activity (Conference or
 Competition) offered by either the Canadian Federation of Engineering
@@ -679,6 +684,7 @@ signed letter of approval from the President of the Society;
 9.2. The Chair of the Organizing Committee must have bi-monthly meetings or
 more often if deemed necessary with the President and VP External of the
 Society in the year leading up to the Activity."
+
     - name: "ARTICLE 10 – TERMS OF OFFICE"
       content: "10.1. Any Executive Officer or Appointed Officer of the Society wishing to resign
 from their position or no longer eligible to hold office may be removed
@@ -737,6 +743,7 @@ in-camera extraordinary resolution, relieve the Officer of their
 duties; and,
 10.3.5. The BoD shall decide on a course of action to replace the outgoing
 Appointed Officer consistent with the Policy Manual."
+
     - name: "ARTICLE 11 – STANCES OF THE ESS CONSTITUTION"
       content: "11.1. Official ESS Stances will be created by members of the ESS Council and
 the Diversity Advocacy Committee to reflect the opinions of the ESS
@@ -761,6 +768,7 @@ ESS stance at the start of the officer’s term;
 through a majority BoD vote; and,
 11.7. Official Stance documents shall be publicly available within two (2) weeks
 after approval."
+
     - name: "ARTICLE 12 – AMENDMENTS TO THE CONSTITUTION OF THE SOCIETY"
       content: "This Constitution of the Society may be amended by a two-thirds majority vote of
 quorum at the Annual General Meeting of the Society, of which notice specifying the
@@ -769,6 +777,7 @@ intention to propose an amendment to this Constitution has been duly given at le
 changes which do not change the content, can be made by an extraordinary resolution at
 a meeting of the BoD. Policy Manual changes can be amended by a resolution at a
 meeting of the BoD."
+
     - name: "ARTICLE 13 – AMENDMENT HISTORY"
       content: "The Constitution of the Society has been amended by a two-thirds majority vote of
 quorum at the Annual General Meeting of the Society, in accordance with Article 11, on
