@@ -12,14 +12,14 @@ articles:
   article_items:
     - name: "ARTICLE 1 – NAME"
       content: "The name of the organization shall be the University of Calgary Engineering Students’ Society, and hereinafter will be referred to as the Society.
-      <br><br>
+      {{< br >}}
 1.1. The name of the Society may be changed by a two-thirds majority vote at any Board of Directors (hereinafter referred to as the BoD) meeting in accordance with the Alberta Societies Act and any applicable incorporation rules."
 
     - name: "ARTICLE 2 – OBJECTIVES OF THE SOCIETY"
       content: "2.1. Mission: The ESS advocates for engineering students and promotes a strong sense of community.
-      <br><br>
+      {{< br >}}
 2.2. Mandate and Goals: For every engineering student to be supported socially, academically, and professionally. ESS will represent student voices while maintaining accountability and transparency.
-<br><br>
+{{< br >}}
 2.3. The objectives of the Society are:
 2.3.1. To act in any manner deemed to be beneficial to the members of
 the Society;
