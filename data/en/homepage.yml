@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/events/2023/esports/esports-ad-banner.jpg"
-  title: "ESS X CESU Valorant Open"
-  content: "The ESS teaming up with CeSU to host our last MAJOR event of the year with a 16 team Valorant charity tournament! Come get FREE food, Red Bull, and contribute to charity at the 2 day event!"
+  bg_image: "/images/events/2024/frosh/2024-FROSH-Feature.png"
+  title: "FROSH Week"
+  content: "Make Memories Before Midterms!"
   button:
     enable: true
-    label: "Sign Up Now"
-    link: "https://www.ucalgary.ca/ActiveLiving/registration/Program/2286"
+    label: "See The Schedule"
+    link: "events/featured-events/frosh"
 
 ############################# About #################################
 about:
