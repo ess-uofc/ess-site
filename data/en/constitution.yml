@@ -4,787 +4,679 @@ info:
   preamble: "This document is the Constitution of the University of Calgary Engineering Students’
 Society. It contains the ideals, governing rules, and regulations of the Society."
   last_revision:
-    number: "13"
-    date: "Date March 7, 2023"
+    number: "14"
+    date: "Date March 11, 2024"
 
 articles:
   enable: true
   article_items:
     - name: "ARTICLE 1 – NAME"
-      content: "The name of the organization shall be the University of Calgary Engineering
-Students’ Society, and hereinafter will be referred to as the Society.
-1.1. The name of the Society may be changed by a two-thirds majority vote at
-any Board of Directors (hereinafter referred to as the BoD) meeting in
-accordance with the Alberta Societies Act and any applicable
-incorporation rules."
+      content: "The name of the organization shall be the University of Calgary Engineering Students’ Society, and hereinafter will be referred to as the Society.
+      {{< br >}}
+      {{< br >}}
+1.1. The name of the Society may be changed by a two-thirds majority vote at any Board of Directors (hereinafter referred to as the BoD) meeting in accordance with the Alberta Societies Act and any applicable incorporation rules."
+
     - name: "ARTICLE 2 – OBJECTIVES OF THE SOCIETY"
-      content: "2.1. Mission: The ESS advocates for engineering students and promotes a
-strong sense of community.
-2.2. Mandate and Goals: For every engineering student to be supported
-socially, academically, and professionally. ESS will represent student
-voices while maintaining accountability and transparency.
+      content: "2.1. Mission: The ESS advocates for engineering students and promotes a strong sense of community.
+      {{< br >}}
+      {{< br >}}
+2.2. Mandate and Goals: For every engineering student to be supported socially, academically, and professionally. ESS will represent student voices while maintaining accountability and transparency.
+{{< br >}}
+{{< br >}}
 2.3. The objectives of the Society are:
-2.3.1. To act in any manner deemed to be beneficial to the members of
-the Society;
-2.3.2. To promote professional relationships, especially through
-cooperation with the Association of Professional Engineers and
-Geoscientists of Alberta (APEGA) and with other professional
-engineering institutes and societies;
-2.3.3. To sponsor and maintain extracurricular programs including
-academic, social, and athletic functions, of which Society
-members may participate in;
-2.3.4. To represent and advocate for the Schulich School of Engineering
-students within the campus, to other universities, and to the
-community at large;
-2.3.5. To hold and attend meetings, exhibitions, competitions and
-conferences for the discussion of engineering problems and the
-exchange of views in matters related to engineering education;
-2.3.6. To establish, construct, and maintain suitable quarters for the
-Society, and to permit the quarters to be used on terms to be
-agreed upon by the BoD;
-2
-2.3.7. To establish and support or aid in the establishment of funds or
-trusts calculated to benefit the members of the Society; and,
-2.3.8. To acquire, take by gift, device, bequest and donate, and to
-support or enter into arrangements which may be conducive to the
-attainment or furtherance of any of the objectives of the Society,
-and for no other objectives."
+{{< br >}}
+2.3.1. To act in any manner deemed to be beneficial to the members of the Society;
+{{< br >}}
+2.3.2. To promote professional relationships, especially through cooperation with the Association of Professional Engineers and Geoscientists of Alberta (APEGA) and with other professional engineering institutes and societies;
+{{< br >}}
+2.3.3. To sponsor and maintain extracurricular programs including academic, social, and athletic functions, of which Society members may participate in;
+{{< br >}}
+2.3.4. To represent and advocate for the Schulich School of Engineering students within the campus, to other universities, and to the community at large;
+{{< br >}}
+2.3.5. To hold and attend meetings, exhibitions, competitions and conferences for the discussion of engineering problems and the exchange of views in matters related to engineering education;
+{{< br >}}
+2.3.6. To establish, construct, and maintain suitable quarters for the Society, and to permit the quarters to be used on terms to be agreed upon by the BoD;
+{{< br >}}
+2.3.7. To establish and support or aid in the establishment of funds or trusts calculated to benefit the members of the Society; and,
+{{< br >}}
+2.3.8. To acquire, take by gift, device, bequest and donate, and to support or enter into arrangements which may be conducive to the attainment or furtherance of any of the objectives of the Society, and for no other objectives."
+
     - name: "ARTICLE 3 – MEMBERSHIP OF THE SOCIETY"
-      content: "There shall be three classes of membership in the Society: Honourary Membership,
-Associate Membership, and Active Membership.
-3.1. The Honourary Members shall be appointed for life by the BoD in
-recognition of outstanding services rendered. They shall not be entitled to
-vote at, but shall be entitled to notice of general meetings of members of
-the Society. They shall not participate in any distribution of the property of
-the Society upon dissolution of the Society.
-3.1.1. Outgoing Presidents of the Society shall be appointed by the
-outgoing BoD through resolution Honourary Members at the last
-BoD Meeting of their term.
-3.2. The Associate Members shall be all the faculty members and graduate
-students of the Schulich School of Engineering at the University of
-Calgary. They shall not be entitled to vote at, but shall be entitled to notice
-of general meetings of members of the Society. They shall not participate
-in any distribution of the property of the Society upon dissolution of the
-Society.
-3.3. The Active Members shall be all the undergraduate students of the
-Schulich School of Engineering at the University of Calgary who have paid
-their annual membership fees, dues, or subscriptions and have been duly
-registered as a member. They shall be entitled to one vote per member at
-the Annual General Meeting of the Society. They shall be entitled to
-participate equally in any distribution of the property of the Society upon
-dissolution of the Society.
-3.4. Students and alumni may be added by an extraordinary resolution by BoD
-to a list indicating that the person is barred from all ESS events and their
-ESS membership be revoked due to breaking member conduct guidelines
-as outlined in the policy manual. Such member has the right to formally
-appeal this decision to the BoD."
+      content: "There shall be three classes of membership in the Society: Honourary Membership, Associate Membership, and Active Membership.
+{{< br >}}
+{{< br >}}
+3.1. The Honourary Members shall be appointed for life by the BoD in recognition of outstanding services rendered. They shall not be entitled to vote at, but shall be entitled to notice of general meetings of members of the Society. They shall not participate in any distribution of the property of the Society upon dissolution of the Society.
+{{< br >}}
+3.1.1. Outgoing Presidents of the Society shall be appointed by the outgoing BoD through resolution Honourary Members at the last BoD Meeting of their term.
+{{< br >}}
+{{< br >}}
+3.2. The Associate Members shall be all the faculty members and graduate students of the Schulich School of Engineering at the University of Calgary. They shall not be entitled to vote at, but shall be entitled to notice of general meetings of members of the Society. They shall not participate in any distribution of the property of the Society upon dissolution of the Society.
+{{< br >}}
+{{< br >}}
+3.3. The Active Members shall be all the undergraduate students of the Schulich School of Engineering at the University of Calgary who have paid their annual membership fees, dues, or subscriptions and have been duly registered as a member. They shall be entitled to one vote per member at the Annual General Meeting of the Society. They shall be entitled to participate equally in any distribution of the property of the Society upon dissolution of the Society.
+{{< br >}}
+{{< br >}}
+3.4. Students and alumni may be added by an extraordinary resolution by BoD to a list indicating that the person is barred from all ESS events and their ESS membership be revoked due to breaking member conduct guidelines as outlined in the policy manual. Such member has the right to formally appeal this decision to the BoD."
+
     - name: "ARTICLE 4 – OFFICERS AND COMMITTEES OF THE SOCIETY"
       content: "4.1. The BoD of the Society shall consist of:
+      {{< br >}}
 4.1.1. Executive Officers of the Society;
+{{< br >}}
 4.1.2. First Year Representatives;
-4.1.3. Presidents from each Department Society or Interdepartmental
-Minor Society in accordance with Article 7; and,
+{{< br >}}
+4.1.3. Presidents from each Department Society or Interdepartmental Minor Society in accordance with Article 7; and,
+{{< br >}}
 4.1.4. SU Engineering Representatives.
+{{< br >}}
+{{< br >}}
 4.2. The elected Executive Officers of the Society shall consist of:
+{{< br >}}
 4.2.1. President;
+{{< br >}}
 4.2.2. Vice President Academic;
+{{< br >}}
 4.2.3. Vice President Communications;
+{{< br >}}
 4.2.4. Vice President Corporate Relations;
+{{< br >}}
 4.2.5. Vice President External;
+{{< br >}}
 4.2.6. Vice President Finance;
+{{< br >}}
 4.2.7. Vice President Internal;
+{{< br >}}
 4.2.8. Vice President Operations; and,
+{{< br >}}
 4.2.9. Vice President Student Life;
+{{< br >}}
+{{< br >}}
 4.3. The Appointed Officers of the Society shall consist of:
+{{< br >}}
 4.3.1. Administration Commissioner;
+{{< br >}}
 4.3.2. Artistic Commissioner;
+{{< br >}}
 4.3.3. Community Relations Commissioner;
+{{< br >}}
 4.3.4. Competitions Commissioner;
+{{< br >}}
 4.3.5. Diversity Commissioner;
+{{< br >}}
 4.3.6. Finance Commissioner;
+{{< br >}}
 4.3.7. Professional Development Commissioner;
+{{< br >}}
 4.3.8. Publications and Social Media Commissioner;
+{{< br >}}
 4.3.9. Social Commissioner(s);
+{{< br >}}
 4.3.10. Sponsorship Commissioner(s);
+{{< br >}}
 4.3.11. Sustainability Commissioner;
+{{< br >}}
 4.3.12. Technology Commissioner;
+{{< br >}}
 4.3.13. Website Commissioner;
+{{< br >}}
 4.3.14. First Year Representatives;
+{{< br >}}
 4.3.15. Department Society Presidents;
+{{< br >}}
 4.3.16. Past President
+{{< br >}}
 4.3.16.1. Honourary Member of the Society
+{{< br >}}
+{{< br >}}
 4.4. The Affiliates of the Society shall consist of:
+{{< br >}}
 4.4.1. Directors as deemed appropriate by the Officers of the Society;
-4
+{{< br >}}
 4.4.2. Committee members as appointed by the Board; and,
+{{< br >}}
 4.4.3. ESS general volunteers.
-4.5. Committees of the Society deemed necessary by the BoD shall be
-commissioned by a resolution, which shall state the terms of reference
-for such committee, and be further referenced in the Policy Manual.
-Commitments between the Society and Committees/External Bodies will
-be re-evaluated every year after transition of officers as deemed
-appropriate by the BoD.
-4.5.1. Committees/External Bodies recognized and supported by the
-Engineering Students’ Society are as follows:
-4.5.1.1. Diversity Advocacy Committee (where the ESS Diversity
-Commissioner sits as chair of the committee)
-Support for all the other Committees/External Bodies not
-specified above will be considered at the discretion of the BoD."
+{{< br >}}
+{{< br >}}
+4.5. Committees of the Society deemed necessary by the BoD shall be commissioned by a resolution, which shall state the terms of reference for such committee, and be further referenced in the Policy Manual. Commitments between the Society and Committees/External Bodies will be re-evaluated every year after transition of officers as deemed appropriate by the BoD.
+{{< br >}}
+4.5.1. Committees/External Bodies recognized and supported by the Engineering Students’ Society are as follows:
+{{< br >}}
+4.5.1.1. Diversity Advocacy Committee (where the ESS Diversity Commissioner sits as chair of the committee)
+Support for all the other Committees/External Bodies not specified above will be considered at the discretion of the BoD."
+
     - name: "ARTICLE 5 – DUTIES OF OFFICERS OF THE SOCIETY"
-      content: "5.1. The President shall:
-5.1.1. Be responsible for the general management and supervision of the
-affairs of the Society;
-5.1.2. Hold veto power over the decisions and resolutions of the BoD;
-5.1.3. Hold the power to negotiate all contracts and legal matters on
-behalf of the Society;
-5.1.4. Hold financial signing authority with the Vice President Operations
-& Finance, and appoint a third Executive Officer to hold financial
-signing authority;
-5.1.5. Be charged with the supervision of the affairs of the Administrator,
-Officers and affiliates;
-5.1.6. Appoint one Vice President to assume the duty of the President in
-case of the latter’s absence, subject to the approval of the BoD;
-5.1.7. Be charged with the supervision of the affairs of the First Year
-Representatives, and be charged with the supervision of the
-Department Presidents, SU Representatives, and Past President in
-their work which relates to the Society;
-5.1.8. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.1.9. Maintain a transition document; and,
-5
-5.1.10. Submit an Annual Report and proposed changes to the Policy
-Manual and Constitution at the Annual General Meeting.
-5.2. The Vice President Academic shall:
-5.2.1. Be responsible for any academic affairs related to or involving the
-Society, including member representation;
-5.2.2. Be charged with acting as the liaison between the Society and
-APEGA, and any other professional organizations;
-5.2.3. Be responsible for professional development affairs related to or
-involving the Society;
-5.2.4. Be charged with the supervision of the affairs of the Professional
-Development Commissioner;
-5.2.5. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.2.6. Maintain a transition document; and,
-5.2.7. Submit an Annual Report and proposed changes to the Policy
-Manual at the Annual General Meeting.
-5.3. The Vice President Communications shall:
-5.3.1. Be charged with communications between the Society and the
-membership, including but not limited to: e-mail, newsletters,
-Desire2Learn, website, and social media;
-5.3.2. Oversee the creation and distribution of the Society publications;
-5.3.3. Be charged with the supervision of the affairs of the Artistic
-Commissioner, Publications and Social Media Commissioner, and
-the Website Commissioner;
-5.3.4. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.3.5. Maintain a transition document; and,
-5.3.6. Submit an Annual Report and proposed changes to the Policy
-Manual at the Annual General Meeting.
-5.4. The Vice President Corporate Relations Shall
-5.4.1. Be responsible for seeking out and securing sponsorship of the
-Society with corporate sponsors and local organizations;
-5.4.2. Be responsible for maintaining relationships with current
-corporate sponsors and local organizations;
-5.4.3. Be responsible for duties relating to sponsorship documentation
-and applications;
-6
-5.4.4. Be charged with acting as the liaison between the Society and the
-Engineering Career Center, Association of Professional Engineers
-and Geoscientists of Alberta, and any other professional
-organizations;
-5.4.5. Be charged with the supervision of the affairs of the Sponsorship
-and Community Relations Commissioners;
-5.4.6. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.4.7. Maintain a transition document; and,
-5.4.8. Submit an Annual Report and proposed changes to the Policy
-Manual at the Annual General Meeting.
-5.5. The Vice President External shall:
-5.5.1. Be responsible for the external and public relations of the Society,
-including the alumni association, external student organizations,
-and other off-campus groups;
-5.5.2. Be fully reimbursed at the discretion of the Vice President Finance
-for attending and responsibly completing their mandated duties at
-any external voting conference.
-5.5.2.1. In extenuating circumstances, the official proxy of the Vice
-President External shall be fully reimbursed at the
-discretion of the Vice President Finance for attending and
-responsibly completing their mandated duties at any
-external voting conference
-5.5.3. Be charged with the safekeeping of any mascots of the Society;
-5.5.4. Be responsible for supporting issues that are influenced by
-external groups;
-5.5.5. Be responsible for maintaining and updating all of the Society’s
-policies;
-5.5.6. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.5.7. Be charged with the supervision of the affairs of the Competitions
-Commissioner
-5.5.8. Amend any spelling or grammatical errors in Constitution and
-Policy Manual with approval of the President. Notify the Board of
-Directors of this change via email;
-5.5.9. Maintain a transition document; and,
-7
-5.5.10. Submit an Annual Report and proposed changes to the Policy
-Manual at the Annual General Meeting.
-5.6. The Vice President Finance shall:
-5.6.1. Be responsible for any financial affairs related to or involving the
-Society, including the incorporated status of the Society;
-5.6.2. Be responsible for overseeing the financial sustainability of the
-Society;
-5.6.3. Hold financial signing authority with the President and a third
-executive officer;
-5.6.4. Be responsible for all fundraising activities of the Society,
-including but not limited to grants, membership fees;
-5.6.5. Be charged with the supervision of the affairs of the Finance
-Commissioner
-5.6.6. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.6.7. Maintain a transition document; and,
-5.6.8. Submit an Annual Report and proposed changes to the Policy
-Manual at the Annual General Meeting.
-5.7. The Vice President Internal shall:
-5.7.1. Be responsible for internal affairs related to the operations of the
-Society,
-5.7.2. Be responsible for student engagement affairs related to or
-involving the Society;
-5.7.3. Be charged with the supervision of the Graduation Banquet, the
-Grad Directors, and Graduation photos;
-5.7.4. Be responsible for the coordination and implementation of new
-merchandise for the ESS store;
-5.7.5. Be responsible for the internal relations between the Society and
-other on-campus organizations;
-5.7.6. Act as a liaison with the designated Schulich School of
-Engineering representative regarding the Peer Mentorship
-Program;
-5.7.7. Be charged with the supervision of the affairs of the Diversity
-Commissioner, and the Sustainability Commissioner;
-5.7.8. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.7.9. Maintain a transition document; and,
-8
-5.7.10. Submit an Annual Report and proposed changes to the Policy
-Manual at the Annual General Meeting.
-5.8. The Vice President Operations shall:
-5.8.1. Be responsible for the daily operations related to or involving the
-Society;
-5.8.2. Be responsible for administrative duties;
-5.8.3. Be responsible for training others in administrative duties;
-5.8.4. Coordinate with the VP Finance to ensure the finances are
-organized;
-5.8.5. Coordinate with the VP Internal to ensure the office is organized;
-5.8.6. Be charged with the supervision of the affairs of the
-Administration Commissioner and the Technology Commissioner;
-5.8.7. Maintain all the ESS Store’s merchandise inventory;
-5.8.8. Maintain a transition document; and,
-5.8.9. Submit an Annual Report and proposed changes to the Policy
-Manual at the Annual General Meeting.
-5.9. The Vice President Student Life shall:
-5.9.1. Ensure proper social, athletic, and charity events are delivered;
-5.9.2. Be responsible for liaising with committees and task forces that
-influence student life at The Schulich School of Engineering;
-5.9.3. Responsible for representing student issues outside of academics
-within the school;
-5.9.4. Be charged with the supervision of the affairs of the Social
-Commissioner(s);
-5.9.5. Perform any additional duties as directed by the Policy Manual
-and the BoD;
-5.9.6. Maintain a transition document; and,
-5.9.7. Submit an Annual Report and proposed changes to the Policy
-Manual by the Annual General Meeting.
-5.10. The Administration Commissioner shall:
-5.10.1. Have a minimum of two (2) office hours a week;
-5.10.2. Be responsible for assisting the VP Operations with administrative
-duties;
-5.10.3. Be responsible for ESS inventory and supplies;
-5.10.4. Be responsible for monthly inventory checks;
-5.10.5. Maintain a transition document; and,
-9
-5.10.6. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.11. The Artistic Commissioner shall:
-5.11.1. Be responsible for maintaining a consistent image of the Society
-including communications, documents, and other related material;
-5.11.2. Strive to be creative and imaginative in order to promote the
-Society;
-5.11.3. Maintain a transition document; and,
-5.11.4. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.12. The Community Relations Commissioner shall:
-5.12.1. Be responsible for duties relating to partnership documentation
-and applications;
-5.12.2. Be responsible for maintaining partnerships on the membership
-card;
-5.12.3. Be responsible for acquiring partnerships for various events;
-5.12.4. Maintain a transition document; and,
-5.12.5. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.13. The Competitions Commissioner shall:
-5.13.1. Be responsible for overseeing the coordination of the Schulich
-Engineering Competition (SEC) and the High School Engineering
-Competition (HSEC)
-5.13.2. Maintain a transition document; and,
-5.13.3. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.14. The Diversity Commissioner shall:
-5.14.1. Be responsible for assisting the VP Internal in all Diversity and
-Inclusivity related events and affairs;
-5.14.2. Be responsible for supporting Social Commissioners and VP
-Internal in mental health related events and affairs;
-5.14.3. Be responsible for chairing the Diversity Advocacy Committee and
-recruiting directors;
-5.14.4. Maintain a transition document; and,
-5.14.5. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.15. The Finance Commissioner shall:
-10
-5.15.1. Be responsible for assisting the Vice President Operations &
-Finance with overseeing the financial affairs related to or involving
-the society;
-5.15.2. Maintain a transition document; and,
-5.15.3. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.16. The Professional Development Commissioner shall:
-5.16.1. Be responsible for organizing and/or promoting academic and
-professional development initiatives of the society;
-5.16.2. Maintain a transition document; and,
-5.16.3. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.17. The Publications and Social Media Commissioner shall:
-5.17.1. Be responsible for all publications of the Society;
-5.17.2. Be responsible for assisting the VP Communications with all
-social media publications of the Society;
-5.17.3. Be charged with the supervision of the affairs of all committee
-chairs and editors in chief reporting to the VP Communications;
-5.17.4. Maintain a transition document; and,
-5.17.5. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.18. The Social Commissioner(s) shall:
-5.18.1. Be charged with the supervision of the affairs of relevant directors
-and committee chairs reporting to the Vice President Student Life;
-5.18.2. Be responsible for the organization and coordination of social,
-charitable, and athletic events for the members of the Society;
-5.18.3. Be responsible for the organization and coordination of ongoing
-social activities for the members of the Society;
-5.18.4. Be charged with the organization and coordination of major social
-events;
-5.18.5. Maintain a transition document; and,
-5.18.6. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.19. The Sponsorship Commissioner(s) shall:
-5.19.1. Be responsible for assisting the VP Corporate Relations with the
-sponsorship of the Society within corporate community;
-11
-5.19.2. Be responsible for assisting the VP Corporate Relations with
-maintaining relationships with our corporate community;
-5.19.3. Be charged with the supervision of the affairs of the Career Fair
-Director(s);
-5.19.4. Be responsible for assisting the VP Corporate Relations with
-duties relating to sponsorship documentation and applications;
-5.19.5. Maintain a transition document; and,
-5.19.6. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.20. The Sustainability Commissioner shall:
-5.20.1. Be responsible for supporting internal Sustainability related events
-and affairs;
-5.20.2. Be responsible for consulting on Sustainability initiatives related to
-or involving the Society or the Schulich School of Engineering;
-5.20.3. Be responsible for a formal semesterly evaluation of the Society’s
-Sustainability practices;
-5.20.4. Be responsible for assisting in Sustainability related external
-affairs;
-5.20.5. Maintain a transition document; and,
-5.20.6. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.21. The Technology Commissioner shall:
-5.21.1. Actively seek opportunities to improve council and student
-experience with technology;
-5.21.2. Maintain a transition document; and,
-5.21.3. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.22. The Website Commissioner shall:
-5.22.1. Be responsible for assisting the Vice President Communications
-with updating and posting relevant content on the society's
-website;
-5.22.2. Oversee the development and maintenance of the society’s
-website;
-5.22.3. Identify and implement digital methods to effectively reach
-students within the faculty;
-5.22.4. Maintain a transition document; and,
-12
-5.22.5. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers.
-5.23. The First Year Representatives and Spirit Representatives shall:
-5.23.1. Be jointly responsible for any affairs relating to first year
-engineering students;
-5.23.2. Be jointly responsible for encouraging and tracking first year
-engagement in Society activities;
-5.23.3. Be jointly responsible for the promotion of the Society and the
-activities of the Society to first year engineering students;
-5.23.4. Be jointly responsible for the completion of specific projects as
-outlined by the Policy Manual, Executive Officers, or BoD;
-5.23.5. Be each responsible to contribute a minimum number of office
-hours being two (2) hours per week;
-5.23.6. Maintain a transition document; and,
-5.23.7. Perform any additional duties as directed by the Policy Manual
-and the Executive Officers. “
-5.24. The Past President or person appointed by the Past President shall:
-5.24.1. Act in an advisory capacity to the BoD."
+      content: "The President and each VP shall:
+      {{< br >}}
+5.1.1. Maintain respective transition documents;
+{{< br >}}
+5.1.2. Perform any additional duties as directed by the Policy Manual and the Executive Officers; and,
+{{< br >}}
+5.1.3. Submit an Annual Report and proposed changes to the Policy Manual at the Annual General Meeting.
+{{< br >}}
+{{< br >}}
+5.2. Each Commissioner shall:
+{{< br >}}
+5.2.1. Maintain a transition document; and,
+{{< br >}}
+5.2.2. Perform any additional duties as directed by the Policy Manual and the Executive Officers.
+{{< br >}}
+{{< br >}}
+5.3. The President shall:
+{{< br >}}
+5.3.1. Be responsible for the general management and supervision of the affairs of the Society;
+{{< br >}}
+5.3.2. Hold veto power over the decisions and resolutions of the BoD;
+{{< br >}}
+5.3.3. Hold the power to negotiate all contracts and legal matters on behalf of the Society;
+{{< br >}}
+5.3.4. Hold financial signing authority with the Vice President Operations & Finance, and appoint a third Executive Officer to hold financial signing authority;
+{{< br >}}
+5.3.5. Be charged with the supervision of the affairs of the Administrator, Officers and affiliates;
+{{< br >}}
+5.3.6. Appoint one Vice President to assume the duty of the President in case of the latter’s absence, subject to the approval of the BoD;
+{{< br >}}
+5.3.7. Be charged with the supervision of the affairs of the First Year Representatives, and be charged with the supervision of the Department Presidents, and Past President in their work which relates to the Society; and,
+{{< br >}}
+5.3.8. Be charged with liaising with Student Union elected officials.
+{{< br >}}
+{{< br >}}
+5.4. The Vice President Academic shall:
+{{< br >}}
+5.4.1. Be responsible for any academic affairs related to or involving the Society, including member representation;
+{{< br >}}
+5.4.2. Be charged with acting as the liaison between the Society and APEGA, and any other professional organizations;
+{{< br >}}
+5.4.3. Be responsible for professional development affairs related to or involving the Society; and,
+{{< br >}}
+5.4.4. Be charged with the supervision of the affairs of the Professional Development Commissioner.
+{{< br >}}
+{{< br >}}
+5.5. The Vice President Communications shall:
+{{< br >}}
+5.5.1. Be charged with communications between the Society and the membership, including but not limited to: e-mail, newsletters, Desire2Learn, website, and social media;
+{{< br >}}
+5.5.2. Oversee the creation and distribution of the Society publications; and,
+{{< br >}}
+5.5.3. Be charged with the supervision of the affairs of the Artistic Commissioner, Publications and Social Media Commissioner, and the Website Commissioner.
+{{< br >}}
+{{< br >}}
+5.6. The Vice President Corporate Relations shall:
+{{< br >}}
+5.6.1. Be responsible for seeking out and securing sponsorship of the Society with corporate sponsors and local organizations;
+{{< br >}}
+5.6.2. Be responsible for maintaining relationships with current corporate sponsors and local organizations;
+{{< br >}}
+5.6.3. Be responsible for duties relating to sponsorship documentation and applications;
+{{< br >}}
+5.6.4. Be charged with acting as the liaison between the Society and the Engineering Career Center, Association of Professional Engineers and Geoscientists of Alberta, and any other professional organizations; and,
+{{< br >}}
+5.6.5. Be charged with the supervision of the affairs of the Sponsorship and Community Relations Commissioners.
+{{< br >}}
+{{< br >}}
+5.7. The Vice President External shall:
+{{< br >}}
+5.7.1. Be responsible for the external and public relations of the Society, including the alumni association, external student organizations, and other off-campus groups;
+{{< br >}}
+5.7.2. Be fully reimbursed at the discretion of the Vice President Finance for attending and responsibly completing their mandated duties at any external voting conference.
+{{< br >}}
+5.7.2.1 In extenuating circumstances, the official proxy of the Vice President External shall be fully reimbursed at the discretion of the Vice President Finance for attending and responsibly completing their mandated duties at any external voting conference.
+{{< br >}}
+5.7.3. Be charged with the safekeeping of any mascots of the Society;
+{{< br >}}
+5.7.4. Be responsible for supporting issues that are influenced by external groups;
+{{< br >}}
+5.7.5. Be responsible for maintaining and updating all of the Society’s policies;
+{{< br >}}
+5.7.6. Be charged with the supervision of the affairs of the Competitions Commissioner; and,
+{{< br >}}
+5.7.7. Amend any spelling or grammatical errors in Constitution and Policy Manual with approval of the President. Notify the Board of Directors of this change via email.
+{{< br >}}
+{{< br >}}
+5.8. The Vice President Finance shall:
+{{< br >}}
+5.8.1. Be responsible for any financial affairs related to or involving the Society, including the incorporated status of the Society;
+{{< br >}}
+5.8.2. Be responsible for overseeing the financial sustainability of the Society;
+{{< br >}}
+5.8.3. Hold financial signing authority with the President and a third executive officer;
+{{< br >}}
+5.8.4. Be responsible for all fundraising activities of the Society, including but not limited to grants, membership fees; and,
+{{< br >}}
+5.8.5. Be charged with the supervision of the affairs of the Finance Commissioner.
+{{< br >}}
+{{< br >}}
+5.9. The Vice President Internal shall:
+{{< br >}}
+5.9.1. Be responsible for internal affairs related to the operations of the Society;
+{{< br >}}
+5.9.2. Be responsible for student engagement affairs related to or involving the Society;
+{{< br >}}
+5.9.3. Be charged with the supervision of the Graduation Banquet, the Grad Directors, and Graduation photos;
+{{< br >}}
+5.9.4. Be responsible for the internal relations between the Society and other on-campus organizations;
+{{< br >}}
+5.9.5. Act as a liaison with the designated Schulich School of Engineering representative regarding the Peer Mentorship Program; and,
+{{< br >}}
+5.9.6. Be charged with the supervision of the affairs of the Diversity Commissioner, and the Sustainability Commissioner.
+{{< br >}}
+{{< br >}}
+5.10. The Vice President Operations shall:
+{{< br >}}
+5.10.1. Be responsible for the daily operations related to or involving the Society;
+{{< br >}}
+5.10.2. Be responsible for administrative duties;
+{{< br >}}
+5.10.3. Be responsible for training others in administrative duties;
+{{< br >}}
+5.10.4. Coordinate with the VP Finance to ensure the finances are organized;
+{{< br >}}
+5.10.5. Coordinate with the VP Internal to ensure the office is organized;
+{{< br >}}
+5.10.6. Be charged with the supervision of the affairs of the Administration Commissioner and the Technology Commissioner;
+{{< br >}}
+5.10.7. Maintain all the ESS Store’s merchandise inventory; and,
+{{< br >}}
+5.10.8. Be responsible for the coordination and implementation of new merchandise for the ESS store.
+{{< br >}}
+{{< br >}}
+5.11. The Vice President Student Life shall:
+{{< br >}}
+5.11.1. Ensure proper social, athletic, and charity events are delivered;
+{{< br >}}
+5.11.2. Be responsible for liaising with committees and task forces that influence student life at The Schulich School of Engineering;
+{{< br >}}
+5.11.3. Responsible for representing student issues outside of academics within the school; and,
+{{< br >}}
+5.11.4. Be charged with the supervision of the affairs of the Social Commissioner(s).
+{{< br >}}
+{{< br >}}
+5.12. The Administration Commissioner shall:
+{{< br >}}
+5.12.1. Have a minimum of two (2) office hours a week;
+{{< br >}}
+5.12.2. Be responsible for assisting the VP Operations with administrative duties;
+{{< br >}}
+5.12.3. Be responsible for ESS inventory and supplies; and
+{{< br >}}
+5.12.4. Be responsible for monthly inventory checks.
+{{< br >}}
+{{< br >}}
+5.13. The Artistic Commissioner shall:
+{{< br >}}
+5.13.1. Be responsible for maintaining a consistent image of the Society including communications, documents, and other related material; and,
+{{< br >}}
+5.13.2. Strive to be creative and imaginative in order to promote the Society.
+{{< br >}}
+{{< br >}}
+5.14. The Community Relations Commissioner shall:
+{{< br >}}
+5.14.1. Be responsible for duties relating to partnership documentation and applications;
+{{< br >}}
+5.14.2. Be responsible for maintaining partnerships on the membership card; and,
+{{< br >}}
+5.14.3. Be responsible for acquiring partnerships for various events.
+{{< br >}}
+{{< br >}}
+5.15. The Competitions Commissioner shall:
+{{< br >}}
+5.15.1. Be responsible for overseeing the coordination of the Schulich Engineering Competition (SEC) and the High School Engineering Competition (HSEC).
+{{< br >}}
+{{< br >}}
+5.16. The Diversity Commissioner shall:
+{{< br >}}
+5.16.1. Be responsible for assisting the VP Internal in all Diversity and Inclusivity related events and affairs;
+{{< br >}}
+5.16.2. Be responsible for supporting Social Commissioners and VP Internal in mental health related events and affairs; and,
+{{< br >}}
+5.16.3. Be responsible for chairing the Diversity Advocacy Committee and recruiting directors.
+{{< br >}}
+{{< br >}}
+5.17. The Finance Commissioner shall:
+{{< br >}}
+5.17.1. Be responsible for assisting the Vice President Operations & Finance with overseeing the financial affairs related to or involving the society.
+{{< br >}}
+{{< br >}}
+5.18. The Professional Development Commissioner shall:
+{{< br >}}
+5.18.1. Be responsible for organizing and/or promoting academic and professional development initiatives of the society.
+{{< br >}}
+{{< br >}}
+5.19.  The Publications and Social Media Commissioner shall:
+{{< br >}}
+5.19.1. Be responsible for all publications of the Society;
+{{< br >}}
+5.19.2. Be responsible for assisting the VP Communications with all social media publications of the Society; and,
+{{< br >}}
+5.19.3. Be charged with the supervision of the affairs of all committee chairs and editors in chief reporting to the VP Communications.
+{{< br >}}
+{{< br >}}
+5.20. The Social Commissioner(s) shall:
+{{< br >}}
+5.20.1. Be charged with the supervision of the affairs of relevant directors and committee chairs reporting to the Vice President Student Life;
+{{< br >}}
+5.20.2. Be responsible for the organization and coordination of social, charitable, and athletic events for the members of the Society;
+{{< br >}}
+5.20.3. Be responsible for the organization and coordination of ongoing social activities for the members of the Society; and,
+{{< br >}}
+5.20.4.Be charged with the organization and coordination of major social events.
+{{< br >}}
+{{< br >}}
+5.21. The Sponsorship Commissioner(s) shall:
+{{< br >}}
+5.21.1. Be responsible for assisting the VP Corporate Relations with the sponsorship of the Society within corporate community;
+{{< br >}}
+5.21.2. Be responsible for assisting the VP Corporate Relations with maintaining relationships with our corporate community;
+{{< br >}}
+5.21.3. Be charged with the supervision of the affairs of the Career Fair Director(s); and,
+{{< br >}}
+5.21.4. Be responsible for assisting the VP Corporate Relations with duties relating to sponsorship documentation and applications.
+{{< br >}}
+{{< br >}}
+5.22. The Sustainability Commissioner shall:
+{{< br >}}
+5.22.1. Be responsible for supporting internal Sustainability related events and affairs;
+{{< br >}}
+5.22.2. Be responsible for consulting on Sustainability initiatives related to or involving the Society or the Schulich School of Engineering;
+{{< br >}}
+5.22.3. Be responsible for a formal semesterly evaluation of the Society’s Sustainability practices; and,
+{{< br >}}
+5.22.4. Be responsible for assisting in Sustainability related external affairs.
+{{< br >}}
+{{< br >}}
+5.23. The Technology Commissioner shall:
+{{< br >}}
+5.23.1. Actively seek opportunities to improve council and student experience with technology.
+{{< br >}}
+5.24. The Website Commissioner shall:
+{{< br >}}
+5.24.1. Be responsible for assisting the Vice President Communications with updating and posting relevant content on the society's website;
+{{< br >}}
+5.24.2. Oversee the development and maintenance of the society’s website; and,
+{{< br >}}
+5.24.3. Identify and implement digital methods to effectively reach students within the faculty.
+{{< br >}}
+{{< br >}}
+5.24. The First Year Representatives and Spirit Representatives shall:
+{{< br >}}
+5.24.1. Be jointly responsible for any affairs relating to first year engineering students;
+{{< br >}}
+5.24.2. Be jointly responsible for encouraging and tracking first year engagement in Society activities;
+{{< br >}}
+5.24.3. Be jointly responsible for the promotion of the Society and the activities of the Society to first year engineering students;
+{{< br >}}
+5.24.4. Be jointly responsible for the completion of specific projects as outlined by the Policy Manual, Executive Officers, or BoD; and,
+{{< br >}}
+5.24.5. Be each responsible to contribute a minimum number of office hours being two (2) hours per week.
+{{< br >}}
+{{< br >}}
+5.26. The Past President or person appointed by the Past President shall:
+{{< br >}}
+5.26.1. Act in an advisory capacity to the BoD."
+
     - name: "ARTICLE 6 - DEPARTMENT SOCIETIES"
-      content: "6.1. A Department Society is defined as a student association representing a
-major department as defined by the Schulich School of Engineering;
-6.2. An Interdepartmental Minor Society is defined as a student association
-representing an interdepartmental minor as defined by the Schulich
-School of Engineering;
-6.3. A Department Society President will be eligible for a seat on the BoD
-provided it is approved by an extraordinary resolution (No less than 75%
-of votes) of the Society, and so long as the goals of the Department
-Society meet that of the Society;
-6.4. An Interdepartmental Minor Society President will be eligible for a
-non-voting seat on the BoD provided it is approved by an extraordinary
-resolution (No less than 75% of votes) of the Society, and so long as the
-goals of the Interdepartmental Minor Society meet that of the Society;
-6.5. Interdepartmental Minor Society Presidents with a non-voting seat on the
-BoD will be eligible for an individual or a shared voting seat on the BoD
-provided it is shared among Interdepartmental Minor Society Presidents,
-13
-it is approved by an extraordinary resolution of the Society, and so long as
-the goals for the Interdepartmental Minor Society meet that of the
-Society; and,
-6.6. A BoD vote may be removed from an Interdepartmental Minor Society
-President provided it is approved by an extraordinary resolution (No less
-than 75% of votes) of the Society. A BoD vote may only be removed so
-long as the goals of the Interdepartmental Minor Society no longer meet
-that of the Society, or in the case an interdepartmental minor becomes a
-major department as defined by the Schulich School of Engineering."
+      content: "A Department Society is defined as a student association representing a major department as defined by the Schulich School of Engineering;
+      {{< br >}}
+      {{< br >}}
+6.2. An Interdepartmental Minor Society is defined as a student association representing an interdepartmental minor as defined by the Schulich School of Engineering;
+{{< br >}}
+{{< br >}}
+6.3. A Department Society President will be eligible for a seat on the BoD provided it is approved by an extraordinary resolution (No less than 75% of votes) of the Society, and so long as the goals of the Department Society meet that of the Society;
+{{< br >}}
+{{< br >}}
+6.4. An Interdepartmental Minor Society President will be eligible for a non-voting seat on the BoD provided it is approved by an extraordinary resolution (No less than 75% of votes) of the Society, and so long as the goals of the Interdepartmental Minor Society meet that of the Society;
+{{< br >}}
+{{< br >}}
+6.5.Interdepartmental Minor Society Presidents with a non-voting seat on the BoD will be eligible for an individual or a shared voting seat on the BoD provided it is shared among Interdepartmental Minor Society Presidents, it is approved by an extraordinary resolution of the Society, and so long as the goals for the Interdepartmental Minor Society meet that of the Society; and,
+{{< br >}}
+{{< br >}}
+6.6. A BoD vote may be removed from an Interdepartmental Minor Society President provided it is approved by an extraordinary resolution (No less than 75% of votes) of the Society. A BoD vote may only be removed so long as the goals of the Interdepartmental Minor Society no longer meet that of the Society, or in the case an interdepartmental minor becomes a major department as defined by the Schulich School of Engineering."
+
     - name: "ARTICLE 7 – MEETINGS OF THE SOCIETY"
-      content: "Meetings held for the business of the Society shall take on the following forms: Plenary
-Meeting, Annual General Meeting, BoD Meeting, and Executive Officer Meeting. All
-meetings shall adhere to proper parliamentary procedure, based on “Modified Robert’s
-Rules of Order”, unless otherwise stated by the chair.
+      content: "Meetings held for the business of the Society shall take on the following forms: Plenary Meeting, Annual General Meeting, BoD Meeting, and Executive Officer Meeting. All meetings shall adhere to proper parliamentary procedure, based on “Modified Robert’s Rules of Order”, unless otherwise stated by the chair.
+      {{< br >}}
+      {{< br >}}
 7.1. Plenary Meetings shall be held prior to a scheduled General Meeting
-7.1.1. Plenary meetings must occur prior to the final deadline for motion
-submission of the General Meeting. Notice of the Plenary
-meetings shall be made public stating the time and place of the
-meeting, given to the membership, and posted in prominent places
-in the Engineering Building at the University of Calgary. No error or
-omission in giving notice of any General Meeting shall invalidate
-such meeting or make void any proceedings taken thereat, as long
-as the membership is notified within twenty-four (24) hours of the
-error or omission. Any member may at any time ratify, approve,
-and confirm any or all proceedings taken thereat;
-7.1.2. Quorum of a Plenary Meeting shall consist of the membership
-present at the meeting at time of starting;
-7.1.3. Voting rights and speaking rights are accorded to each Active
-Member of the Society represented either in person or by written
-proxy;
-7.1.4. Motions by the active membership must be submitted to the
-Plenary Chair prior to the Plenary Meeting and,
-7.1.5. Adjournment of any Plenary Meeting to any time may occur, at
-which outstanding, relevant business may be transacted.
-14
-7.2. The Annual General Meeting shall be held in Calgary on such a date
-between February 15 and March 15 of each year, as the BoD shall
-determine by resolution:
-7.2.1. Notice of the Annual General Meeting shall be made public stating
-the time and place of the meeting, given to the membership, and
-posted in prominent places in the Engineering Building at the
-University of Calgary a minimum of fourteen (14) days before the
-time fixed for the holding of such meetings. No error or omission
-in giving notice of any General Meeting shall invalidate such
-meeting or make void any proceedings taken thereat, as long as
-the membership is notified within twenty-four (24) hours of the
-error or omission. Any member may at any time ratify, approve,
-and confirm any or all proceedings taken thereat;
-7.2.2. Quorum of an Annual General Meeting shall consist of five (5)
-percent of the Active Members of the Society represented either in
-person or by written proxy. In the event a quorum is not present
-within ten (10) minutes after the time called for the meeting, the
-meeting shall stand adjourned to a time and place determined by
-the Chair, and a quorum at any such adjourned meeting shall be
-those members who shall be present at such adjourned meeting.
-No notice shall be required of any such adjourned meeting;
-7.2.3. Transactions of business at any Annual General Meeting must
-include, but are not limited to the reports of the Executive Officers
-of the Society and the Society’s financial reports;
-7.2.4. Voting rights are accorded to each Active Member of the Society
-represented either in person or by written proxy;
-7.2.5. Motions by the active membership must be submitted to the
-Annual General Meeting Chair at least ten (10) days before the
-Annual General Meeting. Counter-proposals must be submitted to
-the Chair at least seven (7) days before the meeting; and,
-7.2.6. Adjournment of any General Meeting to any time may occur, at
-which outstanding, relevant business may be transacted.
-7.2.6.1. Such adjournment may be made notwithstanding that no
-quorum is present.
-7.2.7. If deemed appropriate and passed by extraordinary motion of the
-BoD, an emergency Plenary and General Meeting may be held at
-any time outside of the dates specified in Article 8, section a in
-15
-accordance with Article 8, Section a, subsections I, II, IV, V, and VI
-and Article 8, Section b, subsections I-V.
-7.3. BoD Meetings shall be held at regular intervals on the University of
-Calgary campus as deemed appropriate by the BoD:
-7.3.1. BoD Meetings must be called by the President of the Society.
-Notice of such meetings shall be given no less than two days in
-advance. A BoD Meeting may also be held, without notice,
-immediately following the Annual General Meeting of the Society.
-No error or omission in giving notice of any BoD Meeting shall
-invalidate such meeting or make void any proceedings taken
-thereat, and any member of the Society may attend and at any
-time review any or all proceedings taken thereat;
-7.3.2. Quorum of a BoD Meeting shall consist of two-thirds of the BoD of
-the Society represented in person. In extraordinary circumstances
-preventing in person attendance for legal or safety reasons,
-quorum of a BoD Meeting may consist of two-thirds of the BoD of
-the Society represented online and in person. In the absence of a
-quorum, the transaction of regular business shall be permitted,
-although no official decisions or resolutions may be made;
-7.3.3. Transaction of all business of general or specific nature shall be
-permitted at all BoD Meetings;
-7.3.4. Each member of the BoD is entitled to one vote on any decisions
-or resolutions of the Society, with the exception of the first year
-representatives, that have a single combined vote or any
-Interdepartmental Minor Society Presidents that share a vote;
-7.3.5. Adjournment of any BoD Meeting may occur, and such business
-may be transacted at such adjourned meeting as might have been
-transacted at the original meeting from which such adjournment
-took place. The adjourned meeting shall follow guidelines as for
-any other BoD Meeting.
-7.3.6. Should a BoD member be unable to attend a meeting, the
-President of the Society must be given 24 hours notice by written
-proxy. Proxies must stay within the department or portfolio that
-holds the vote. Failing that, Executive officers may proxy to other
-appointed officers of the Society.
-16
-7.4. Executive Officer Meetings shall be called as deemed appropriate by the
-President of the Society, and shall follow such guidelines as determined
-by the President."
+{{< br >}}
+7.1.1. Plenary meetings must occur prior to the final deadline for motion submission of the General Meeting. Notice of the Plenary meetings shall be made public stating the time and place of the meeting, given to the membership, and posted in prominent places in the Engineering Building at the University of Calgary. No error or omission in giving notice of any General Meeting shall invalidate such meeting or make void any proceedings taken thereat, as long as the membership is notified within twenty-four (24) hours of the error or omission. Any member may at any time ratify, approve, and confirm any or all proceedings taken thereat;
+{{< br >}}
+7.1.2. Quorum of a Plenary Meeting shall consist of the membership present at the meeting at time of starting;
+{{< br >}}
+7.1.3. Voting rights and speaking rights are accorded to each Active Member of the Society represented either in person or by written proxy;
+{{< br >}}
+7.1.4. Motions by the active membership must be submitted to the Plenary Chair prior to the Plenary Meeting and,
+{{< br >}}
+7.1.5. Adjournment of any Plenary Meeting to any time may occur, at which outstanding, relevant business may be transacted.
+{{< br >}}
+{{< br >}}
+7.2. The Annual General Meeting shall be held in Calgary on such a date between February 15 and March 15 of each year, as the BoD shall determine by resolution:
+{{< br >}}
+7.2.1. Notice of the Annual General Meeting shall be made public stating the time and place of the meeting, given to the membership, and posted in prominent places in the Engineering Building at the University of Calgary a minimum of fourteen (14) days before the time fixed for the holding of such meetings. No error or omission in giving notice of any General Meeting shall invalidate such meeting or make void any proceedings taken thereat, as long as the membership is notified within twenty-four (24) hours of the error or omission. Any member may at any time ratify, approve, and confirm any or all proceedings taken thereat;
+{{< br >}}
+7.2.2. Quorum of an Annual General Meeting shall consist of five (5) percent of the Active Members of the Society represented either in person or by written proxy. In the event a quorum is not present within ten (10) minutes after the time called for the meeting, the meeting shall stand adjourned to a time and place determined by the Chair, and a quorum at any such adjourned meeting shall be those members who shall be present at such adjourned meeting. No notice shall be required of any such adjourned meeting;
+{{< br >}}
+7.2.3. Transactions of business at any Annual General Meeting must include, but are not limited to the reports of the Executive Officers of the Society and the Society’s financial reports;
+{{< br >}}
+7.2.4. Voting rights are accorded to each Active Member of the Society represented either in person or by written proxy;
+{{< br >}}
+7.2.5. Motions by the active membership must be submitted to the Annual General Meeting Chair at least ten (10) days before the Annual General Meeting. Counter-proposals must be submitted to the Chair at least seven (7) days before the meeting; and,
+{{< br >}}
+7.2.6. Adjournment of any General Meeting to any time may occur, at which outstanding, relevant business may be transacted.
+{{< br >}}
+7.2.6.1. Such adjournment may be made notwithstanding that no quorum is present.
+{{< br >}}
+7.2.7. If deemed appropriate and passed by extraordinary motion of the BoD, an emergency Plenary and General Meeting may be held at any time outside of the dates specified in Article 8, section a in accordance with Article 8, Section a, subsections I, II, IV, V, and VI and Article 8, Section b, subsections I-V.
+{{< br >}}
+{{< br >}}
+7.3. BoD Meetings shall be held at regular intervals on the University of Calgary campus as deemed appropriate by the BoD:
+{{< br >}}
+7.3.1. BoD Meetings must be called by the President of the Society. Notice of such meetings shall be given no less than two days in advance. A BoD Meeting may also be held, without notice, immediately following the Annual General Meeting of the Society. No error or omission in giving notice of any BoD Meeting shall invalidate such meeting or make void any proceedings taken thereat, and any member of the Society may attend and at any time review any or all proceedings taken thereat;
+{{< br >}}
+7.3.2. Quorum of a BoD Meeting shall consist of two-thirds of the BoD of the Society represented in person. In extraordinary circumstances preventing in person attendance for legal or safety reasons, quorum of a BoD Meeting may consist of two-thirds of the BoD of the Society represented online and in person. In the absence of a quorum, the transaction of regular business shall be permitted, although no official decisions or resolutions may be made;
+{{< br >}}
+7.3.3. Transaction of all business of general or specific nature shall be permitted at all BoD Meetings;
+{{< br >}}
+7.3.4. Each member of the BoD is entitled to one vote on any decisions or resolutions of the Society, with the exception of the First Year Representatives that have a single combined vote, the SU Engineering Representatives that have a single combined vote, and any Interdepartmental Minor Society Presidents that share a vote;
+{{< br >}}
+7.3.5. Adjournment of any BoD Meeting may occur, and such business may be transacted at such adjourned meeting as might have been transacted at the original meeting from which such adjournment took place. The adjourned meeting shall follow guidelines as for any other BoD Meeting.
+{{< br >}}
+7.3.6. Should a BoD member be unable to attend a meeting, the President of the Society must be given 24 hours notice by written proxy. Proxies must stay within the department or portfolio that holds the vote. Failing that, Executive officers may proxy to other appointed officers of the Society.
+{{< br >}}
+{{< br >}}
+7.4. Executive Officer Meetings shall be called as deemed appropriate by the President of the Society, and shall follow such guidelines as determined by the President."
+
     - name: "ARTICLE 8 – ELECTION OF THE OFFICERS OF THE SOCIETY"
-      content: "8.1. The Chief Returning Officer (CRO) shall be responsible for all proceedings
-of the Annual General Meeting and the election process, and shall provide
-proper notice to all members of the Society of the Annual General
-Meeting and Election (via the Administrator, President, or Vice President
-Communications):
-8.1.1. The CRO shall be selected by the BoD through resolution, where
-candidates shall adhere to the following guidelines:
+      content: "8.1. The Chief Returning Officer (CRO) shall be responsible for all proceedings of the Annual General Meeting and the election process, and shall provide proper notice to all members of the Society of the Annual General Meeting and Election (via the Administrator, President, or Vice President Communications):
+{{< br >}}
+8.1.1. The CRO shall be selected by the BoD through resolution, where candidates shall adhere to the following guidelines:
+{{< br >}}
 8.1.1.1. The candidate shall not be an Officer of the Society;
-8.1.1.2. The candidate shall be a past officer of the Society
-8.1.1.3. The candidate shall not declare candidacy for any position
-in the Election;
-8.1.1.4. Upon selection of the CRO, they shall be deemed ineligible
-to vote in the election of that year
-8.1.1.5. All procedures of the Annual General Meeting and the
-election process must be motioned to the BoD and
-approved before the CRO implements them;
+{{< br >}}
+8.1.1.2. The candidate shall be a past officer of the Society;
+{{< br >}}
+8.1.1.3. The candidate shall not declare candidacy for any position in the Election;
+{{< br >}}
+8.1.1.4. Upon selection of the CRO, they shall be deemed ineligible to vote in the election of that year
+{{< br >}}
+8.1.1.5. All procedures of the Annual General Meeting and the election process must be motioned to the BoD and approved before the CRO implements them;
+{{< br >}}
 8.1.1.6. Removal of the CRO occurs as follows:
-8.1.1.6.1. A written motion is submitted to the BoD which is
-then voted on at the earliest meeting of the BoD,
-from which expulsion of the CRO can be approved
-or denied; and,
-8.1.1.6.2. Re-appointment of a new CRO follows similar
-selection processes to original CRO selection. The
-removed CRO is no longer considered an eligible
-candidate.
-8.2. Nominations for President of the Society, in accordance with Article 4,
-subsection (b), shall meet the following criteria. Failure to do so will
-automatically deem the candidate ineligible:
-8.2.1. The candidate must be an Active Member in the Society and a
-full-time undergraduate engineering student in the Schulich School
-of Engineering, meeting any of the following requirements:
-17
-8.2.1.1. Has served one full term as an Executive Officer of the
-Society, or;
-8.2.1.2. Has served one full term as an Appointed Officer of the
-Society, excluding First Year Representatives; or,
-8.2.1.3. Has served one full term as the President of a Department
-Society in accordance with Article 7 of this Constitution.
-8.2.2. The candidate must have a good academic standing for a full
-engineering course load over the previous academic semester as
-defined by the Schulich School of Engineering;
-8.2.2.1. In the event that the candidate is on internship, the
-candidate must be in good academic standing in the
-review period prior to their internship as defined by the
-Schulich School of Engineering.
-8.2.3. The candidate will not enroll in more than six half courses per
-semester for the upcoming academic year, and must maintain a
-full-time student status in engineering; and,
-8.2.4. The candidate will not enter the Engineering Internship Program
-for the upcoming academic year.
-8.3. Nominations for the Executive Officers of the Society in accordance with
-Article 4, subsection (b) shall meet the following criteria. Failure to do so
-will automatically deem the candidate ineligible.
+{{< br >}}
+8.1.1.6.1. A written motion is submitted to the BoD which is then voted on at the earliest meeting of the BoD, from which expulsion of the CRO can be approved or denied; and,
+{{< br >}}
+8.1.1.6.2. Re-appointment of a new CRO follows similar selection processes to original CRO selection. The removed CRO is no longer considered an eligible candidate.
+{{< br >}}
+{{< br >}}
+8.2. Nominations for President of the Society, in accordance with Article 4, subsection (b), shall meet the following criteria. Failure to do so will automatically deem the candidate ineligible:
+{{< br >}}
+8.2.1. The candidate must be an Active Member in the Society and a full-time undergraduate engineering student in the Schulich School of Engineering, meeting any of the following requirements:
+{{< br >}}
+8.2.1.1. Has served one full term as an Executive Officer of the Society, or;
+{{< br >}}
+8.2.1.2. Has served one full term as the President of a Department Society in accordance with Article 6 of this Constitution.
+{{< br >}}
+8.2.2. The candidate must have a good academic standing for a full engineering course load over the previous academic semester as defined by the Schulich School of Engineering;
+{{< br >}}
+8.2.2.1. In the event that the candidate is on internship, the candidate must be in good academic standing in the review period prior to their internship as defined by the Schulich School of Engineering.
+{{< br >}}
+8.2.3. The candidate will not enroll in more than six half courses per semester for the upcoming academic year, and must maintain a full-time student status in engineering; and,
+{{< br >}}
+8.2.4. The candidate will not enter the Engineering Internship Program for the upcoming academic year.
+{{< br >}}
+{{< br >}}
+8.3. Nominations for the Executive Officers of the Society in accordance with Article 4, subsection (b) shall meet the following criteria. Failure to do so will automatically deem the candidate ineligible.
+{{< br >}}
 8.3.1. The candidate must be an Active Member in the Society;
-8.3.2. The candidate must have a good academic standing for a full
-engineering course load over the previous academic semester as
-defined by the Schulich School of Engineering;
-8.3.2.1. In the event that the candidate is on internship, the
-candidate must be in good academic standing in the
-review period prior to their internship as defined by the
-Schulich School of Engineering.
-8.3.3. The candidate will not enroll in more than six half courses per
-semester for the upcoming academic year, and must maintain a
-full-time student status in engineering; and,
-8.3.4. The candidate will not enter the Engineering Internship Program
-for the upcoming academic year.
-8.4. Nominations shall be accepted at least seven (7) days prior to the first
-voting day of the election. No less than ten (10) eligible voting members
-of the Society shall endorse each nomination. Copies of the completed
-18
-nomination forms shall be posted in a prominent place at least seven (7)
-days prior to the first voting day of the election. All concerns regarding the
-validity of nominations must be settled by the CRO at least twenty-four
-(24) hours before the day of the election;
-8.5. Any campaign activity consistent with relevant university policies shall be
-permitted, up to the discretion of the CRO and approved by the BoD as
-stated in Article 9, subsection (a), subpoint (ii);
-8.6. Election of the Executive Officers of the Society shall start (first voting
-day) no more than fourteen (14) days after the Annual General Meeting.
-The BoD through resolution shall determine the election date. Eligible
-voters shall be any current undergraduate engineering student studying at
-the Schulich School of Engineering. Casting of the votes and counting of
-the ballots shall be held in the presence of scrutinizers appointed by the
-candidates and returning officers appointed by the CRO;
-8.7. Appeals to the election results shall be accepted by the CRO up to one (1)
-week following the election date. Upon receipt of an appeal, the CRO shall
-strike an Appeals Committee, which shall immediately meet, and
-determine through consensus the most appropriate course of action;
-8.8. Any vacant position among the Executive Officers shall immediately and
-temporarily be occupied by an appointed candidate determined through
-resolution by the BoD. A by-election shall be held at the earliest opportune
-time during the Fall and Winter terms, as defined by the University of
-Calgary’s Academic Schedule;
-8.9. Should a candidate be elected to the role of Department President and
-accept the position, they will become ineligible to hold the position of
-Executive Officer on ESS; and,
-8.9.1. A student holding both an Executive position on ESS and the
-position of Department President, due to different election
-periods, will be required to resign from their ESS position, citing
-ineligibility;
-8.10. Appointed Officers of the Society shall be selected by a committee
-immediately following the election. The committee shall consist of no
-less than three outgoing or incoming Executive Officers in addition to one
-independent observer. The BoD shall approve all appointments; and,
-8.11. Ceremonies to mark the official change of the Officers of the Society shall
-take place on the date determined by the Students’ Union to be Bermuda
-19
-Shorts Day. The terms of office of incoming Officers begin on this day, and
-end on this day the following year."
+{{< br >}}
+8.3.2. The candidate must have a good academic standing for a full engineering course load over the previous academic semester as defined by the Schulich School of Engineering;
+{{< br >}}
+8.3.2.1. In the event that the candidate is on internship, the candidate must be in good academic standing in the review period prior to their internship as defined by the Schulich School of Engineering.
+{{< br >}}
+8.3.3. The candidate will not enroll in more than six half courses per semester for the upcoming academic year, and must maintain a full-time student status in engineering; and,
+{{< br >}}
+8.3.4. The candidate will not enter the Engineering Internship Program for the upcoming academic year.
+{{< br >}}
+{{< br >}}
+8.4.Nominations shall be accepted at least seven (7) days prior to the first voting day of the election. No less than fifteen (15) eligible voting members of the Society shall endorse each nomination. Copies of the completed nomination forms shall be posted in a prominent place at least seven (7) days prior to the first voting day of the election. All concerns regarding the validity of nominations must be settled by the CRO at least twenty-four (24) hours before the day of the election;
+{{< br >}}
+{{< br >}}
+8.5. Any campaign activity consistent with relevant university policies shall be permitted, up to the discretion of the CRO and approved by the BoD as stated in Article 9, subsection (a), subpoint (ii);
+{{< br >}}
+{{< br >}}
+8.6. Election of the Executive Officers of the Society shall start (first voting day) no more than fourteen (14) days after the Annual General Meeting. The BoD through resolution shall determine the election date. Eligible voters shall be any current undergraduate engineering student studying at the Schulich School of Engineering. Casting of the votes and counting of the ballots shall be held in the presence of scrutinizers appointed by the candidates and returning officers appointed by the CRO;
+{{< br >}}
+{{< br >}}
+8.7. Appeals to the election results shall be accepted by the CRO up to one (1) week following the election date. Upon receipt of an appeal, the CRO shall strike an Appeals Committee, which shall immediately meet, and determine through consensus the most appropriate course of action;
+{{< br >}}
+{{< br >}}
+8.8. Any vacant position among the Executive Officers shall immediately and temporarily be occupied by an appointed candidate determined through resolution by the BoD. A by-election shall be held at the earliest opportune time during the Fall and Winter terms, as defined by the University of Calgary’s Academic Schedule;
+{{< br >}}
+{{< br >}}
+8.9. Should a candidate be elected to the role of Department President and accept the position, they will become ineligible to hold the position of Executive Officer on ESS; and,
+{{< br >}}
+8.9.1. A student holding both an Executive position on ESS and the position of Department President, due to different election periods, will be required to resign from their ESS position, citing ineligibility;
+{{< br >}}
+{{< br >}}
+8.10. Appointed Officers of the Society shall be selected by a committee immediately following the election. The committee shall consist of no less than three outgoing or incoming Executive Officers in addition to one independent observer. The BoD shall approve all appointments; and,
+{{< br >}}
+{{< br >}}
+8.11. Ceremonies to mark the official change of the Officers of the Society shall take place on the date determined by the Students’ Union to be Bermuda Shorts Day. The terms of office of incoming Officers begin on this day, and end on this day the following year."
+
     - name: "ARTICLE 9 – ACTIVITIES HOSTED BY THE SOCIETY"
-      content: "9.1. Any Organizing Committee wishing to host an Activity (Conference or
-Competition) offered by either the Canadian Federation of Engineering
-Students or Western Engineering Students’ Societies must obtain a
-signed letter of approval from the President of the Society;
-9.2. The Chair of the Organizing Committee must have bi-monthly meetings or
-more often if deemed necessary with the President and VP External of the
-Society in the year leading up to the Activity."
+      content: "9.1. Any Organizing Committee wishing to host an Activity (Conference or Competition) offered by either the Canadian Federation of Engineering Students or Western Engineering Students’ Societies must obtain a signed letter of approval from the President of the Society;
+      {{< br >}}
+      {{< br >}}
+9.2. The Chair of the Organizing Committee must have bi-monthly meetings or more often if deemed necessary with the President and VP External of the Society in the year leading up to the Activity."
+
     - name: "ARTICLE 10 – TERMS OF OFFICE"
-      content: "10.1. Any Executive Officer or Appointed Officer of the Society wishing to resign
-from their position or no longer eligible to hold office may be removed
-from office through the following procedure:
-10.1.1. The Officer will submit their written resignation to the BoD, and if
-they choose to do so, will verbally confirm their intention at a
-Meeting of the BoD;
+      content: "10.1. Any Executive Officer or Appointed Officer of the Society wishing to resign from their position or no longer eligible to hold office may be removed from office through the following procedure:
+      {{< br >}}
+10.1.1. The Officer will submit their written resignation to the BoD, and if they choose to do so, will verbally confirm their intention at a Meeting of the BoD;
+{{< br >}}
 10.1.2. The Officer will be relieved of their duties; and,
-10.1.3. The BoD shall decide on a course of action to replace the outgoing
-Officer;
-10.1.3.1. If the President has submitted written resignation to the
-BoD, becomes ineligible to hold office, or is impeached, the
-interim presidency shall be offered for acceptance or
-declination to the Executive Officers of the Society in
-alphabetical order, by position name, with the Vice
-President Operations and Finance last and the Executive
-Officer holding the third signing authority second last, to
-maintain separation of signing authority;
-10.1.3.2. The interim president shall be ratified by resolution of the
-BoD; and,
-10.1.3.3. A by-election may follow at the discretion of the BoD for
-the vacant President position.
-20
-10.2. Any Executive Officer of the Society deemed to be failing in their duties
-may be removed from office through the following procedure:
-10.2.1. A written motion shall be submitted to the BoD requesting an
-Impeachment Hearing. This motion must have the explicit
-endorsement of a minimum of three (3) percent of the Active
-Members of the Society;
-10.2.2. The BoD shall vote to accept the motion. The matter shall be
-tabled until the following BoD Meeting. Notice shall immediately
-be given one (1) week before the Impeachment Hearing;
-10.2.3. The Officer shall be given fair opportunity to defend their position.
-The matter may, at most, be deferred once if the Officer is absent
-from their Impeachment Hearing;
-10.2.4. The BoD may, after the Impeachment Hearing and through an
-extraordinary resolution, relieve the Officer of their duties; and,
-10.2.5. The BoD shall decide on a course of action to replace the outgoing
-Officer:
-10.2.5.1. In the case of a by-election, the candidacy of the
-impeached Officer shall be deemed invalid.
-10.3. Any Appointed Officer of the Society (excluding the Department Society
-Presidents, and Past President) deemed to be failing in their duties may
-be removed from office through the following procedure:
-10.3.1. A written motion shall be submitted to the BoD requesting an
-Impeachment Hearing. This motion does not need any
-endorsement beyond that of a Seconder;
-10.3.2. The BoD shall vote to accept the motion. The matter shall be
-tabled until the following BoD Meeting. Notice shall immediately
-be given one (1) week before the Impeachment Hearing;
-10.3.3. The Appointed Officer shall be given fair opportunity to defend
-their position. The matter may, at most, be deferred once if the
-Officer is absent from their Impeachment Hearing;
-10.3.4. The BoD may, after the Impeachment Hearing and through an
-in-camera extraordinary resolution, relieve the Officer of their
-duties; and,
-10.3.5. The BoD shall decide on a course of action to replace the outgoing
-Appointed Officer consistent with the Policy Manual."
+{{< br >}}
+10.1.3. The BoD shall decide on a course of action to replace the outgoing Officer;
+{{< br >}}
+10.1.3.1. If the President has submitted written resignation to the BoD, becomes ineligible to hold office, or is impeached, the interim presidency shall be offered for acceptance or declination to the Executive Officers of the Society in alphabetical order, by position name, with the Vice President Operations and Finance last and the Executive Officer holding the third signing authority second last, to maintain separation of signing authority;
+{{< br >}}
+10.1.3.2. The interim president shall be ratified by resolution of the BoD; and,
+{{< br >}}
+10.1.3.3. A by-election may follow at the discretion of the BoD for the vacant President position.
+{{< br >}}
+{{< br >}}
+10.2. Any Executive Officer of the Society deemed to be failing in their duties may be removed from office through the following procedure:
+{{< br >}}
+10.2.1. A written motion shall be submitted to the BoD requesting an Impeachment Hearing. This motion must have the explicit endorsement of a minimum of three (3) percent of the Active Members of the Society;
+{{< br >}}
+10.2.2. The BoD shall vote to accept the motion. The matter shall be tabled until the following BoD Meeting. Notice shall immediately be given one (1) week before the Impeachment Hearing;
+{{< br >}}
+10.2.3. The Officer shall be given fair opportunity to defend their position. The matter may, at most, be deferred once if the Officer is absent from their Impeachment Hearing;
+{{< br >}}
+10.2.4. The BoD may, after the Impeachment Hearing and through an extraordinary resolution, relieve the Officer of their duties; and,
+{{< br >}}
+10.2.5. The BoD shall decide on a course of action to replace the outgoing Officer:
+{{< br >}}
+10.2.5.1. In the case of a by-election, the candidacy of the impeached Officer shall be deemed invalid.
+{{< br >}}
+{{< br >}}
+10.3. Any Appointed Officer of the Society (excluding the Department Society Presidents, and Past President) deemed to be failing in their duties may be removed from office through the following procedure:
+{{< br >}}
+10.3.1. A written motion shall be submitted to the BoD requesting an Impeachment Hearing. This motion does not need any endorsement beyond that of a Seconder;
+{{< br >}}
+10.3.2. The BoD shall vote to accept the motion. The matter shall be tabled until the following BoD Meeting. Notice shall immediately be given one (1) week before the Impeachment Hearing;
+{{< br >}}
+10.3.3. The Appointed Officer shall be given fair opportunity to defend their position. The matter may, at most, be deferred once if the Officer is absent from their Impeachment Hearing;
+{{< br >}}
+10.3.4. The BoD may, after the Impeachment Hearing and through an in-camera extraordinary resolution, relieve the Officer of their duties; and,
+{{< br >}}
+10.3.5. The BoD shall decide on a course of action to replace the outgoing Appointed Officer consistent with the Policy Manual."
+
     - name: "ARTICLE 11 – STANCES OF THE ESS CONSTITUTION"
-      content: "11.1. Official ESS Stances will be created by members of the ESS Council and
-the Diversity Advocacy Committee to reflect the opinions of the ESS
-student body while being impartial;
+      content: "11.1. Official ESS Stances will be created by members of the ESS Council and the Diversity Advocacy Committee to reflect the opinions of the ESS student body while being impartial;
+{{< br >}}
+{{< br >}}
 11.2. The structure of an ESS stance is as follows:
+{{< br >}}
 11.2.1. Official Statement clearly addressing the stance;
-11.2.2. ESS Opinion on the issue leading to the development of the
-stance;
+{{< br >}}
+11.2.2. ESS Opinion on the issue leading to the development of the stance;
+{{< br >}}
 11.2.3. Background and research to support the stance;
+{{< br >}}
 11.2.4. Current and past ESS Initiatives regarding the stance;
-11.2.5. Future ESS Initiatives that can be taken by council members
-supporting the stance; and,
+{{< br >}}
+11.2.5. Future ESS Initiatives that can be taken by council members supporting the stance; and,
+{{< br >}}
 11.2.6. References.
-11.3. An official ESS Stance may be approved at a BoD meeting with
-appropriate discussion and amendment (if needed) with approval from a
-majority vote;
-11.4. It is the duty of each officer (when applicable) on the ESS council to
-uphold the stance guidelines;
-11.5. It is the duty of the President to ensure that an officer is aware of each
-ESS stance at the start of the officer’s term;
-11.6. A stance may be amended (or removed) by an officer during their term
-through a majority BoD vote; and,
-11.7. Official Stance documents shall be publicly available within two (2) weeks
-after approval."
+{{< br >}}
+{{< br >}}
+11.3. An official ESS Stance may be approved at a BoD meeting with appropriate discussion and amendment (if needed) with approval from a majority vote;
+{{< br >}}
+{{< br >}}
+11.4. It is the duty of each officer (when applicable) on the ESS council to uphold the stance guidelines;
+{{< br >}}
+{{< br >}}
+11.5. It is the duty of the President to ensure that an officer is aware of each ESS stance at the start of the officer’s term;
+{{< br >}}
+{{< br >}}
+11.6. A stance may be amended (or removed) by an officer during their term through a majority BoD vote; and,
+{{< br >}}
+{{< br >}}
+11.7. Official Stance documents shall be publicly available within two (2) weeks after approval."
+
     - name: "ARTICLE 12 – AMENDMENTS TO THE CONSTITUTION OF THE SOCIETY"
-      content: "This Constitution of the Society may be amended by a two-thirds majority vote of
-quorum at the Annual General Meeting of the Society, of which notice specifying the
-intention to propose an amendment to this Constitution has been duly given at least ten
-(10) days prior to the meeting. Grammatical and syntactical amendments, or formatting
-changes which do not change the content, can be made by an extraordinary resolution at
-a meeting of the BoD. Policy Manual changes can be amended by a resolution at a
-meeting of the BoD."
+      content: "This Constitution of the Society may be amended by a two-thirds majority vote of quorum at the Annual General Meeting of the Society, of which notice specifying the intention to propose an amendment to this Constitution has been duly given at least ten (10) days prior to the meeting. Grammatical and syntactical amendments, or formatting changes which do not change the content, can be made by an extraordinary resolution at a meeting of the BoD. Policy Manual changes can be amended by a resolution at a meeting of the BoD."
+
     - name: "ARTICLE 13 – AMENDMENT HISTORY"
-      content: "The Constitution of the Society has been amended by a two-thirds majority vote of
-quorum at the Annual General Meeting of the Society, in accordance with Article 11, on
-the following dates:
+      content: "The Constitution of the Society has been amended by a two-thirds majority vote of quorum at the Annual General Meeting of the Society, in accordance with Article 11, on the following dates:
+      {{< br >}}
 ● March 4, 2009
+{{< br >}}
 ● March 7, 2012
+{{< br >}}
 ● February 28, 2013
+{{< br >}}
 ● March 6, 2014
+{{< br >}}
 ● February 16, 2015
+{{< br >}}
 ● February 29, 2016
+{{< br >}}
 ● March 1, 2017
+{{< br >}}
 ● March 6, 2018
+{{< br >}}
 ● March 7, 2019
+{{< br >}}
 ● March 20, 2020
+{{< br >}}
 ● October 14, 2020
+{{< br >}}
 ● March 10, 2021
+{{< br >}}
 ● August 14, 2021
+{{< br >}}
 ● January 31, 2023
-● March 7, 2023"
+{{< br >}}
+● March 7, 2023
+{{< br >}}
+● March 11, 2024"
