@@ -1,6 +1,6 @@
 ---
 title: "Trivia Night"
-description: "Join us for an evening of trivia where you can test your knowledge and enjoy a lively atmosphere. How many questions can you get right?"
+description: "Join us at Jameson Pub in Brentwood for a trivia night. The first 30 people to purchase tickets will receive a drink ticket. Winners will receive a prize! (Ticket info coming soon!)"
 location: "Jamesons Pub (Brentwood)"
 eventdate: "September 4"
 time: "5:30pm - 8:00pm"
