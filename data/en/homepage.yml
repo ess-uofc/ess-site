@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/events/2024/frosh/2024-FROSH-Feature.png"
+  bg_image: "images/events/2024/frosh/2024-FROSH-Feature.jpg"
   title: "FROSH Week"
   content: "Make Memories Before Midterms!"
   button:
