@@ -1,7 +1,7 @@
 ---
 title: "FROSH Week"
 description: "Start the year off right!"
-bg_image: "/images/events/2024/frosh/2024-FROSH-Banner-Test.jpg"
+bg_image: "/images/events/2024/frosh/2024-FROSH-Banner-v2.jpg"
 schedule: "/images/events/2024/frosh/2024-FROSH-Schedule.png"
 layout: "frosh"
 ---
