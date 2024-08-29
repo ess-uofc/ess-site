@@ -10,4 +10,4 @@ The Schulich Engineering Competition (SEC) is an annual two-day long competition
 
 All competitors must be students in the Schulich School of Engineering. Internship students are eligible to compete. There are six categories for students to select from that are listed below. If you see any that interest you, form a team and apply!
 
-For 2023, SEC will take place on **October 14, 2023 from 9:00 am - 4:30 pm and October 15, 2023 from 9:30 am - 2:30 pm**. For any questions please contact external@essucalgary.com
+For 2024, SEC will take place on **October 5, 2023 from 9:00 am - 4:30 pm and October 6, 2023 from 9:30 am - 2:30 pm**. For any questions please contact external@essucalgary.com
