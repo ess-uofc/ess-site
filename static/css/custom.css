@@ -341,7 +341,7 @@ img.carousel-card-image {
 }
 
 .sponsors-card-carousel .card {
-  flex: 1 1 calc(33.333% - 16px); /* 3 columns with a gap */
+  flex: 1 1 calc(33.333% - 30px); /* 3 columns with a gap */
   border-radius: 10px;
   overflow: hidden;
   background-color: #eee;
