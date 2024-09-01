@@ -335,6 +335,7 @@ img.carousel-card-image {
 .sponsors-card-carousel {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 30px;
   margin: 0 auto;
   padding: 20px;
@@ -353,13 +354,14 @@ img.carousel-card-image {
 @media (max-width: 768px) {
   .sponsors-card-carousel .card {
     flex: 1 1 calc(50% - 30px); /* 2 columns on tablets */
-    max-width: 1 1 calc(50% - 30px); /* 2 columns on tablets */
+    max-width: calc(50% - 30px);
   }
 }
 
 @media (max-width: 480px) {
   .sponsors-card-carousel .card {
     flex: 1 1 100%; /* 1 column on mobile devices */
+    max-width: calc(100% - 30px);
   }
 }
 
