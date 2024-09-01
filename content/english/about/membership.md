@@ -21,7 +21,7 @@ _Members Receive:_
 
 The ESS works with businesses every year to provide you with some amazing discounts at numerous locations in Calgary. Here are some of the benefits you as an engineering student can get in the community with our membership:
 
-{{ partial "sponsors-card-carousel.html" . }}
+{{ partial "sponsors-card-carousel" . }}
 
 ### Conference and Event Opportunities
 
