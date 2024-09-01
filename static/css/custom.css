@@ -332,6 +332,56 @@ img.carousel-card-image {
   padding: 10px;
 }
 
+.sponsors-card-carousel {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+.sponsors-card-carousel .card {
+  flex: 1 1 calc(33.333% - 30px); /* 3 columns with a gap */
+  max-width: calc(33.333%);
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .sponsors-card-carousel .card {
+    flex: 1 1 calc(50% - 30px); /* 2 columns on tablets */
+    max-width: calc(50%);
+  }
+}
+
+@media (max-width: 480px) {
+  .sponsors-card-carousel .card {
+    flex: 1 1 100%; /* 1 column on mobile devices */
+    max-width: calc(100%);
+  }
+}
+
+.sponsors-card-carousel .card .card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.sponsors-card-carousel .card .card-body {
+  flex: 1; /* Ensures card body takes available space */
+}
+
+/* .sponsors-card-carousel .card .card-body .card-title {
+  font-size: 1.25rem;
+} */
+
+/* .sponsors-card-carousel .card .card-body .card-text {
+  color: #666;
+} */
+
 .frosh-calendar {
   border: none;
 }
