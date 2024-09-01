@@ -332,6 +332,55 @@ img.carousel-card-image {
   padding: 10px;
 }
 
+.sponsors-card-carousel {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.sponsors-card-carousel .card {
+  flex: 1 1 calc(33.333% - 16px); /* 3 columns with a gap */
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .sponsors-card-carousel .card {
+    flex: 1 1 calc(50% - 16px); /* 2 columns on tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  .sponsors-card-carousel .card {
+    flex: 1 1 100%; /* 1 column on mobile devices */
+  }
+}
+
+.sponsors-card-carousel .card .card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.sponsors-card-carousel .card .card-body {
+  padding: 15px;
+  flex: 1; /* Ensures card body takes available space */
+}
+
+/* .sponsors-card-carousel .card .card-body .card-title {
+  margin: 0;
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.sponsors-card-carousel .card .card-body .card-text {
+  color: #666;
+} */
+
 .frosh-calendar {
   border: none;
 }
