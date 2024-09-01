@@ -342,6 +342,7 @@ img.carousel-card-image {
 
 .sponsors-card-carousel .card {
   flex: 1 1 calc(33.333% - 30px); /* 3 columns with a gap */
+  max-width: calc(33.333% - 30px);
   border-radius: 10px;
   overflow: hidden;
   background-color: #eee;
@@ -351,7 +352,8 @@ img.carousel-card-image {
 
 @media (max-width: 768px) {
   .sponsors-card-carousel .card {
-    flex: 1 1 calc(50% - 16px); /* 2 columns on tablets */
+    flex: 1 1 calc(50% - 30px); /* 2 columns on tablets */
+    max-width: 1 1 calc(50% - 30px); /* 2 columns on tablets */
   }
 }
 
@@ -371,13 +373,11 @@ img.carousel-card-image {
   flex: 1; /* Ensures card body takes available space */
 }
 
-/* .sponsors-card-carousel .card .card-body .card-title {
-  margin: 0;
+.sponsors-card-carousel .card .card-body .card-title {
   font-size: 1.25rem;
-  color: #333;
 }
 
-.sponsors-card-carousel .card .card-body .card-text {
+/* .sponsors-card-carousel .card .card-body .card-text {
   color: #666;
 } */
 
