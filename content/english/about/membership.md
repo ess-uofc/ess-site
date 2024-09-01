@@ -17,24 +17,28 @@ Support the Engineering Students’ Society by becoming a member today! The Engi
 
 _Members Receive:_
 
-### Discounts on Events and Merchandise
+### Partner Benefits
 
-- ESS members receive access to exclusive opportunities, which include but are not limited to:
-  - Being able to apply for CFES and WEC engineering student conferences
-  - Being able to participate in the Schulich Engineering Competition
-- ESS members also receive a discount on paid events and services such as
-  - Discounts on tickets to events such as the ESS Engineering Dinners and grad banquets
-  - Discounts on graduation services such grad photos, yearbook, and grad gifts
-  - Discounts on any paid social, academic, or professional ESS event
-- ESS members receive a discount on all new & existing merchandise in the ESS store, with discounts ranging from 10% to 25% off!
+The ESS works with businesses every year to provide you with some amazing discounts at numerous locations in Calgary. Here are some of the benefits you as an engineering student can get in the community with our membership:
 
-### Discounts through our Partners
+{{< partial "sponsors-card-carousel.html" >}}
 
-- Get discounts through [our partners](/about/sponsors#community-partners) when you present your ESS membership!
+### Conference and Event Opportunities
 
-### Services in the ESS office
+ESS members receive access to exclusive opportunities, which include:
+- Being able to apply for CFES and WEC engineering student conferences
+- Being able to participate in the Schulich Engineering Competition
+- Receiving discounts for the Engineering Dinner events happening in the winter semester
 
-- Free printing (up to 10 sheets, double sided)
+### Additional Amenities & Discounts
+
+ESS members receive access to the following services:
+- SIGNIFICANT DISCOUNTS ON ALL ESS MERCH INCLUDING PATCHES
+- Free printing of 10 double sided sheets of paper per day
 - Access to hot water
 - Charging cables (USB-C, lightning cable)
-- Calculator, lab coat, and projector rental
+- Calculator, lab coat, and projector free rental
+
+### Purchase Membership
+
+To purchase a membership, please visit the ESS office at ENE134A.
