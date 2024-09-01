@@ -343,7 +343,7 @@ img.carousel-card-image {
 
 .sponsors-card-carousel .card {
   flex: 1 1 calc(33.333% - 30px); /* 3 columns with a gap */
-  max-width: calc(33.333% - 30px);
+  max-width: calc(33.333%);
   border-radius: 10px;
   overflow: hidden;
   background-color: #eee;
@@ -354,14 +354,14 @@ img.carousel-card-image {
 @media (max-width: 768px) {
   .sponsors-card-carousel .card {
     flex: 1 1 calc(50% - 30px); /* 2 columns on tablets */
-    max-width: calc(50% - 30px);
+    max-width: calc(50%);
   }
 }
 
 @media (max-width: 480px) {
   .sponsors-card-carousel .card {
     flex: 1 1 100%; /* 1 column on mobile devices */
-    max-width: calc(100% - 30px);
+    max-width: calc(100%);
   }
 }
 
@@ -375,9 +375,9 @@ img.carousel-card-image {
   flex: 1; /* Ensures card body takes available space */
 }
 
-.sponsors-card-carousel .card .card-body .card-title {
+/* .sponsors-card-carousel .card .card-body .card-title {
   font-size: 1.25rem;
-}
+} */
 
 /* .sponsors-card-carousel .card .card-body .card-text {
   color: #666;
