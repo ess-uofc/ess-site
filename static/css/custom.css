@@ -338,7 +338,7 @@ img.carousel-card-image {
   justify-content: center;
   gap: 30px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 15px 0;
 }
 
 .sponsors-card-carousel .card {
@@ -371,7 +371,6 @@ img.carousel-card-image {
 }
 
 .sponsors-card-carousel .card .card-body {
-  padding: 15px 0;
   flex: 1; /* Ensures card body takes available space */
 }
 
