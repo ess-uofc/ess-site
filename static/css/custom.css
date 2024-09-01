@@ -371,7 +371,7 @@ img.carousel-card-image {
 }
 
 .sponsors-card-carousel .card .card-body {
-  padding: 15px;
+  padding: 15px 0;
   flex: 1; /* Ensures card body takes available space */
 }
 
