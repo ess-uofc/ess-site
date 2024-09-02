@@ -15,7 +15,9 @@ buy_now:
 
 Support the Engineering Students’ Society by becoming a member today! The Engineering Students’ Society works hard to enrich the engineering student experience for all engineering students by hosting a variety of academic, professional, and social events throughout the year. Members will enjoy perks such as discounted events, merchandise discounts, partner discounts, and early access to new ESS products and services.
 
-_Members Receive:_
+### Purchase Membership
+
+To purchase a membership, please visit the ESS office at ENE134A.
 
 ### Partner Benefits
 
@@ -38,7 +40,3 @@ ESS members receive access to the following services:
 - Access to hot water
 - Charging cables (USB-C, lightning cable)
 - Calculator, lab coat, and projector free rental
-
-### Purchase Membership
-
-To purchase a membership, please visit the ESS office at ENE134A.
