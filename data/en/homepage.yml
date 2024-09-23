@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Register Today"
-    link: "events/featured-events/frosh"
+    link: "events/featured-events/career-fair"
 
 ############################# About #################################
 about:
