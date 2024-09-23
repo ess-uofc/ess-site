@@ -2,7 +2,7 @@
 title: "Schulich Engineering Competition (SEC)"
 description: "What time is it?"
 bg_image: "/images/events/2023/sec/sec-ad1.jpg"
-registration_link: "https://docs.google.com/forms/d/e/1FAIpQLScFBgU1N6IOtnspCNf7qrjUC_gK9T8KsaAbLaHc2-s_J8yYkQ/viewform"
+registration_link: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSdqVX9u5EkG2bD6n8a-IsCohJtT3pVLrIi8ifeHSjbF53okQA/viewform"
 layout: "sec"
 ---
 
