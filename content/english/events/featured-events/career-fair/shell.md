@@ -1,6 +1,6 @@
 ---
 title: Shell
-logo: images/events/2023/career-fair/Shell Logo Copy.jpg
+logo: images/events/2024/career-fair/Logo - Shell.png
 layout: career-fair-company
 website: "https://www.shell.ca/"
 ---

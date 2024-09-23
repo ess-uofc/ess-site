@@ -1,6 +1,6 @@
 ---
 title: Chandos Construction
-logo: images/events/2023/career-fair/Chandos Construction Logo.png
+logo: images/events/2024/career-fair/Logo - Chandos Construction.png
 layout: career-fair-company
 website: "https://www.chandos.com/"
 ---
