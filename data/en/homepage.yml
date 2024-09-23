@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "images/events/2024/career-fair/Career Fair Banner.jpg"
-  title: "ESS Fall Career Fair"
+  title: "Fall Career Fair"
   content: "Connect with Industry Leaders and discover your next career opportunity"
   button:
     enable: true
