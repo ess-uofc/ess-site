@@ -1,6 +1,6 @@
 ---
 title: Fluor
-logo: images/events/2023/career-fair/Fluor Logo.png
+logo: images/events/2024/career-fair/Logo - Fluor.png
 layout: career-fair-company
 website: "https://www.fluor.com/"
 ---
