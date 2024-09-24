@@ -308,6 +308,12 @@ ul li:last-child ul {
   flex-wrap: wrap;
 }
 
+.platinum-sponsor-bio-container {
+  padding-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .card-carousel {
   display: flex;
   flex-wrap: wrap;
