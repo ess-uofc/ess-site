@@ -24,10 +24,10 @@
     </div>
     <div class="row platinum-sponsor-bio-container"></div>
       {{range (sort (where .Site.Pages "Params.membertype" "platinum-sponsor") ".Params.name" "asc")}}
-        <div class="col-sm-6 col-md-4">
+        <div class="col-sm-6 col-md-4" style="padding-top: 30px;">
           <div class="service-item">
             <img class="img-responsive img-council" src="{{ .Params.image | absURL }}">
-            <h3>{{ .Params.name | markdownify }}</h3>
+            <h3 style="text-align: center;">{{ .Params.name | markdownify }}</h3>
             <div style="text-align: left">
               <p>{{ .Content }}</p>
             </div>
