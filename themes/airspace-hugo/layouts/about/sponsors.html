@@ -98,10 +98,10 @@
 </section>
 
 <section style="padding: 0px 0px 30px 0px">
-  <div class="container">
+  <div class="container" style="padding-top: 30px;">
     <div class="sponsor-logos-container partner-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "partner" }}
-      <a class="sponsor-logo bronze-sponsor-logo" href="{{.Params.website}}">
+      <a class="sponsor-logo partner-sponsor-logo" href="{{.Params.website}}">
         <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
       </a>
       {{end}}

@@ -443,6 +443,10 @@ img.carousel-card-image {
   width: 40%;
 }
 
+.partner-sponsor-logo {
+  width: 40%;
+}
+
 .sponsor-logo {
   display: flex;
   align-items: center;
