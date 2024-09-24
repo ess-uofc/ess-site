@@ -1,5 +1,5 @@
 
-    {{ range first 3 (where .Site.Pages "Type" "post") }}
+    {{ range first 2 (where .Site.Pages "Type" "post") }}
     <div class="media card">
       <a class="" href="{{ .Permalink }}">
         <img class="media-object" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">

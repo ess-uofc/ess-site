@@ -3,6 +3,4 @@ title: "Consulting"
 secevent: true
 ---
 
-The purpose of the Consulting competition is to challenge competitors to design a detailed solution to a large-scale engineering problem. The proposal must be made in a way that promotes the solution to the client (in the form of judges). Competitors must demonstrate resourcefulness while acting in good faith with the spirit of the competition.
-
-All teams will have four (4) student members.
+Teams of 4 students are given seven hours to devise an innovative solution to a real-world problem. Teams are expected to develop holistic solutions that consider the economic, social, and environmental impacts, then present their solutions to a panel of judges familiar with the relevant industry.
