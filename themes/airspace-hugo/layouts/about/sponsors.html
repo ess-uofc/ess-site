@@ -14,12 +14,28 @@
 
 <section>
   <div class="container">
-    <h2 class="sponsor-level" style="color: #5d81a3">Title</h2>
+    <h2 class="sponsor-level" style="color: #5d81a3">Platinum</h2>
     <div class="sponsor-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "title" }}
       <a class="sponsor-logo gold-sponsor-logo" href="{{.Params.website}}">
         <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
       </a>
+      {{end}}
+    </div>
+    <div class="row council-container"></div>
+      {{range (sort (where .Site.Pages "Params.membertype" "executive") ".Params.position" "asc")}}
+        <div class="col-sm-6 col-md-3">
+          <div class="service-item">
+            <img class="img-responsive img-council" src="{{ .Params.image | absURL }}">
+            <h3>{{ .Params.name | markdownify }}</h3>
+            <p>{{.Params.pronouns}}</p>
+            <a href="mailto:{{.Params.email}}"><i class="ion-ios-email-outline council-email"></i></a>
+            <h4>{{ .Params.position | markdownify }}</h4>
+            <div style="text-align: left">
+              <p>{{ .Content }}</p>
+            </div>
+          </div>
+        </div>
       {{end}}
     </div>
   </div>
