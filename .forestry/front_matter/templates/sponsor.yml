@@ -28,7 +28,7 @@ fields:
   config:
     required: true
     options:
-    - Title
+    - Platinum
     - Gold
     - Silver
     - Bronze
