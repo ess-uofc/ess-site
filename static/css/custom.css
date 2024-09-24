@@ -308,6 +308,11 @@ ul li:last-child ul {
   flex-wrap: wrap;
 }
 
+.platinum-sponsor-bio-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .card-carousel {
   display: flex;
   flex-wrap: wrap;
@@ -431,11 +436,15 @@ img.carousel-card-image {
 }
 
 .silver-sponsor-logo {
-  width: 40%;
+  width: 45%;
 }
 
 .bronze-sponsor-logo {
-  width: 30%;
+  width: 40%;
+}
+
+.partner-sponsor-logo {
+  width: 33%;
 }
 
 .sponsor-logo {

@@ -14,7 +14,7 @@
 
 <section>
   <div class="container">
-    <h2 class="sponsor-level" style="color: #5d81a3">Title</h2>
+    <h2 class="sponsor-level" style="color: #5d81a3">Platinum</h2>
     <div class="sponsor-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "title" }}
       <a class="sponsor-logo gold-sponsor-logo" href="{{.Params.website}}">
@@ -22,11 +22,24 @@
       </a>
       {{end}}
     </div>
+    <div class="row platinum-sponsor-bio-container"></div>
+      {{range (sort (where .Site.Pages "Params.membertype" "platinum-sponsor") ".Params.name" "asc")}}
+        <div class="col-sm-6 col-md-4" style="padding-top: 30px;">
+          <div class="service-item">
+            <img class="img-responsive img-council" src="{{ .Params.image | absURL }}">
+            <h3 style="text-align: center;">{{ .Params.name | markdownify }}</h3>
+            <div style="text-align: left">
+              <p>{{ .Content }}</p>
+            </div>
+          </div>
+        </div>
+      {{end}}
+    </div>
   </div>
   <hr />
 </section>
 
-<section>
+<!-- <section>
   <div class="container">
     <h2 class="sponsor-level" style="color: #ffd700">Gold</h2>
     <div class="sponsor-logos-container">
@@ -38,7 +51,7 @@
     </div>
   </div>
   <hr />
-</section>
+</section> -->
 
 <section>
   <div class="container">
@@ -53,7 +66,7 @@
   </div>
 </section>
 
-<!-- <section>
+<section>
   <div class="container">
     <h2 class="sponsor-level" style="color: #cd7f32">Bronze</h2>
     <div class="sponsor-logos-container">
@@ -64,7 +77,7 @@
       {{end}}
     </div>
   </div>
-</section> -->
+</section>
 
 <section class="section">
   <div class="container">
@@ -76,16 +89,19 @@
           community partners! We'd like to thank each and every one of our
           community partners for helping bring the Schulich community together!
         </p>
+        <a class="btn btn-main">
+          See More Membership Benefits
+        </a>
       </div>
     </div>
   </div>
 </section>
 
 <section style="padding: 0px 0px 30px 0px">
-  <div class="container">
+  <div class="container" style="padding-top: 30px;">
     <div class="sponsor-logos-container partner-logos-container">
       {{ range where .Site.Pages "Params.sponsortier" "partner" }}
-      <a class="sponsor-logo bronze-sponsor-logo" href="{{.Params.website}}">
+      <a class="sponsor-logo partner-sponsor-logo" href="{{.Params.website}}">
         <img src="{{.Params.logo | relURL}}" alt="{{.Title}}" />
       </a>
       {{end}}

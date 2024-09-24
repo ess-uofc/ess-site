@@ -1,6 +1,6 @@
 ---
 title: "Jamesons Pub"
-logo: "/images/corporaterelations/partners/Jamesons Logo.png"
+logo: "/images/about/membership/logo-jamesons.png"
 website: "https://www.jamesonspubs.com/"
 sponsorTier: "partner"
 ---
