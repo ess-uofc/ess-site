@@ -1,5 +1,5 @@
 ---
-type: post
+# type: post
 is_index: false
 title: 2024-2025 Commissioner Applications are Open!
 date: 2024-03-28T00:00:00.000Z

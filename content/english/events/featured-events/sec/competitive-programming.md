@@ -3,6 +3,4 @@ title: "Competitive Programming"
 secevent: true
 ---
 
-Competitors will create a program to solve a specific program. Any year of student may apply to compete in this category. Unlike Introductory Programming, the winners of this category will move on to the Western Engineering Competition.
-
-The Programming team will be between two (2) and four (4) competitors.
+This competition challenges teams of 2-4 to produce a piece of industry-quality software with all the proper user and administrative documents. The teams will use their software development skills, their technical writing abilities, and their project management skills to design a solution to a problem.

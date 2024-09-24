@@ -1,5 +1,5 @@
 ---
-type: post
+# type: post
 is_index: false
 title: 2023-2024 First Year Representatives Applications are Open!
 date: 2023-08-28T00:00:00.000Z
