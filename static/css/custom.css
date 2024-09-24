@@ -426,6 +426,10 @@ img.carousel-card-image {
   row-gap: 25px;
 }
 
+.platinum-sponsor-logo {
+  width: 50%;
+}
+
 .gold-sponsor-logo {
   width: 50%;
 }
