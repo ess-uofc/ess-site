@@ -58,12 +58,18 @@
 <div>
   <div class="container">
     <div class="row">
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
+        </div>
+      </div>
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title">
             <h2>{{ .title }}</h2>
             <p>{{ .description | markdownify }}</p>
           </div>
+          <p style="font-weight: bold;">{{ .content | markdownify }}</p>
           <a class="btn btn-main" href="{{.button_link}}">{{.button_text}}</a>
         </div>
       </div>
