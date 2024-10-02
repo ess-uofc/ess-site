@@ -21,8 +21,10 @@ membership:
   enable: true
   title: "Become a Member"
   description: "Members of the Engineering Students’ Society get access to events hosted by the society along with many other perks."
+  content: "To purchase a membership, please visit the ESS office at ENE134A during office hours (10:30am - 3:30pm on weekdays, excluding holidays and university breaks)."
   button_text: "Learn More"
   button_link: "about/membership"
+  image: "images/about/membership/ESS Member Card.jpg"
 
 posts:
   enable: true
