@@ -101,6 +101,16 @@ URL = "contact"
 name = "Contact us"
 weight = 6
 
+[[menu.external_link]]
+URL = "https://ess-bookings.square.site/"
+name = "Bookings"
+
+# ESS Store
+[params.nav_button]
+enable = true
+label = "ESS Store"
+link = "https://ucalgary-engineering-students-society.square.site/"
+
 [params]
 
 # Details
@@ -135,12 +145,6 @@ text = "COVID-19 Information"
 [params.officehours]
 enable = true
 link = "/about/officehours"
-
-# Bookings
-[params.nav_button]
-enable = true
-label = "Bookings"
-link = "https://ess-bookings.square.site/"
 
 # Plugins
 [[params.plugins.css]]

@@ -55,11 +55,16 @@
               </li>
               {{ else }}
               <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-              {{ end }} {{ end }} {{ if .Site.Params.nav_button}}
+              {{ end }} {{ end }} 
+              {{ range .Site.Menus.external_link}}
+                <li><a href="{{ .URL | absLangURL }}" target="_blank">{{ .Name }}</a></li>
+              {{ end }}
+              {{ if .Site.Params.nav_button}}
               <li>
                 <a
                   class="btn btn-main"
                   id="btn-nav"
+                  target="_blank"
                   href="{{ .Site.Params.nav_button.link | absLangURL }}"
                   >{{.Site.Params.nav_button.label}}</a
                 >
