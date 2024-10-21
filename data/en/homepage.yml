@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/events/2023/sec/sec-ad2.jpg"
-  title: "2024 ESS By-Election"
-  content: "Election information and documents can be found in the Fall 2024 By-Election public folder: [Election Information](https://drive.google.com/drive/folders/1xYNEXlZYS7G8q-EPjwCECzOIwwJr9g7H?usp=drive_link)"
+  bg_image: "images/events/2024/halloweek/saso-tusar-yP19KADwhEI-unsplash.jpg"
+  title: "Halloweek"
+  content: "A Skele-ton of Fun Awaits!"
   button:
     enable: true
-    label: "Vote Today"
-    link: "https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_6rpNZjrRrSpw3P0"
+    label: "Let's Get Spooky"
+    link: "events/featured-events/halloweek"
 
 ############################# About #################################
 about:
