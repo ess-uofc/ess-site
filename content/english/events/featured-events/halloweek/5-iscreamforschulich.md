@@ -4,6 +4,6 @@ description: "Start FROSH week off and join us at the grill for a free pancake b
 location: "Engineering Lounge"
 eventdate: "Wednesday, October 30th"
 time: "12:00pm - 2:00pm"
-froshevent: true
+halloweekevent: true
 layout: "froshredirect"
 ---

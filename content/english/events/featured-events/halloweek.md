@@ -1,5 +1,5 @@
 ---
-title: "FROSH Week"
+title: "Halloweek"
 eventlisting: true
 ---
 

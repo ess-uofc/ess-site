@@ -4,6 +4,6 @@ description: "Start FROSH week off and join us at the grill for a free pancake b
 location: "Penn West Plaza East Tower 207 9 Ave SW"
 eventdate: "October 28th - November 8th"
 # time: "9:00am - 12:00pm"
-froshevent: true
+halloweekevent: true
 layout: "froshredirect"
 ---

@@ -1,5 +1,5 @@
 ---
-type: post
+# type: post
 is_index: false
 title: Schulich Engineering Competition
 date: 2024-09-24T00:00:00.000Z

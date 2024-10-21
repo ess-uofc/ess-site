@@ -1,0 +1,65 @@
+{{ define "main" }} {{ partial "page-title.html" . }} {{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <h2>{{.Title}}</h2>
+      {{.Content }}
+    </div>
+    <div class="row" style="text-align: center; padding: 10px 0px">
+      <img src="{{.Params.schedule | relURL}}" style="max-width: 100%;"/>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <h2>Events</h2>
+      <div class="card-carousel">
+        {{range where .Site.Pages "Params.halloweekevent" true}}
+        <div class="card carousel-item col-sm-6 col-md-4 col-lg-3">
+            {{if .Params.image}}
+            <img class="carousel-card-image" src="{{ .Params.image | absURL }}" />
+            {{end}}
+          <div class="carousel-card-content">
+            <h4>{{.Params.title}}</h4>
+            <p>
+              <i class="ion-calendar"></i> {{.Params.eventdate}} @ {{.Params.time}}</i
+              >
+            </p>
+            {{if isset .Params "location"}}
+            <p>
+              <i class="ion-ios-location-outline"> {{.Params.location}}</i>
+            </p>
+            {{end}}
+            <p>{{.Params.description}}</p>
+            {{if .Params.registration_link}}
+            <a class="btn btn-main" href="{{.Params.registration_link}}" target="_blank"
+              >REGISTER NOW</a
+            >
+            {{end}}
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <h2>Got Questions?</h2>
+      <p>
+        Reach out to
+        <a href="mailto:studentlife@essucalgary.ca"
+          >studentlife@essucalgary.ca</a
+        >
+        for questions, concerns, or feedback!
+      </p>
+    </div>
+  </div>
+</section>
+
+{{ end }}

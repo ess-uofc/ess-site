@@ -4,6 +4,6 @@ description: "Start FROSH week off and join us at the grill for a free pancake b
 location: "Wellness Room ENA 06"
 eventdate: "Tuesday, October 29th"
 time: "5:00pm - 6:30pm"
-froshevent: true
+halloweekevent: true
 layout: "froshredirect"
 ---
