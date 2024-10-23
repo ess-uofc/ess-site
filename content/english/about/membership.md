@@ -5,19 +5,33 @@ bg_image: images/about/202223-council-1-banner.png
 layout: membership
 aliases: ["/card"]
 buy_now:
-  enable: false
+  enable: true
   title: "Buy a Membership Now"
   content: "Support your Engineering Students’ Society today!"
   bg_image: "images/about/202021-group-council-1-banner.jpg"
   button_label: Purchase Online
-  button_link: https://store.essucalgary.com/product-category/memberships/
+  button_link: https://ucalgary-engineering-students-society.square.site/
 ---
 
 Support the Engineering Students’ Society by becoming a member today! The Engineering Students’ Society works hard to enrich the engineering student experience for all engineering students by hosting a variety of academic, professional, and social events throughout the year. Members will enjoy perks such as discounted events, merchandise discounts, partner discounts, and early access to new ESS products and services.
 
+{{< br >}}
+
 ### Purchase Membership
 
-To purchase a membership, please visit the ESS office at ENE134A.
+#### In-Person
+
+To purchase a membership in-person, please visit the ESS office at ENE134A during office hours (10:30am - 3:30pm on weekdays, excluding holidays and university breaks).
+
+#### Online
+
+To purchase a membership online, please click the button below.
+
+{{< br >}}
+
+{{< button link="https://ucalgary-engineering-students-society.square.site/" label="Purchase Online" >}}
+
+{{< br >}}{{< br >}}
 
 ### Partner Benefits
 
@@ -25,12 +39,16 @@ The ESS works with businesses every year to provide you with some amazing discou
 
 {{< sponsors-card-carousel >}}
 
+{{< br >}}
+
 ### Conference and Event Opportunities
 
 ESS members receive access to exclusive opportunities, which include:
 - Being able to apply for CFES and WEC engineering student conferences
 - Being able to participate in the Schulich Engineering Competition
 - Receiving discounts for the Engineering Dinner events happening in the winter semester
+
+{{< br >}}
 
 ### Additional Amenities & Discounts
 
