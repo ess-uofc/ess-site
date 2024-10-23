@@ -31,7 +31,7 @@ To purchase a membership online, please click the button below.
 
 {{< button link="https://ucalgary-engineering-students-society.square.site/" label="Purchase Online" >}}
 
-{{< br >}}
+{{< br >}}{{< br >}}
 
 ### Partner Benefits
 
