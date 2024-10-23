@@ -10,14 +10,20 @@ buy_now:
   content: "Support your Engineering Students’ Society today!"
   bg_image: "images/about/202021-group-council-1-banner.jpg"
   button_label: Purchase Online
-  button_link: https://store.essucalgary.com/product-category/memberships/
+  button_link: https://ucalgary-engineering-students-society.square.site/
 ---
 
 Support the Engineering Students’ Society by becoming a member today! The Engineering Students’ Society works hard to enrich the engineering student experience for all engineering students by hosting a variety of academic, professional, and social events throughout the year. Members will enjoy perks such as discounted events, merchandise discounts, partner discounts, and early access to new ESS products and services.
 
 ### Purchase Membership
 
-To purchase a membership, please visit the ESS office at ENE134A.
+#### In-Person
+
+To purchase a membership in-person, please visit the ESS office at ENE134A during office hours (10:30am - 3:30pm on weekdays, excluding holidays and university breaks).
+
+#### Online
+
+To purchase a membership online, please click the button below.
 
 ### Partner Benefits
 
