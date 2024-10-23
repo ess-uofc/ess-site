@@ -15,6 +15,8 @@ buy_now:
 
 Support the Engineering Students’ Society by becoming a member today! The Engineering Students’ Society works hard to enrich the engineering student experience for all engineering students by hosting a variety of academic, professional, and social events throughout the year. Members will enjoy perks such as discounted events, merchandise discounts, partner discounts, and early access to new ESS products and services.
 
+{{< br >}}
+
 ### Purchase Membership
 
 #### In-Person
@@ -25,7 +27,11 @@ To purchase a membership in-person, please visit the ESS office at ENE134A durin
 
 To purchase a membership online, please click the button below.
 
+{{< br >}}
+
 {{< button link="https://ucalgary-engineering-students-society.square.site/" label="Purchase Online" >}}
+
+{{< br >}}
 
 ### Partner Benefits
 
@@ -33,12 +39,16 @@ The ESS works with businesses every year to provide you with some amazing discou
 
 {{< sponsors-card-carousel >}}
 
+{{< br >}}
+
 ### Conference and Event Opportunities
 
 ESS members receive access to exclusive opportunities, which include:
 - Being able to apply for CFES and WEC engineering student conferences
 - Being able to participate in the Schulich Engineering Competition
 - Receiving discounts for the Engineering Dinner events happening in the winter semester
+
+{{< br >}}
 
 ### Additional Amenities & Discounts
 
