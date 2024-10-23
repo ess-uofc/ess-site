@@ -1,6 +1,6 @@
 ---
 title: "ESS Booard of Directors"
-description: "Start FROSH week off and join us at the grill for a free pancake breakfast at Tonken Plaza (courtyard in front of the Engineering Building)! Pancakes and syrup will be provided! While supplies last."
+description: "Spooky season is here, and so is your chance to creep behind the scenes! 👻 Ever wonder how the ESS runs their meetings? 🕸️ Come join our ESS Board of Directors (BOD) Meeting if you dare... 🦇 Get the inside scoop on how we brew our plans and cast spells on current events! Don’t miss this wicked opportunity to see how we run things from the shadows! 💀"
 location: "Engineering Atrium"
 eventdate: "Monday, October 28th"
 time: "5:00pm - 6:30pm"

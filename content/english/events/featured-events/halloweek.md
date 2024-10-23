@@ -3,4 +3,4 @@ title: "Halloweek"
 eventlisting: true
 ---
 
-Midterms have you feeling *grave*? Let's lift your spirits with some spooky fun!
+👻 HALLOWEEK is creeping up! 🎃 Get ready for a spooktacular week of chilling fun and eerie-good events to escape the terror of midterms! 🕸️

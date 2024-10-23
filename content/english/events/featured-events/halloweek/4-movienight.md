@@ -1,6 +1,6 @@
 ---
 title: "Movie Night"
-description: "Start FROSH week off and join us at the grill for a free pancake breakfast at Tonken Plaza (courtyard in front of the Engineering Building)! Pancakes and syrup will be provided! While supplies last."
+description: "🎬 Join us for a fang-tastic movie night in the haunted Wellness Room! 🕸️ We’ve got all the spooktacular essentials—popcorn, snacks, and eerie drinks to keep you company! 🎃 Get ready to scream, because we’re showing Scary Movie! 😱💀"
 location: "Wellness Room ENA 06"
 eventdate: "Tuesday, October 29th"
 time: "5:00pm - 6:30pm"

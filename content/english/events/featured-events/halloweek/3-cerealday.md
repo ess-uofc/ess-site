@@ -1,6 +1,6 @@
 ---
 title: "Cereal Day Spooky Edition BYOB (Bring Your Own Bowl)"
-description: "Start FROSH week off and join us at the grill for a free pancake breakfast at Tonken Plaza (courtyard in front of the Engineering Building)! Pancakes and syrup will be provided! While supplies last."
+description: "🎃BYOB (Bring your own bowl) and come join us for free cereal! 🥣🧛Different cereal flavours will be provided as well and milk and milk alternatives. Cups will be available if you don’t have your own bowl.🕸️"
 location: "Engineering Lounge"
 eventdate: "Tuesday, October 29th"
 time: "9:00am - 11:00am"

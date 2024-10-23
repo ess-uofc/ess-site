@@ -1,6 +1,6 @@
 ---
 title: "I Scream for Schulich"
-description: "Start FROSH week off and join us at the grill for a free pancake breakfast at Tonken Plaza (courtyard in front of the Engineering Building)! Pancakes and syrup will be provided! While supplies last."
+description: "🍦 Been haunted by a failed quiz or midterm lately? 👻 Bring proof of your spooky grades and we’ll raise your spirits with free ice cream! 🎃🍨 (But sorry, assignments don’t count—no tricks here! 👀) Only one treat per ghoul, while supplies last! 🦇"
 location: "Engineering Lounge"
 eventdate: "Wednesday, October 30th"
 time: "12:00pm - 2:00pm"
