@@ -25,6 +25,8 @@ To purchase a membership in-person, please visit the ESS office at ENE134A durin
 
 To purchase a membership online, please click the button below.
 
+{{< button link="https://ucalgary-engineering-students-society.square.site/" label="Purchase Online" >}}
+
 ### Partner Benefits
 
 The ESS works with businesses every year to provide you with some amazing discounts at numerous locations in Calgary. Here are some of the benefits you as an engineering student can get in the community with our membership:
