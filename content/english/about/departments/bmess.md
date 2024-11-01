@@ -7,8 +7,8 @@ title = "BMESS"
 [president]
 bio_img = "/images/about/council-members/stock-male.jpg"
 email = "bmess@ucalgary.ca"
-name = "Jessica Tran and Sara Mah"
-title = "BMESS Co-Presidents"
+name = "Amber Quo"
+title = "BMESS Presidents"
 [social]
 facebook = "https://www.facebook.com/UofCBMESS/"
 instagram = ""

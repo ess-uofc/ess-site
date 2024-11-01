@@ -6,7 +6,7 @@ logo: images/departments/zoo/logo.png
 layout: department
 subtitle: Electrical & Software Engineering Students’ Society
 president:
-  name: Cris Canayon
+  name: Yashpreet Singh
   title: ZOO President
   bio_img: "/images/teams/team-1.jpg"
   email: "president@zooengg.ca"

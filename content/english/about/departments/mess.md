@@ -7,7 +7,7 @@ subtitle = "Mechanical Engineering Students’ Society"
 [president]
 bio_img = "/images/teams/team-3.jpg"
 email = "president@messuofc.ca"
-name = "Vincente Reimann"
+name = "Alec Drebit"
 title = "MESS President"
 [social]
 facebook = "https://www.facebook.com/MESSUofC"
