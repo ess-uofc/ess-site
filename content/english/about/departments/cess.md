@@ -7,8 +7,8 @@ subtitle = "Chemical and Oil & Gas Engineering Students’ Society"
 [president]
 bio_img = "/images/teams/team-3.jpg"
 email = "president.cess@ucalgary.ca"
-name = "Madison Switzer and Cate Keyes"
-title = "CESS Co-Presidents"
+name = "Alex Barreto"
+title = "CESS Presidents"
 [social]
 facebook = "https://www.facebook.com/ucalgarycess/"
 twitter = ""

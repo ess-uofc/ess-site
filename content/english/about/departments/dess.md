@@ -5,7 +5,7 @@ logo: images/departments/dess/dess.png
 layout: department
 subtitle: Digital Engineering Students’ Society
 president:
-  name: "Julien Lagace"
+  name: "Tiffany Yau"
   title: "DESS President"
   bio_img: "/images/teams/team-1.jpg"
   email: "dess@ucalgary.ca"

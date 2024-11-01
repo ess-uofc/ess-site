@@ -7,7 +7,7 @@ title = "EEESA"
 [president]
 bio_img = "/images/teams/team-2.jpg"
 email = "eeesa@ucalgary.ca"
-name = "Melissa Erkmen"
+name = "Erik Barrett "
 title = "EEESA President"
 [social]
 facebook = "https://www.facebook.com/ucalgaryeeesa/"

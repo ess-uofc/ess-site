@@ -5,7 +5,7 @@ logo: images/departments/see/see.png
 layout: department
 subtitle: Society of Energy Engineers
 president:
-  name: "Vincent Paul Morga"
+  name: "Gabriela Perez Nasibullina"
   title: "SEE President"
   bio_img: "/images/teams/team-1.jpg"
   email: "vincentpaul.morga@ucalgary.ca"
