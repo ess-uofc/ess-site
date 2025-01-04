@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/events/2024/halloweek/saso-tusar-yP19KADwhEI-unsplash.jpg"
-  title: "Halloweek"
-  content: "A Skele-ton of Fun Awaits!"
+  bg_image: "images/events/2024/career-fair/Career Fair Banner.jpg"
+  title: "Winter Career Fair"
+  content: "Meet Employers, Discover Possibilities!"
   button:
     enable: true
-    label: "Let's Get Spooky"
-    link: "events/featured-events/halloweek"
+    label: "Learn More"
+    link: "events/featured-events/career-fair"
 
 ############################# About #################################
 about:
