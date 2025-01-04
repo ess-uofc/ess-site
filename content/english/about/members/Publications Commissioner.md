@@ -1,6 +1,6 @@
 ---
 name: Mishal Chaudhry
-memberType: commissioner
+# memberType: commissioner
 position: Publications Commissioner
 pronouns: She/Her
 email: publications@essucalgary.com
