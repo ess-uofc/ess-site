@@ -3,7 +3,7 @@ title: "Career Fair"
 description: "Build your soft skills and network!"
 bg_image: "/images/events/2023/career-fair/career-fair-ad.jpg"
 layout: "career-fair"
-# registration_link: "https://forms.gle/mS6kxzKNJgsNwGYg7"
+registration_link: "https://forms.gle/mS6kxzKNJgsNwGYg7"
 ---
 
 The ESS's Fall and Winter career fairs allow engineering students the chance to gain valuable industry connections firsthand. From local startups to big names, there will be a wide selection of companies for students to check out for their future career prospects. It's never too early or too late to build up your network, so please come out and see what opportunities you might find!
