@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: "images/events/2024/career-fair/Career Fair Banner.jpg"
-  title: "Winter Career Fair"
-  content: "Meet Employers, Discover Possibilities!"
+  title: "PI Week"
+  content: "Pie your friends (or enemies) for charity!"
   button:
     enable: true
     label: "Learn More"
