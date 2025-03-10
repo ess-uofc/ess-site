@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Learn More"
-    link: "events/featured-events/pi-week"
+    link: "news/2024-2025-pi-week/"
 
 ############################# About #################################
 about:
