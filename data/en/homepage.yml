@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/events/2024/career-fair/Career Fair Banner.jpg"
+  bg_image: "/images/events/2024/pi-week/pi-week.jpg"
   title: "PI Week"
   content: "Pie your friends (or enemies) for charity!"
   button:
     enable: true
     label: "Learn More"
-    link: "events/featured-events/career-fair"
+    link: "events/featured-events/pi-week"
 
 ############################# About #################################
 about:
