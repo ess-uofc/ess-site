@@ -11,9 +11,9 @@ tags:
   - News
 ---
 
-# Engineering Banquet
+# From Torque to Twilight
 **📅 April 4th, 6:30 PM | 📍 MacEwan Hall**  
-From torque to twilight, join us after classes to celebrate the end of the school year at our starry night–themed engineering banquet.
+Join us after class to celebrate the end of the school year at our starry night–themed engineering banquet.
 
 **The Theme: Starry Night** While the theme is starry night, you don't have to follow it super closely! It's primarily there to guide the vibe of the event. Our decor features starry elements as well as black, white, and shades of blue.
 
