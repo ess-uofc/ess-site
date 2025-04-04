@@ -3,8 +3,8 @@ type: post
 is_index: false
 title: Become a Commissioner
 date: 2025-04-04T00:00:00.000Z
-image: /images/news/2025/become-a-commissioner-banner.jpg
-bg_image: /images/news/2025/become-a-commissioner.jpg
+image: /images/news/2025/become-a-commissioner.jpg
+bg_image: /images/news/2025/become-a-commissioner-banner.jpg
 author: ESS
 description: Join the Engineering Students' Society as a commissioner and get involved within Schulich!
 tags:
