@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/events/2024/pi-week/pi-week.jpg"
-  title: "PI Week"
-  content: "Pie your friends (or enemies) for charity!"
+  bg_image: "/images/events/2025/engg-dinner/ENGG-Dinner-Banner.jpg"
+  title: "Engineering Banquet"
+  content: "From torque to twilight, join us after classes to celebrate the end of the school year at our starry night–themed banquet."
   button:
     enable: true
     label: "Learn More"
-    link: "news/2024-2025-pi-week/"
+    link: "news/2024-2025-engineering-dinner/"
 
 ############################# About #################################
 about:
