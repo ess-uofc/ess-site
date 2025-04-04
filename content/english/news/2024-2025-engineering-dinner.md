@@ -3,15 +3,15 @@ type: post
 is_index: false
 title: Engineering Banquet
 date: 2025-04-04T00:00:00.000Z
-image: /images/events/2025/engg-dinner/ENGG-Dinner-Banner.jpg
-bg_image: /images/events/2025/engg-dinner/ENGG-Dinner.jpg
+image: /images/events/2025/engg-dinner/ENGG-Dinner.jpg
+bg_image: /images/events/2025/engg-dinner/ENGG-Dinner-Banner.jpg
 author: ESS
 description: From torque to twilight, join us after classes to celebrate the end of the school year at our starry night–themed engineering banquet.
 tags:
   - News
 ---
 
-# Pi Week: Where Math Gets Messy!
+# Engineering Banquet
 **📅 April 4th, 6:30 PM | 📍 MacEwan Hall**  
 From torque to twilight, join us after classes to celebrate the end of the school year at our starry night–themed engineering banquet.
 
