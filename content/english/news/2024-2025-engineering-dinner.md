@@ -12,6 +12,9 @@ tags:
 ---
 
 # From Torque to Twilight
+**Tickets are Sold Out**
+Looking forward to seeing you all at the banquet!
+
 **📅 April 4th, 6:30 PM | 📍 MacEwan Hall**  
 Join us after class to celebrate the end of the school year at our starry night–themed engineering banquet.
 
