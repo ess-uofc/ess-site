@@ -12,7 +12,8 @@ tags:
 ---
 
 # Help Us Torque the Talk & Weld the Walk
-Ready to kick off your engineering journey in style? Join the Engineering Students' Society as a commissioner and get involved within Schulich!
+**Ready to kick off your engineering journey in style?**  
+Join the Engineering Students' Society as a commissioner and get involved within Schulich!
 
 👉 **[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSefuMwlUI_wBRG4xnWMwrWwnxv95WMkxb4EKjb3-Sp17y-AjA/viewform)**  
 📅 Submit your application by **April 11th**  
