@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/events/2025/engg-dinner/ENGG-Dinner-Banner.jpg"
-  title: "Engineering Banquet"
-  content: "From torque to twilight, join us after classes to celebrate the end of the school year at our starry night–themed banquet."
+  bg_image: "/images/news/2025/become-a-commissioner-banner.jpg"
+  title: "Become a Commissioner"
+  content: "Join the Engineering Students' Society as a commissioner and get involved within Schulich!"
   button:
     enable: true
     label: "Learn More"
-    link: "news/2024-2025-engineering-dinner/"
+    link: "news/2024-2025-become-a-commissioner/"
 
 ############################# About #################################
 about:
