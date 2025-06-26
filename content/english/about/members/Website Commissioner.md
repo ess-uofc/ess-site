@@ -1,5 +1,5 @@
 ---
-name: Michael Belger
+name: Abia Jahangir
 memberType: commissioner
 position: Website Commissioner
 pronouns: He/Him
