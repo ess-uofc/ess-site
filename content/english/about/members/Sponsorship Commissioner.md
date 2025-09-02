@@ -1,18 +1,16 @@
 ---
-name: Ana-Maria Tellez
+name: Elyse Wookey
 memberType: commissioner
 position: Sponsorship Commissioner
-pronouns: She/Her
+# pronouns: She/Her
 email: sponsorship@essucalgary.com
-image: /images/about/council-members/2024-2025/Sponsorship Commissioner.jpg
+image: /images/about/council-members/2025-2026/Sponsorship Commissioner.jpg
 ---
 
-**Year & Major:** 2nd Year - Electrical
+**Year & Major:** 2nd Year Chemical + Business
 
-**Weird fact about yourself:** I have like no peripheral vision
+**I get way too excited about...** Spikeball
 
-**Current song on repeat:** Perfect Portrait of Young Love by The 502’s
+**This year, I really want to...** meet more people!
 
-**Fave memory from eng:** First year Eng dinner!!
-
-**Why you joined ESS:** To contribute to the engineering community and make an impact!
+**A life goal of mine...** Backpack through Europe

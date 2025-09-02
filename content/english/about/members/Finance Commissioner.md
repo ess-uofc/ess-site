@@ -1,18 +1,17 @@
 ---
-name: Zach Grappolini
+name: Lukus van Vlaanderen
 memberType: commissioner
 position: Finance Commissioner
-pronouns: He/Him
+# pronouns: He/Him
 email: finance.comm@essucalgary.com
-image: /images/about/council-members/2024-2025/Finance Commissioner.jpg
+image: /images/about/council-members/2025-2026/Finance Commissioner.jpg
 ---
 
-**Year & Major:** 2nd Year - Undeclared
+**Year & Major:** 2nd Year - Electrical
 
-**Weird fact about yourself:** I wear shorts year round
+**A life goal of mine...** Own a company that does something (irrelevant) but also has a speakeasy/cafe beneath it. No, I don't want to just run a speakeasy/cafe, that's not the point.
 
-**Current song on repeat:** Six Legs(tippy tappy toes) - Scrawny, Madilyn Mei
+**I get way too excited about...** dancing at Ranchmens
 
-**Fave memory from eng:** Those five minutes after the last exam
+**Unusual skills...** I can perfectly cook pork every single time.
 
-**Why you joined ESS:** Abia told me to join,  and to be more active within the engineering community

@@ -1,18 +1,14 @@
 ---
-name: Kirill Yereferenko
+name: Nicole Volochtchik
 memberType: commissioner
 position: Social Commissioner
-pronouns: He/Him
+# pronouns: He/Him
 email: social.comm4@essucalgary.com
-image: /images/about/council-members/2024-2025/Social Commissioner 3.jpg
+image: /images/about/council-members/2025-2026/Social Commissioner 3.jpg
 ---
 
-**Year & Major:** 2nd Year - Mechanical
+**Year & Major:** 3rd Year - Mechanical
 
-**Weird fact about yourself:** I’ve rewatched Twin Peaks 7 times
-
-**Current song on repeat:** The Flower Called Nowhere - Stereolab
-
-**Fave memory from eng:** ENGG 204
-
-**Why you joined ESS:** To help improve the eng community that I’m a part of :)
+**I get way too excited about...** Tron 3 & Silksong coming out
+**This year I really want to...** lock in onto the academic grind
+**Change my mind about...** fries and ice cream being a mediocre combo

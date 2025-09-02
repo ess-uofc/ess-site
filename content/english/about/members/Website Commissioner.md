@@ -1,18 +1,16 @@
 ---
-name: Michael Belger
+name: Abia Jahangir
 memberType: commissioner
 position: Website Commissioner
-pronouns: He/Him
+# pronouns: He/Him
 email: website@essucalgary.com
-image: /images/about/council-members/2024-2025/Website Commissioner.jpg
+image: /images/about/council-members/2025-2026/Website Commissioner.jpg
 ---
 
-**Year & Major:** 2nd Year - Mechanical w/ Mechatronics Minor
+**Year & Major:** 3rd Year - Software
 
-**Weird fact about yourself:** My squat record is roughly the weight of 1.5 pandas 💪🐼
+**The one thing you should know about me is...** that I love to talk
 
-**Current song on repeat:** In Quiet Rooms - Ollie MN
+**Change my mind about...** Frank Ocean being the best artist of our generation
 
-**Fave memory from eng:** Making friendship bracelets
-
-**Why you joined ESS:** To grow our skills together :)
+**A shower thought I recently had is that...** congress should vote anonymously

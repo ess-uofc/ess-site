@@ -1,18 +1,16 @@
 ---
-name: Mishal Chaudhry
+name: Cathy Xie
 memberType: executive
 position: VP Communications
-pronouns: She/Her
+# pronouns: She/Her
 email: communications@essucalgary.com
-image: /images/about/council-members/2024-2025/VP Communications.jpg
+image: /images/about/council-members/2025-2026/VP Communications.jpg
 ---
 
 **Year & Major:** 2nd Year - Mechanical
 
-**Weird fact about yourself:** I own four Minion figurines which feels like too many… (Yes, the ones from Despicable Me)
+**I get way too excited about...** airplanes
 
-**Current song on repeat:** Disturbia by Rihanna 
+**A life goal of mine is to...** see weezer irl
 
-**Fave memory from eng:** Pancake breakfast on Bermuda Shorts Day
-
-**Why you joined ESS:** Because it’s awesome…
+**My cry-in-the-car song is...** only in dreams by weezer

@@ -1,18 +1,17 @@
 ---
-name: Saachi Sharma
+name: Erin Kim
 memberType: commissioner
 position: Competitions Commissioner
-pronouns: She/Her
+# pronouns: She/Her
 email: competitions@essucalgary.com
-image: /images/about/council-members/2024-2025/Competitions Commissioner 1.jpg
+image: /images/about/council-members/2025-2026/Competitions Commissioner 1.jpg
 ---
 
-**Year & Major:** 3rd Year - Mechanical
+**Year & Major:** 3rd Year Software Engineering
 
-**Weird fact about yourself:** I can go months without checking my final grade
+**I get way too excited about...** Gaming, specifically Baldur’s Gate 3 and Expedition 33
 
-**Current song on repeat:** Vent by Baby Keem
+**This year I really want to...** Go to an aquarium! 
 
-**Fave memory from eng:** Late night study sessions with my friends, cup run, tap the town
+**My cry-in-the-car song is...** "Miss You" by KIM BUMSOO
 
-**Why you joined ESS:** For Stephan and Yabi … bestie vibes fr :)

@@ -1,18 +1,17 @@
 ---
-name: Hiten Mahalwar
+name: Rabi Khan
 memberType: commissioner
 position: Technology Commissioner
-pronouns: He/Him
+# pronouns: He/Him
 email: technology@essucalgary.com
-image: /images/about/council-members/2024-2025/Technology Commissioner.jpg
+image: /images/about/council-members/2025-2026/Technology Commissioner.jpg
 ---
 
-**Year & Major:** 4th Year - Software
+**Year & Major:** 3rd Year - Software
 
-**Weird fact about yourself:** I’ll wake up instantly when my alarm goes off.
+**My cry-in-the-car song is...** Seigfried by Frank Ocean.
 
-**Current song on repeat:** n.h.i.e - 21 Savage, Doja Cat
+**My life goal is to...** make enough money to never work again and just work on fun projects at home.
 
-**Fave memory from eng:** Procrastinating homework by playing table tennis in the Eng building.
+**This year I really want to...** hit Challenger on League of Legends.
 
-**Why you joined ESS:** To contribute to the engineering community at Schulich!

@@ -1,18 +1,16 @@
 ---
-name: Isabel Gonzalez
+name: Kristen Powell
 memberType: commissioner
 position: Social Commissioner
-pronouns: She/Her
+# pronouns: She/Her
 email: social.comm3@essucalgary.com
-image: /images/about/council-members/2024-2025/Social Commissioner 2.jpg
+image: /images/about/council-members/2025-2026/Social Commissioner 2.jpg
 ---
 
-**Year & Major:** 2nd Year - Biomedical
+**Year & Major:** 2nd Year - Electrical
 
-**Weird fact about yourself:** I put ketchup on pizza.
+**This year, I really want to...** make new friends in my major
 
-**Current song on repeat:** S91- Karol G
+**A life goal of mine is...** to be super rich 
 
-**Fave memory from eng:** The many hours my friends and I spent working on our design projects!
-
-**Why you joined ESS:** I wanted to become more involved, and help make a positive impact on the engineering community!
+**I get way too excited about...** the hunger games movies
