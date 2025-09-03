@@ -3,7 +3,7 @@ name: Nicole Volochtchik
 memberType: commissioner
 position: Social Commissioner
 # pronouns: He/Him
-email: social.comm4@essucalgary.com
+email: social.comm3@essucalgary.com
 image: /images/about/council-members/2025-2026/Social Commissioner 3.jpg
 ---
 
