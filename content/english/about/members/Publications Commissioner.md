@@ -1,18 +1,16 @@
 ---
-name: Shakira Haji
+name: Manal Chaudhry
 memberType: commissioner
 position: Publications Commissioner
-pronouns: She/Her
+# pronouns: She/Her
 email: publications@essucalgary.com
-image: /images/about/council-members/2024-2025/Publications Commissioner.jpg
+image: /images/about/council-members/2025-2026/Publications Commissioner.jpg
 ---
 
-**Year & Major:** 3rd Year - Biomedical w/ Digital Minor
+**Year & Major:** 3rd Year - Mechanical
 
-**Weird fact about yourself:** I get frequent nightmares and experience sleep paralysis where I have auditory and visual hallucinations ◡̈
+**The one thing you should know about me is...** I’m a hobby collector who needs to do something new every month.
 
-**Current song on repeat:** Ptolemaea by Ethel Cain 
+**This year, I really want to...** touch grass more.
 
-**Fave memory from eng:** Mass hysteria when working in the makerspace for projects in first year
-
-**Why you joined ESS:** To be involved in the community and make an impact
+**Change my mind about...** chocolate mousse being the best dessert ever. 

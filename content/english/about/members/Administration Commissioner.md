@@ -1,18 +1,17 @@
 ---
-name: Ariana Miller
+name: Saachi Sharma
 memberType: commissioner
 position: Administration Commissioner
-pronouns: She/Her
+# pronouns: She/Her
 email: admin.comm@essucalgary.com
-image: /images/about/council-members/2024-2025/Administration Commissioner.jpg
+image: /images/about/council-members/2025-2026/Default.png
+# image: /images/about/council-members/2025-2026/Admin Commissioner.png
 ---
 
-**Year & Major:** 3rd Year - Mechanical w/ Digital Minor
+**Year & Major:** 3rd Year - Sustainable Systems
 
-**Weird fact about yourself:** I eat pizza backwards 🍕🔙
+**This year, I really want to...** Run a 10k
 
-**Current song on repeat:** CHIHIRO - Billie Eilish
+**Most spontaneous thing I’ve done...** Is go cliff diving
 
-**Fave memory from eng:** Attending conferences in Winnipeg and Newfoundland, as well as patchtrading throughout UCalgary and with other schools.
-
-**Why you joined ESS:** I joined ESS because I wanted to have a bigger impact on what goes on within the student body, as well as branch out and meet others who have a drive to improve Schulich.
+**My cry-in-the-car song is...** Again by Fetty Wap

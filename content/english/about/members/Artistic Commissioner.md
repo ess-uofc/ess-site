@@ -1,18 +1,17 @@
 ---
-name: Taylor Kindleman
+name: Noor Ali
 memberType: commissioner
-position: Artistic Commissioner
-pronouns: She/Her
+position: Design  Commissioner
+# pronouns: She/Her
 email: artistic@essucalgary.com
-image: /images/about/council-members/2024-2025/Artistic Commissioner.jpg
+image: /images/about/council-members/2025-2026/Artistic Commissioner.jpg
 ---
 
-**Year & Major:** 3rd Year - Mechanical ⚙️
+**Year & Major:** 2nd Year - Software
 
-**Weird fact about yourself:** My favorite app on my phone is Wikipedia 🌐
+**Change my mind about...** Red Dead Redemption 2 being the greatest video game of all time
 
-**Current song on repeat:** HOT TO GO! - Chappell Roan 🔥
+**This year, I really want to...** learn how to play volleyball
 
-**Fave memory from eng:** Attending CELC 2024 and meeting so many amazing engineers from across Canada!
+**A life goal of mine is to...** find a way for my cat to live longer than me
 
-**Why you joined ESS:** To help bring together fellow engineers and make life a little bit better! (and touch grass…)

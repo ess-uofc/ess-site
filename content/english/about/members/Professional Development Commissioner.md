@@ -1,18 +1,16 @@
 ---
-name: Abod Abbas
+name: Kambi Obodo
 memberType: commissioner
 position: Professional Development Commissioner
-pronouns: He/Him
+# pronouns: He/Him
 email: pdevelopment@essucalgary.com
-image: /images/about/council-members/2024-2025/Professional Development Commissioner.jpg
+image: /images/about/council-members/2025-2026/Professional Development Commissioner.jpg
 ---
 
-**Year & Major:** 5th Year - Electrical
+**Year & Major:** 2nd year Geomatics Engineering + Software minor
 
-**Weird fact about yourself:** I have lived in 6 cities
+**The one thing you should know about me is...** I love musicals
 
-**Current song on repeat:** Gata only by Floyy Menor
+**I get way too excited about...** Goodhost Iced Tea
 
-**Fave memory from eng:** Vibing in the engg lounge, if you want to find me I will probably be there.
-
-**Why you joined ESS:** It's the best way to connect with some great people while also making a great impact. 
+**A life goal of mine is...** to be financially free

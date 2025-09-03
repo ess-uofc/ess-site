@@ -1,18 +1,17 @@
 ---
-name: Yabsira Dagne
+name: Jal Patel
 memberType: commissioner
 position: Competitions Commissioner
-pronouns: She/Her
+# pronouns: She/Her
 email: competitions@essucalgary.com
-image: /images/about/council-members/2024-2025/Competitions Commissioner 2.jpg
+image: /images/about/council-members/2025-2026/Competitions Commissioner 2.jpg
 ---
 
-**Year & Major:** 3rd Year - Civil
+**Year & Major:** 2rd Year Mechanical Engineering
 
-**Weird fact about yourself:** I randomly talk in the third person
+**I get way too excited about...** free food
 
-**Current song on repeat:** Martin and Gina by Polo G
+**A life goal of mine...** is to climb mount everest
 
-**Fave memory from eng:** “Studying” super late in the engg lounge
+**Change my mind about...** pineapple on pizza
 
-**Why you joined ESS:** For Saachi and Stephan … bestie vibes fr :)

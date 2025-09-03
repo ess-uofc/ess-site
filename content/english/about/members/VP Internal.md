@@ -1,18 +1,17 @@
 ---
-name: Evan Bosdet
+name: Luke Zenha
 memberType: executive
 position: VP Internal
-pronouns: He/Him
+# pronouns: He/Him
 email: internal@essucalgary.com
-image: /images/about/council-members/2024-2025/VP Internal.jpg
+image: /images/about/council-members/2025-2026/VP Internal.jpg
 ---
 
-**Year & Major:** 3rd Year - Electrical
+**Year & Major:** 2nd Year - Electrical
 
-**Weird fact about yourself:** I own way too many jackets.
+**I get way to excited about...** music
 
-**Current song on repeat:** Tyranny - Gesaffelstein
+**A typical Sunday consists of...** sleeping until 3pm, doom scrolling, and getting a ton of ice cream
 
-**Fave memory from eng:** Going to CSE 2024.
+**This year I really want to...** go tobogganing again (It’s been wayyyy too long)
 
-**Why you joined ESS:** I wanted to change the engineering community for the better, and be a leader in that community.

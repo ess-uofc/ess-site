@@ -1,18 +1,16 @@
 ---
-name: Aleks Berezowski
+name: Ella Johnson
 memberType: executive
 position: President
-pronouns: He/They
+# pronouns: She/Her
 email: president@essucalgary.com
-image: /images/about/council-members/2024-2025/President.jpg
+image: /images/about/council-members/2025-2026/President.png
 ---
 
-**Year & Major:** 4th Year - Software
+**Year & Major:** 5th year Mechanical Engineering and Business
 
-**Weird fact about yourself:** My skin and eyes turn yellow on occasion
+**I get way too excited about...** ESS lore and engineering-themed patches
 
-**Current song on repeat:** Interia by AJR & Stayed Gone from Hazbin Hotel
+**Most spontaneous thing I’ve done...** is studied abroad
 
-**Fave memory from eng:** Yelling chants during ENGG week
-
-**Why you joined ESS:** The community at Schulich has been incredible for me, and I want to expand it so as many people as possible can have as great of a time as I have!
+**A life goal of mine is...** to own a Steinway & Sons piano

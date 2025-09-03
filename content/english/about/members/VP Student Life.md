@@ -1,18 +1,14 @@
 ---
-name: Ella Johnson
+name: Kirill Yereferenko
 memberType: executive
 position: VP Student Life
-pronouns: She/Her
+# pronouns: She/Her
 email: studentlife@essucalgary.ca
-image: /images/about/council-members/2024-2025/VP Student Life.jpg
+image: /images/about/council-members/2025-2026/VP Student Life.jpg
 ---
 
-**Year & Major:** 4th Year - Mechanical & Business
+**Year & Major:** 3rd Year - Mechanical
 
-**Weird fact about yourself:** I collect engg-themed patches (current count is 200+)
-
-**Current song on repeat:** American Pie by Don Mclean
-
-**Fave memory from eng:** Meeting students from across the country at conferences  tied with when any of my design projects worked
-
-**Why you joined ESS:** Bring hype to the deprived engg students!
+**The one thing you should know about me is...** that I love bending moment diagrams.
+**I get way too excited about...** bending moment diagrams. 
+**Change my mind about...** how awesome bending moment diagrams are.

@@ -1,18 +1,17 @@
 ---
-name: Angelina Lambrinoudis
+name: Cameron Bews (the one on the right)
 memberType: commissioner
 position: Social Commissioner
-pronouns: She/Her
+# pronouns: She/Her
 email: social.comm1@essucalgary.com
-image: /images/about/council-members/2024-2025/Social Commissioner 1.jpg
+image: /images/about/council-members/2025-2026/Social Commissioner 1.jpg
 ---
 
 **Year & Major:** 2nd Year - Mechanical
 
-**Weird fact about yourself:** I bite ice cream. 🫥🫥
+**I get way too excited about...** Ranch Dressing
 
-**Current song on repeat:** Netflix by Toquel, Hawk
+**Change my mind about...** Wish you were here being the best album of all time
 
-**Fave memory from eng:** The TA’s
+**The shower thought I had recently was...** Someone out there has probably dreamt about you doing something completely random. 
 
-**Why you joined ESS:** I wanted to be more involved with the school community and help plan events for the school.

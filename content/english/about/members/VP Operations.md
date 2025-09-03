@@ -1,18 +1,17 @@
 ---
-name: Esther Choi
+name: Karna Kokame
 memberType: executive
 position: VP Operations
-pronouns: She/Her
+# pronouns: She/Her
 email: operations@essucalgary.com
-image: /images/about/council-members/2024-2025/VP Operations.jpg
+image: /images/about/council-members/2025-2026/VP Operations.jpg
 ---
 
-**Year & Major:** 2nd Year - Mechanical
+**Year & Major:** 2nd Year - Chemical
 
-**Weird fact about yourself:** My hair was neon pink (not by choice)
+**Most spontaneous thing I’ve done...** is go to Toronto on a day's notice by myself.
 
-**Current song on repeat:** Strawberries & Cigarettes - Troye Sivan
+**My cry-in-the-car song is...** “Feels” by Tory Lanez ft. Chris Brown
 
-**Fave memory from eng:** Trauma bonding with everyone after exams😍!!
+**A life goal of mine...** is to go bungee jumping.
 
-**Why you joined ESS:** I wanted to be connected with the engineering community and to help in creating a positive impact for students
