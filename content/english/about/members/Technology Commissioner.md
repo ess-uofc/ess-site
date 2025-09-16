@@ -7,7 +7,7 @@ email: technology@essucalgary.com
 image: /images/about/council-members/2025-2026/Technology Commissioner.jpg
 ---
 
-**Year & Major:** 3rd Year - Software
+**Year & Major:** 2nd Year Software & Aerospace Engineering
 
 **My cry-in-the-car song is...** Seigfried by Frank Ocean.
 
