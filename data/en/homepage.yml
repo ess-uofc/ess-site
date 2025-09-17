@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Learn More"
-    link: "/news/2025-2026-gag-applications.md"
+    link: "/news/2025-2026-gag-applications"
 
 ############################# About #################################
 about:
