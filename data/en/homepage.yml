@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  image: "/images/news/2025-26/ESS_GaG_Submissions_1.png"
+  image: "static/images/news/2025-26/ESS_GaG_Submissions_1.png"
   title: "Gag Submissions Open"
   content: "Drop your GaG submissions"
   button:

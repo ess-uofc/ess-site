@@ -1,5 +1,5 @@
 ---
-type: post
+# type: post
 is_index: false
 title: Become a Commissioner
 date: 2025-04-04T00:00:00.000Z
