@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "/images/news/2025/become-a-commissioner-banner.jpg"
-  title: "Become a Commissioner"
-  content: "Join the Engineering Students' Society as a commissioner and get involved within Schulich!"
+  image: "/images/news/2025-26/ESS_GaG_Submissions_1.png"
+  title: "Gag Submissions Open"
+  content: "Drop your GaG submissions"
   button:
     enable: true
     label: "Learn More"
-    link: "news/2024-2025-become-a-commissioner/"
+    link: "/news/2025-2026-gag-applications.md"
 
 ############################# About #################################
 about:
