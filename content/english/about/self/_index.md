@@ -38,7 +38,10 @@ Experiential Learning (EL) is learning–by-doing that bridges knowledge and exp
 
 ## How to Submit Applications
 
-Applications can be submitted via email [self@essucalgary.com](mailto:self@essucalgary.com) by attaching the appropriate application form as listed above. See the Timetable section for deadlines.
+<!-- Applications can be submitted via email [self@essucalgary.com](mailto:self@essucalgary.com) by attaching the appropriate application form as listed above. See the Timetable section for deadlines. -->
+
+Applications can be submitted in the following form: 
+[Fill out the Google Form](https://calendar.google.com/calendar/u/0/embed?src=c_eb8022439936ef5ad9e25a6fbbd0a1f74ff9596d07f73a71018837d742f5fee3@group.calendar.google.com&ctz=America/Edmonton){target="_blank" rel="noopener"}
 
 ## When will my Application be Reviewed
 
