@@ -9,7 +9,7 @@ image: /images/about/council-members/2025-2026/VP Academic.jpg
 
 **Year & Major:** 2nd year Civil
 
-**Change my mind about...** a good match is slightly better than a good coffee. But a mid coffee is >>>>> a mid matcha
+**Change my mind about...** a good matcha is slightly better than a good coffee. But a mid coffee is >>>>>> a mid matcha
 
 **A life goal of mine...** is to go camping in iceland 
 
