@@ -1,11 +1,9 @@
 +++
 bg_image = "/images/about/202021-group-council-1-banner.jpg" 
 layout = "department"
-<!-- logo = "images/departments/phyzz/logo.png" -->
-<!-- get phyzz logo -->
+logo = "images/departments/phyzz/logo.png"
 title = "Phyzz"
 subtitle = "Physics Engineering Societies"
-<!-- what is the phyzz society name lowkey? -->
 [president]
 bio_img = "/images/teams/team-3.jpg"
 email = "president.phyzz@ucalgary.ca"
@@ -20,7 +18,14 @@ instagram = ""
 linkedin = ""
 youtube = ""
 
-
 +++
 
-<!-- need phyzz description -->
+The Student Society for Sustainable Systems Engineering (S4E), was founded in 2023 with the establishment of the Sustainable Systems Engineering major (SUSE). S4E is designed to foster connections between students in SUSE as well as inform and promote SUSE to the greater student body through both fun activities and academic events. From ski trips, hikes and onion eating competitions to mixers and design challenges, the S4E provides opportunities to develop skills, connect with industry and of course, have fun. The main academic events hosted include the annual Sustainable Industry Fair, First Year Design Challenge, and a joint contribution to the annual Bridging Perspectives Conference. For more information about Sustainable Systems Engineering, make sure to come check us out at one of our events or connect with us through 
+
+
+
+
+
+
+
+

@@ -2,15 +2,14 @@
 bg_image = "/images/about/202021-group-council-1-banner.jpg" 
 layout = "department"
 logo = "images/departments/s4e/logo.png"
-<!-- get s4e logo -->
 title = "S4E"
 subtitle = "Student Society for Sustainable System Engineers"
 [president]
 bio_img = "/images/teams/team-3.jpg"
-email = "s4e.ucalgary.ca"
+email = "s4e.ucalgary@gmail.com"
 name = "Kaitlyn Regehr"
 
-title = "Phyzz President"
+title = "S4E President"
 [social]
 facebook = ""
 twitter = ""
