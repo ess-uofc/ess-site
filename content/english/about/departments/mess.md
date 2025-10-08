@@ -7,7 +7,7 @@ subtitle = "Mechanical Engineering Students’ Society"
 [president]
 bio_img = "/images/teams/team-3.jpg"
 email = "president@messuofc.ca"
-name = "Alec Drebit"
+name = "Ariana Miller"
 title = "MESS President"
 [social]
 facebook = "https://www.facebook.com/MESSUofC"

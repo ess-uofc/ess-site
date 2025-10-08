@@ -5,7 +5,7 @@ logo: images/departments/ceuss/logo.png
 layout: department
 subtitle: Civil Engineering Undergraduate Society
 president:
-  name: "Teresa Akl"
+  name: "Zeina Elgohary"
   title: "CEUS President"
   bio_img: "/images/teams/team-1.jpg"
   email: "ceus@ucalgary.ca"
