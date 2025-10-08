@@ -7,7 +7,7 @@ subtitle = "Chemical and Oil & Gas Engineering Students’ Society"
 [president]
 bio_img = "/images/teams/team-3.jpg"
 email = "president.cess@ucalgary.ca"
-name = "Alex Barreto"
+name = "Adrian Obrejanu"
 title = "CESS Presidents"
 [social]
 facebook = "https://www.facebook.com/ucalgarycess/"

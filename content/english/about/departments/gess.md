@@ -5,7 +5,7 @@ logo: images/departments/gess/logo.png
 layout: department
 subtitle: Geomatics Engineering Students' Society
 president:
-  name: "Kendrick Lao"
+  name: "Kush Rishi"
   title: "GESS President"
   bio_img: "/images/teams/team-1.jpg"
   email: "gess@ucalgary.ca"

@@ -7,7 +7,7 @@ title = "BMESS"
 [president]
 bio_img = "/images/about/council-members/stock-male.jpg"
 email = "bmess@ucalgary.ca"
-name = "Amber Quo"
+name = "Fabiha Chohan and Celine Yeung"
 title = "BMESS Presidents"
 [social]
 facebook = "https://www.facebook.com/UofCBMESS/"

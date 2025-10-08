@@ -6,7 +6,7 @@ layout: department
 subtitle: Society of Energy Engineers
 president:
   name: "Gabriela Perez Nasibullina"
-  title: "SEE President"
+  title: "Josh Navarette"
   bio_img: "/images/teams/team-1.jpg"
   email: "vincentpaul.morga@ucalgary.ca"
 social:
