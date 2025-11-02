@@ -1,7 +1,7 @@
 ---
 title: DESS
 bg_image: images/about/202021-group-council-1-banner.jpg
-logo: images/departments/dess/dess.png
+logo: images/departments/dess/dess.svg
 layout: department
 subtitle: Digital Engineering Students’ Society
 president:
@@ -10,7 +10,7 @@ president:
   bio_img: "/images/teams/team-1.jpg"
   email: "dess@ucalgary.ca"
 social:
-  website: "https://uofcdess.netlify.app/"
+  website: "https://sites.google.com/view/dessucalgary/home"
   facebook: ""
   twitter: ""
   instagram: ""

@@ -7,7 +7,7 @@ subtitle = "Physics Engineering Societies"
 [president]
 bio_img = "/images/teams/team-3.jpg"
 email = "president.phyzz@ucalgary.ca"
-name = "Lindsay Wennerstrom and Annika"
+name = "Lindsay Wennerstrom and Annika Nicolas"
 
 title = "Phyzz President"
 [social]
