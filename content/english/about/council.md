@@ -13,7 +13,7 @@ commissioner_team:
   title: Commissioner Team
   description: "2025-2026"
 fyr_team:
-  enable: false
+  enable: true
   title: First Year Representatives
   description: "2025-2026"
 ---
