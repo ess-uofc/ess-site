@@ -4,8 +4,10 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      <h2>{{.Title}}</h2>
-      {{.Content }}
+      <h1>{{.Title}}</h1>
+      <br>
+      <p style="font-size: 50px;">{{.Content }}</p>
+      <br>
       <a
         class="btn btn-main"
         href="{{.Params.registration_link}}"
@@ -16,7 +18,7 @@
   </div>
   <div class="container">
     <div class="row">
-      <h3>Companies Attending</h3>
+      <!-- <h3>Companies Attending</h3> -->
     </div>
     <div class="career-fair-companies">
       {{ range (where .Site.Pages "Layout" "career-fair-company") }}
