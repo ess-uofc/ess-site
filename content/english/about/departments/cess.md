@@ -12,7 +12,7 @@ title = "CESS Presidents"
 [social]
 facebook = "https://www.facebook.com/ucalgarycess/"
 twitter = ""
-website = "http://www.cessucalgary.com/"
+website = "https://sites.google.com/view/cessucalgary/home"
 instagram = ""
 linkedin = ""
 youtube = ""

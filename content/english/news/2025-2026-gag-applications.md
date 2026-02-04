@@ -1,5 +1,5 @@
 ---
-type: post
+# type: post
 is_index: false
 title: GAG Submissions Are Open!
 date: 2025-09-17T00:00:00.000Z
