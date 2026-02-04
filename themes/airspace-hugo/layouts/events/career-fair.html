@@ -8,17 +8,17 @@
       <br>
       <p style="font-size: 50px;">{{.Content }}</p>
       <br>
-      <a
+      <!-- <a
         class="btn btn-main"
         href="{{.Params.registration_link}}"
         target="_blank"
         >REGISTER NOW
-      </a>
+      </a> -->
     </div>
   </div>
-  <div class="container">
+  <!-- <div class="container">
     <div class="row">
-      <!-- <h3>Companies Attending</h3> -->
+      <h3>Companies Attending</h3>
     </div>
     <div class="career-fair-companies">
       {{ range (where .Site.Pages "Layout" "career-fair-company") }}
@@ -39,7 +39,7 @@
       </div>
       {{ end }}
     </div>
-  </div>
+  </div> -->
 </section>
 
 {{ end }}
