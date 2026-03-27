@@ -1,5 +1,5 @@
 ---
-# type: post
+type: post
 is_index: false
 title: Winter 2026 Career Fair
 date: 2026-02-04T00:00:00.000Z
