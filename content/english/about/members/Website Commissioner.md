@@ -1,5 +1,5 @@
 ---
-name: Abia Jahangir
+name: Artur
 memberType: commissioner
 position: Website Commissioner
 # pronouns: He/Him
@@ -7,7 +7,7 @@ email: website@essucalgary.com
 image: /images/about/council-members/2025-2026/Website Commissioner.jpg
 ---
 
-**Year & Major:** 3rd Year - Software
+**Year & Major:** 2nd year mech
 
 **The one thing you should know about me is...** that I love to talk
 
