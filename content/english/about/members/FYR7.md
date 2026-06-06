@@ -1,5 +1,5 @@
 ---
-name: Antonio Alapizco-Bonardel
+name:
 memberType: fyr
 # pronouns: He/Him
 email: upsilon@essucalgary.com
