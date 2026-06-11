@@ -1,6 +1,6 @@
 ---
 name: Phillip Nguyen
-memberType: fyr
+#memberType: fyr
 # pronouns: He/Him
 email: delta@essucalgary.com
 image: /images/about/council-members/2025-2026/FYR10.jpg

@@ -1,6 +1,6 @@
 ---
 name: Sara Cosman
-memberType: fyr
+#memberType: fyr
 # pronouns: He/Him
 email: phi@essucalgary.com
 image: /images/about/council-members/2025-2026/FYR4.jpg

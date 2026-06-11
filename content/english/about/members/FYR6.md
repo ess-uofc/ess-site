@@ -1,6 +1,6 @@
 ---
 name: Elle Djogović
-memberType: fyr
+#memberType: fyr
 # pronouns: He/Him
 email: rho@essucalgary.com
 image: /images/about/council-members/2025-2026/FYR6.jpg

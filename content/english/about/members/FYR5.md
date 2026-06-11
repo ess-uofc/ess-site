@@ -1,6 +1,6 @@
 ---
 name: Eileen Cai
-memberType: fyr
+#memberType: fyr
 # pronouns: He/Him
 email: tau@essucalgary.com
 image: /images/about/council-members/2025-2026/FYR5.jpg

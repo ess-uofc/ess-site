@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Events on Engineering Students&#39; Society U of C</title>
+		<link>http://localhost:1313/events/</link>
+		<description>Recent content in Events on Engineering Students&#39; Society U of C</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2023 Engineering Students Society University of Calgary. All Rights Reserved</copyright>
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Events Calendar</title>
+				<link>http://localhost:1313/events/events-calendar/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/events-calendar/</guid>
+				<description>&lt;iframe src=&#34;https://calendar.google.com/calendar/u/0/embed?src=c_eb8022439936ef5ad9e25a6fbbd0a1f74ff9596d07f73a71018837d742f5fee3@group.calendar.google.com&amp;ctz=America/Edmonton&#34; style=&#34;border: 0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
+			</item>
+	</channel>
+</rss>

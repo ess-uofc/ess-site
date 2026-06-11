@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>SELF on Engineering Students&#39; Society U of C</title>
+		<link>http://localhost:1313/about/self/</link>
+		<description>Recent content in SELF on Engineering Students&#39; Society U of C</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2023 Engineering Students Society University of Calgary. All Rights Reserved</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/about/self/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SELF Round Table &amp; Launch</title>
+				<link>http://localhost:1313/about/self/launch/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/self/launch/</guid>
+				<description>&lt;p&gt;Student Experiential Learning Fund (SELF) is a new program the Engineering Students&amp;rsquo; Society (ESS) is launching in collaboration with the Schulich School of Engineering. This fund aims to provide financial support for Schulich Clubs &amp;amp; Teams in a variety of areas that are not covered by the Schulich Student Activities Fund (SSAF).&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

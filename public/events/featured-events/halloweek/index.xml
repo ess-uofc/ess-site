@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Halloweek on Engineering Students&#39; Society U of C</title>
+		<link>http://localhost:1313/events/featured-events/halloweek/</link>
+		<description>Recent content in Halloweek on Engineering Students&#39; Society U of C</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2023 Engineering Students Society University of Calgary. All Rights Reserved</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/events/featured-events/halloweek/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A Bloody Affair</title>
+				<link>http://localhost:1313/events/featured-events/halloweek/1-abloodyaffair/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/halloweek/1-abloodyaffair/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Balls of Fury</title>
+				<link>http://localhost:1313/events/featured-events/halloweek/7-ballsoffury/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/halloweek/7-ballsoffury/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cereal Day Spooky Edition BYOB (Bring Your Own Bowl)</title>
+				<link>http://localhost:1313/events/featured-events/halloweek/3-cerealday/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/halloweek/3-cerealday/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>ESS Booard of Directors</title>
+				<link>http://localhost:1313/events/featured-events/halloweek/2-essbooardofdirectors/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/halloweek/2-essbooardofdirectors/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>I Scream for Schulich</title>
+				<link>http://localhost:1313/events/featured-events/halloweek/5-iscreamforschulich/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/halloweek/5-iscreamforschulich/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Movie Night</title>
+				<link>http://localhost:1313/events/featured-events/halloweek/4-movienight/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/halloweek/4-movienight/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Smashing Pumpkins</title>
+				<link>http://localhost:1313/events/featured-events/halloweek/6-smashingpumpkins/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/halloweek/6-smashingpumpkins/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

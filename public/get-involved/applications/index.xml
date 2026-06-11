@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Get involved with the ESS! on Engineering Students&#39; Society U of C</title>
+		<link>http://localhost:1313/get-involved/applications/</link>
+		<description>Recent content in Get involved with the ESS! on Engineering Students&#39; Society U of C</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2023 Engineering Students Society University of Calgary. All Rights Reserved</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/get-involved/applications/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Geers are Gods (GaG) Submissions</title>
+				<link>http://localhost:1313/get-involved/applications/geers-are-gods/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/get-involved/applications/geers-are-gods/</guid>
+				<description>&lt;p&gt;ESS is rebooting the ’Geers are Gods, or GaG, a satirical magazine to include light-hearted jokes and content in a less formal approach. We are looking for submissions - whether that includes funny articles, phrases or sentences for our &amp;ldquo;overheard in engg&amp;rdquo; column, anonymous confessions, or memes that you want to see in our next edition! If you have ideas for other content you would like to see, please leave it in our form as well. All submissions are anonymous, however, if you would like to you may leave your name/alias&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 name: John Paz
-memberType: fyr
+#memberType: fyr
 # pronouns: He/Him
 email: theta@essucalgary.com
 image: /images/about/council-members/2025-2026/FYR3.jpg

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>High School Engineering Competition (HSEC) on Engineering Students&#39; Society U of C</title>
+		<link>http://localhost:1313/events/featured-events/hsec/</link>
+		<description>Recent content in High School Engineering Competition (HSEC) on Engineering Students&#39; Society U of C</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2023 Engineering Students Society University of Calgary. All Rights Reserved</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/events/featured-events/hsec/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

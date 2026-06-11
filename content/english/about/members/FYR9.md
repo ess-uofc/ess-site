@@ -1,6 +1,6 @@
 ---
 name: Allison Hunchak
-memberType: fyr
+#memberType: fyr
 # pronouns: He/Him
 email: pi@essucalgary.com
 image: /images/about/council-members/2025-2026/FYR9.jpg

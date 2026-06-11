@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>FROSH Week on Engineering Students&#39; Society U of C</title>
+		<link>http://localhost:1313/events/featured-events/frosh/</link>
+		<description>Recent content in FROSH Week on Engineering Students&#39; Society U of C</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Copyright &amp;copy; 2023 Engineering Students Society University of Calgary. All Rights Reserved</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/events/featured-events/frosh/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Academic Rights</title>
+				<link>http://localhost:1313/events/featured-events/frosh/9-academicrights/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/9-academicrights/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>BOND Fire</title>
+				<link>http://localhost:1313/events/featured-events/frosh/6-bondfire/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/6-bondfire/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cereal Day BYOB (Bring Your Own Bowl)</title>
+				<link>http://localhost:1313/events/featured-events/frosh/8-cerealday/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/8-cerealday/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Clubs Fair</title>
+				<link>http://localhost:1313/events/featured-events/frosh/3-clubfair/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/3-clubfair/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Eng-lympics &amp; BBQ</title>
+				<link>http://localhost:1313/events/featured-events/frosh/5-eng-lympics/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/5-eng-lympics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Games Night &amp; Banner Painting</title>
+				<link>http://localhost:1313/events/featured-events/frosh/2-gamesnight/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/2-gamesnight/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>GNCTR Pub Crawl</title>
+				<link>http://localhost:1313/events/featured-events/frosh/7-pubcrawl/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/7-pubcrawl/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pancake Breakfast</title>
+				<link>http://localhost:1313/events/featured-events/frosh/1-pancakebreakfast/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/1-pancakebreakfast/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tap the Town</title>
+				<link>http://localhost:1313/events/featured-events/frosh/10-tapthetown/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/10-tapthetown/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trivia Night</title>
+				<link>http://localhost:1313/events/featured-events/frosh/4-trivianight/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/events/featured-events/frosh/4-trivianight/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

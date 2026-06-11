@@ -1,6 +1,6 @@
 ---
 name: Shanaya Kailey
-memberType: fyr
+#memberType: fyr
 # pronouns: He/Him
 email: zeta@essucalgary.com
 image: /images/about/council-members/2025-2026/FYR8.jpg
