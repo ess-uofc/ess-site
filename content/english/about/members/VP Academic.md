@@ -1,16 +1,16 @@
 ---
-name: Daniel Yang
+name: Luke Zenha
 memberType: executive
 position: VP Academic
 # pronouns: She/Her
 email: academic@essucalgary.com
-image: /images/about/council-members/2025-2026/VP Academic.jpg
+image: /images/about/council-members/2026-2027/VP Academic.png
 ---
 
-**Year & Major:** 2nd year Civil
+**Year & Major:** 3rd Year Electrical
 
-**Change my mind about...** a good matcha is slightly better than a good coffee. But a mid coffee is >>>>>> a mid matcha
+**A fun fact about myself is...** I'm double joined in my thumb
 
-**A life goal of mine...** is to go camping in iceland 
+**My favourite engineering memory is...** spending BSD last year working on my 300 project (it's only fun in retrospect..)
 
-**My cry in the car song...** is ivy, frank ocean
+**I get way too ecited about...** Cheese and crackers

@@ -1,17 +1,17 @@
 ---
-name: Lukus van Vlaanderen
+name: Kate Schuster
 memberType: commissioner
 position: Finance Commissioner
 # pronouns: He/Him
 email: finance.comm@essucalgary.com
-image: /images/about/council-members/2025-2026/Finance Commissioner.jpg
+image: /images/about/council-members/2026-2027/Finance Commissioner.png
 ---
 
-**Year & Major:** 2nd Year - Electrical
+**Year & Major:** 3rd year Biomedica
 
-**A life goal of mine...** Own a company that does something (irrelevant) but also has a speakeasy/cafe beneath it. No, I don't want to just run a speakeasy/cafe, that's not the point.
+**A fun fact about myself is...** I am a medical first responder!
 
-**I get way too excited about...** dancing at Ranchmens
+**Current song on repeat** Opalite by Taylor Swift
 
-**Unusual skills...** I can perfectly cook pork every single time.
+**My favorite engineering memory is...** Going to CELC last year!
 

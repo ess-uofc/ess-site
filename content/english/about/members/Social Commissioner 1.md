@@ -1,17 +1,16 @@
 ---
-name: Cameron Bews (the one on the right)
+name: Angela Bohora
 memberType: commissioner
 position: Social Commissioner
 # pronouns: She/Her
 email: social.comm1@essucalgary.com
-image: /images/about/council-members/2025-2026/Social Commissioner 1.jpg
+image: /images/about/council-members/2026-2027/Social Commissioner.png
 ---
 
-**Year & Major:** 2nd Year - Mechanical
+**Year & Major:** 2nd year Civil
 
-**I get way too excited about...** Ranch Dressing
+**A fun fact about myself is...** I collect a lot of things but sometimes I think I’m just a hoarder
 
-**Change my mind about...** Wish you were here being the best album of all time
+**A life goal of mine is to...** I’d love to backpack Europe and buy myself a pair of izzys, don’t know which one I want more
 
-**The shower thought I had recently was...** Someone out there has probably dreamt about you doing something completely random. 
-
+**Current song on repeat** Chosen - Blood Orange & Caroline Polacheck

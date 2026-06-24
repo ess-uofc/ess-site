@@ -1,16 +1,16 @@
 ---
-name: Kristen Powell
+name: Ryman Almond
 memberType: commissioner
 position: Social Commissioner
 # pronouns: She/Her
 email: social.comm2@essucalgary.com
-image: /images/about/council-members/2025-2026/Social Commissioner 2.jpg
+image: /images/about/council-members/2026-2027/Social Commissioner (2).png
 ---
 
-**Year & Major:** 2nd Year - Electrical
+**Year & Major:** 2nd Year Chemical
 
-**This year, I really want to...** make new friends in my major
+**I get way too excited about...** Hockey
 
-**A life goal of mine is...** to be super rich 
+**A fun fact about myself is...** One of my favorite hobbies is wind surfing!
 
-**I get way too excited about...** the hunger games movies
+**Current song on repeat** Say my Name by Hozier

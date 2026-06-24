@@ -1,16 +1,16 @@
 ---
-name: Abia Jahangir
+name: Artur Mararash
 memberType: commissioner
 position: Website Commissioner
 # pronouns: He/Him
 email: website@essucalgary.com
-image: /images/about/council-members/2025-2026/Website Commissioner.jpg
+image: /images/about/council-members/2026-2027/Website Commissioner.png
 ---
 
-**Year & Major:** 3rd Year - Software
+**Year & Major:** 2nd Year Mechanical
 
-**The one thing you should know about me is...** that I love to talk
+**I get way to excited about...** cars cars cars
 
-**Change my mind about...** Frank Ocean being the best artist of our generation
+**a fun fact about myself is...** I can bench press 260lbs (158 bw)
 
-**A shower thought I recently had is that...** congress should vote anonymously
+**A life long goal of mine is...** to survive in this economy

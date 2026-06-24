@@ -1,16 +1,16 @@
 ---
-name: Rachel Ojo
+name: Jade Cosmilla
 memberType: commissioner
 position: Engineering Dinner Co-Director
 # pronouns: He/Him
 email: dinner.director1@essucalgary.com
-image: /images/about/council-members/2025-2026/Engineering Dinner Co-Director 2.jpg
+image: /images/about/council-members/2026-2027/Dinner Director.png
 ---
 
-**Year & Major:** 2nd year Chemical Engineering
+**Year & Major:** 3rd Year Risk Management & Polisci
 
-**The one thing you should know about me is...** I love chocolate
+**A fun fact about myself is...** I can sleep anywhere
 
-**I get way too excited about...** High School Musical
+**My mantra is...** If you did what you could, you did your best
 
-**Change my mind about...** Mint shouldn’t be in chocolate
+**I get way too excited about...** Antreaters !!

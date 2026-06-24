@@ -1,16 +1,16 @@
 ---
-name: Kirill Yereferenko
+name: Cameron Bews (the one one the right)
 memberType: executive
 position: VP Student Life
 # pronouns: She/Her
 email: studentlife@essucalgary.ca
-image: /images/about/council-members/2025-2026/VP Student Life.jpg
+image: /images/about/council-members/2026-2027/VP Student Life.png
 ---
 
-**Year & Major:** 3rd Year - Mechanical
+**Year & Major:** 3rd Year Mechanical
 
-**The one thing you should know about me is...** that I love bending moment diagrams.
+**TA fun fact about myself...** I love ranch
 
-**I get way too excited about...** bending moment diagrams.
+**I get way too excited about...** Ranch dressing
 
-**Change my mind about...** how awesome bending moment diagrams are.
+**Current song on repeat...** Shine a Little Light by The Black Keys

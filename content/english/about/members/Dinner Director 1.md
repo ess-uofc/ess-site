@@ -1,16 +1,15 @@
 ---
-name: Kate Schuster
-memberType: commissioner
+name: Jade Cosmilla
+#memberType: commissioner
 position: Engineering Dinner Co-Director
 # pronouns: He/Him
 email: dinner.director2@essucalgary.com
 image: /images/about/council-members/2025-2026/Engineering Dinner Co-Director 1.jpg
 ---
+**Year & Major:** 3rd Year Risk Management & Polisci
 
-**Year & Major:** 2nd year Biomedical Engineering
+**A fun fact about myself is...** I can sleep anywhere.
 
-**Change my mind about...** waffles >> pancakes
+**My mantra is...** If you did what you could, you did your best.
 
-**I get way too excited about...** new Taylor Swift albums
-
-**A life goal of mine...** is to live in a different country
+**I get way too excited about...** Anteaters !

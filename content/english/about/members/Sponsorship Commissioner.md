@@ -1,16 +1,16 @@
 ---
-name: Elyse Wookey
+name: Bisola Jenyo
 memberType: commissioner
 position: Sponsorship Commissioner
 # pronouns: She/Her
 email: sponsorship@essucalgary.com
-image: /images/about/council-members/2025-2026/Sponsorship Commissioner.jpg
+image: /images/about/council-members/2026-2027/Sponsorship Commissioner.png
 ---
 
-**Year & Major:** 2nd Year Chemical + Business
+**Year & Major:** 2nd Year Mechanical
 
-**I get way too excited about...** Spikeball
+**I get way too excited about...** C-dramas
 
-**This year, I really want to...** meet more people!
+**A fun fact about myself is...** I love dancing
 
-**A life goal of mine...** Backpack through Europe
+**Current sogn on repeat...** Window Seat by Erykah Badu

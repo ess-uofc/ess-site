@@ -1,17 +1,17 @@
 ---
-name: Fatima Zafar
+name: Savaarna Mitra
 memberType: commissioner
 position: Diversity Commissioner
 # pronouns: She/They
 email: diversity@essucalgary.com
-image: /images/about/council-members/2025-2026/Diversity Commissioner.jpg
+image: /images/about/council-members/2026-2027/Diversity Commissioner.png
 ---
 
-**Year & Major:** 2nd Year - Electrical
+**Year & Major:** 3rd Year Electrical
 
-**I get way too excited about...** new movies and music releases
+**Current song on repeat** Root of all evil by Daniel Caesar 
 
-**This year, I really want to...** do more outside of my comfort zone
+**A life goal of mine is...**
+To learn how to integrate
 
-**My cry-in-the-car song is...** i was all over her by Salvia Palth
-
+**I get way too excited about...** Watching movies at the theatres

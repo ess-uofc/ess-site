@@ -1,17 +1,16 @@
 ---
-name: Jade Cosmilla
+name: Allison Hunchak
 memberType: commissioner
 position: Graduation Director
 # pronouns: She/They
 email: grad.director@essucalgary.com
-image: /images/about/council-members/2025-2026/Graduation Director.jpg
+image: /images/about/council-members/2026-2027/Grad Director.png
 ---
 
-**Year & Major:** 2nd year Business + Political Science
+**Year & Major:** 2nd Year Civil
 
-**A typical Sunday consists of...** waking up, mourning for Monday, eating dinner, doom scrolling and finally sleeping
+**Current song on repeat** End of August by Noah Kahan
 
-**I get way too excited about...** opening blind boxes
+**A life goal of mine is...** To backpack through Europe for a summer
 
-**Unusual Skills...** I can sleep anywhere for hours on end, and I can always find the best watermelon at the grocery store guaranteed
-
+**I get way too excited about...** Concerts and live music

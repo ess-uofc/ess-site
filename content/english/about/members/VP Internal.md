@@ -1,17 +1,17 @@
 ---
-name: Luke Zenha
+name: Fatima Zafar
 memberType: executive
 position: VP Internal
 # pronouns: He/Him
 email: internal@essucalgary.com
-image: /images/about/council-members/2025-2026/VP Internal.jpg
+image: /images/about/council-members/2026-2027/VP Internal.png
 ---
 
-**Year & Major:** 2nd Year - Electrical
+**Year & Major:** 3rd Year Electrical
 
-**I get way to excited about...** music
+**I get way to excited about...** Concerts
 
-**A typical Sunday consists of...** sleeping until 3pm, doom scrolling, and getting a ton of ice cream
+**A current song on repaet...** Thinking Bout You by Ariana Grande
 
-**This year I really want to...** go tobogganing again (It’s been wayyyy too long)
+**My Mantra is...** It's not over till it's over
 

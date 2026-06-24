@@ -1,17 +1,16 @@
 ---
-name: Jal Patel
+name: Kambi Obodo
 memberType: commissioner
 position: Competitions Commissioner
 # pronouns: She/Her
 email: competitions@essucalgary.com
-image: /images/about/council-members/2025-2026/Competitions Commissioner 2.jpg
+image: /images/about/council-members/2026-2027/Comps Commissioner (2).png
 ---
 
-**Year & Major:** 2rd Year Mechanical Engineering
+**Year & Major:** 3rd year Geomatics
 
-**I get way too excited about...** free food
+**Two truths and a lie** I have 4 pet snakes, I did ballet when I was younger and I have never broken a bone.
 
-**A life goal of mine...** is to climb mount everest
+**I get way too excited about...** The movie Encanto
 
-**Change my mind about...** pineapple on pizza
-
+**My mantra is...** Hakuna Matata

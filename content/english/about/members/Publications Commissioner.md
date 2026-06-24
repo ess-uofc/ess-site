@@ -4,13 +4,13 @@ memberType: commissioner
 position: Publications Commissioner
 # pronouns: She/Her
 email: publications@essucalgary.com
-image: /images/about/council-members/2025-2026/Publications Commissioner.jpg
+image: /images/about/council-members/2026-2027/Publications Commissioner.png
 ---
 
-**Year & Major:** 3rd Year - Mechanical
+**Year & Major:** Internship year - Mech/Elec dual major
 
-**The one thing you should know about me is...** I’m a hobby collector who needs to do something new every month.
+**Current song on repeat** Light of the Seven by Ramin Djawadi (GOT fans hmu)
 
-**This year, I really want to...** touch grass more.
+**I get way too excited about...** Trying new hobbies
 
-**Change my mind about...** chocolate mousse being the best dessert ever. 
+**A life goal of mine is...** To learn piano and play in a jazz band

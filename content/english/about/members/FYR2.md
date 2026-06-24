@@ -3,7 +3,7 @@ name: This Could Be YOU!
 memberType: fyr
 # pronouns: He/Him
 #mail: gamma@essucalgary.com
-#image: /images/about/council-members/2025-2026/FYR2.jpg
+image: /images/about/council-members/placeholder.png
 ---
 
  <!--   **The one thing that you should know about me is** that I love doomscrolling on Instagram Reels.

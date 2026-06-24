@@ -1,16 +1,16 @@
 ---
-name: Mishal Chaudhry
+name: Elyse Wookey
 memberType: executive
 position: VP External
 # pronouns: He/Him
 email: external@essucalgary.com
-image: /images/about/council-members/2025-2026/VP External.jpg
+image: /images/about/council-members/2026-2027/VP External.png
 ---
 
-**Year & Major:** 3rd Year in Mechanical Engineering
+**Year & Major:** 3rd Year Chemical/Business
 
-**I get way too excited about...** Revenge of the Sith 
+**A life long goal of mine is to...** Work overseas 
 
-**Change my mind about...** Oscar Piastri being the best F1 driver (you can’t) 
+**My mantra is...** Dance like no one's watching 
 
-**My cry-in-the-car song is...** Test Drive from How To Train Your Dragon #iykyk
+**I egt wat too excited about...** Spikeball!

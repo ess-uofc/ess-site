@@ -1,16 +1,16 @@
 ---
-name: Saachi Sharma
+name: Logan Kim
 memberType: commissioner
 position: Administration Commissioner
 # pronouns: She/Her
 email: admin.comm@essucalgary.com
-image: /images/about/council-members/2025-2026/Admin Commissioner.jpg
+image: /images/about/council-members/2026-2027/Admin Commissioner.png
 ---
 
-**Year & Major:** 3rd Year - Sustainable Systems
+**Year & Major:** 3rd Year Mechanical
 
-**This year, I really want to...** Run a 10k
+**A life goal of mine is to...** Help my parents retire
 
-**Most spontaneous thing I’ve done...** Is go cliff diving
+**My mantra is...** Go with the flow 
 
-**My cry-in-the-car song is...** Again by Fetty Wap
+**Current song on repeat** If 6 was 9 - Jimi Hendrix

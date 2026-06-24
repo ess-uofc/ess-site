@@ -1,16 +1,16 @@
 ---
-name: Ella Johnson
+name: Daniel Yang
 memberType: executive
 position: President
 # pronouns: She/Her
 email: president@essucalgary.com
-image: /images/about/council-members/2025-2026/President.png
+image: /images/about/council-members/2026-2027/President.png
 ---
 
-**Year & Major:** 5th year Mechanical Engineering and Business
+**Year & Major:** 3rd Year Civil
 
-**I get way too excited about...** ESS lore and engineering-themed patches
+**Current song on repeat...** Next Levels by King Geedorah
 
-**Most spontaneous thing I’ve done...** is studied abroad
+**A life goal of mine is...** To help promote mental health and create more support for students and young adults
 
-**A life goal of mine is...** to own a Steinway & Sons piano
+**I get way too excited about...** Volleyball! I've played for most of my life and I hope to continue doing so. I'm always down to play!

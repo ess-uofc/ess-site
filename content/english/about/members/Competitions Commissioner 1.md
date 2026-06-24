@@ -4,14 +4,14 @@ memberType: commissioner
 position: Competitions Commissioner
 # pronouns: She/Her
 email: competitions@essucalgary.com
-image: /images/about/council-members/2025-2026/Competitions Commissioner 1.jpg
+image: /images/about/council-members/2026-2027/Comps Commissioner.png
 ---
 
-**Year & Major:** 3rd Year Software Engineering
+**Year & Major:** 4th Year Software 
 
-**I get way too excited about...** Gaming, specifically Baldur’s Gate 3 and Expedition 33
+**I get way too excited about...** Baldur’s Gate 3
 
-**This year I really want to...** Go to an aquarium! 
+**A life goal of mine is to...** Go solo camping one day
 
-**My cry-in-the-car song is...** "Miss You" by KIM BUMSOO
+**Current song on repeat** TBH by PARTYNEXTDOOR
 

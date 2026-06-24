@@ -1,16 +1,17 @@
 ---
-name: Nicole Volochtchik
+name: Chiedu Ngene
 memberType: commissioner
 position: Social Commissioner
 # pronouns: He/Him
 email: social.comm3@essucalgary.com
-image: /images/about/council-members/2025-2026/Social Commissioner 3.jpg
+image: /images/about/council-members/2026-2027/Social Commissioner (3).png
 ---
 
-**Year & Major:** 3rd Year - Mechanical
+**Year & Major:** 3rd Year Electrical
 
-**I get way too excited about...** Tron 3 & Silksong coming out
 
-**This year I really want to...** lock in onto the academic grind
+**My mantra is...** Actions have consequences
 
-**Change my mind about...** fries and ice cream being a mediocre combo
+**I get way too excited about...** New movies and music
+
+**Current song on repeat** Back Outside by BNXN

@@ -4,13 +4,13 @@ memberType: executive
 position: VP Communications
 # pronouns: She/Her
 email: communications@essucalgary.com
-image: /images/about/council-members/2025-2026/VP Communications.jpg
+image: /images/about/council-members/2026-2027/VP Communications.png
 ---
 
-**Year & Major:** 2nd Year - Mechanical
+**Year & Major:** 3rd Year - Mechanical
 
-**I get way too excited about...** airplanes
+**I get way too excited about...** Rock Climbing
 
-**A life goal of mine is to...** see weezer irl
+**AA fun fact about myself is...** I have my pilots license
 
-**My cry-in-the-car song is...** only in dreams by weezer
+**Current song on repeat...** King for a Day by Pierce the Veil

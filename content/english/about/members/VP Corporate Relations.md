@@ -1,17 +1,18 @@
 ---
-name: Gavin Wade
+name: Antonio Alapizco-Bonardel
 memberType: executive
 position: VP Corporate Relations
 # pronouns: She/Her
 email: corporaterelations@essucalgary.com
-image: /images/about/council-members/2025-2026/VP Corporate Relations.jpg
+image: /images/about/council-members/2026-2027/VP Corporate Relations.png
 ---
 
-**Year & Major:** 2nd Year - Mechanical with MEED minor
 
-**I get way too excited about...** My car and I will talk about it for hours 
+**Year & Major:** 2nd Year Mechanical
 
-**Change my mind about...** Max Verstappen being the best F1 driver ever (you can’t)
+**A life goal of mine is to...** hike to Machu Picchu
 
-**Most spontaneous thing I’ve done...** Getting my pilot's license throughout the summer because I wasn’t doing much else
+**The most spontaneous thing I've done is...** Go across Europe for a summer
+
+**I get way too excited about...** Going to museums to look at old paintings
 

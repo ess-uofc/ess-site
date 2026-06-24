@@ -4,13 +4,13 @@ memberType: executive
 position: VP Finance
 # pronouns: She/Her
 email: finance@essucalgary.com
-image: /images/about/council-members/2025-2026/VP Finance.jpg
+image: /images/about/council-members/2026-2027/VP Finance.png
 ---
 
-**Year & Major:** 2nd Year Mechanical Engineering
+**Year & Major:** 3rd Year Mechanical
 
-**I get way too excited about...** snow and winter
+**I get way too excited about...** Excel
 
-**Change my mind about...** winter being the best season
+**My mantra is...** Excel Excel Excel
 
-**This year I really want...** it to snow more
+**Two truths and a lie...** I love excel, I dislike Google Sheets, I hate pivot tables
