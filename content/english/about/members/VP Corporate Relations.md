@@ -7,7 +7,6 @@ email: corporaterelations@essucalgary.com
 image: /images/about/council-members/2026-2027/VP Corporate Relations.png
 ---
 
-
 **Year & Major:** 2nd Year Mechanical
 
 **A life goal of mine is to...** hike to Machu Picchu
