@@ -109,8 +109,6 @@
   </url><url>
     <loc>http://localhost:1313/about/members/administration-commissioner/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/members/artistic-commissioner/</loc>
-  </url><url>
     <loc>http://localhost:1313/about/members/career-fair-director/</loc>
   </url><url>
     <loc>http://localhost:1313/about/members/community-relations-commissioner/</loc>
@@ -120,6 +118,8 @@
     <loc>http://localhost:1313/about/members/competitions-commissioner-2/</loc>
   </url><url>
     <loc>http://localhost:1313/about/members/corporate-director/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/members/design-commissioner/</loc>
   </url><url>
     <loc>http://localhost:1313/about/members/dinner-director-1/</loc>
   </url><url>

@@ -22,13 +22,6 @@
 			</item>
 			<item>
 				<title></title>
-				<link>http://localhost:1313/about/members/artistic-commissioner/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/about/members/artistic-commissioner/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title></title>
 				<link>http://localhost:1313/about/members/career-fair-director/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/about/members/career-fair-director/</guid>
@@ -64,10 +57,17 @@
 			</item>
 			<item>
 				<title></title>
+				<link>http://localhost:1313/about/members/design-commissioner/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/members/design-commissioner/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Year &amp;amp; Major&lt;/strong&gt; 3rd Year Software&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Current song on repeat&lt;/strong&gt; 4Me 4Me by Malcolm Todd&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A fun fact about myself is&amp;hellip;&lt;/strong&gt; I can play 5 musical instruments&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A life goal of mine is&amp;hellip;&lt;/strong&gt; To find a way for my cat to live longer than me&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
 				<link>http://localhost:1313/about/members/dinner-director-1/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/about/members/dinner-director-1/</guid>
-				<description></description>
+				<description>&lt;p&gt;&lt;strong&gt;Year &amp;amp; Major:&lt;/strong&gt; 3rd Year Risk Management &amp;amp; Polisci&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A fun fact about myself is&amp;hellip;&lt;/strong&gt; I can sleep anywhere.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;My mantra is&amp;hellip;&lt;/strong&gt; If you did what you could, you did your best.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title></title>
@@ -294,7 +294,7 @@
 				<description>&lt;p&gt;&lt;strong&gt;Year &amp;amp; Major:&lt;/strong&gt; 2nd Year Mechanical&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;I get way to excited about&amp;hellip;&lt;/strong&gt; cars cars cars&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;a fun fact about myself is&amp;hellip;&lt;/strong&gt; I can bench press 260lbs (158 bw)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A life long goal of mine is&amp;hellip;&lt;/strong&gt; to survive in this economy&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>2025-2026 Council</title>
+				<title>2026-2027 Council</title>
 				<link>http://localhost:1313/about/council/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/about/council/</guid>
