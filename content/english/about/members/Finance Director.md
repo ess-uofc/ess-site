@@ -3,7 +3,7 @@ name: Rahma Siddique
 memberType: commissioner
 position: Finance Director
 # pronouns: He/Him
-email: finance.comm@essucalgary.com
+email: finance.director@essucalgary.com
 image: /images/about/council-members/2026-2027/Finance Director.png
 ---
 

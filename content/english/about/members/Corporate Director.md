@@ -3,7 +3,7 @@ name: Shanaya Kailey
 memberType: commissioner
 position: Corporate Director
 # pronouns: She/Her
-email: sponsorship@essucalgary.com
+email: corporatedirector@essucalgary.com
 image: /images/about/council-members/2026-2027/Corporate Director.png
 ---
 

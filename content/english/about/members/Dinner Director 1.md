@@ -3,7 +3,7 @@ name: Jade Cosmilla
 #memberType: commissioner
 position: Engineering Dinner Co-Director
 # pronouns: He/Him
-email: dinner.director2@essucalgary.com
+email: dinner.director1@essucalgary.com
 image: /images/about/council-members/2025-2026/Engineering Dinner Co-Director 1.jpg
 ---
 **Year & Major:** 3rd Year Risk Management & Polisci
