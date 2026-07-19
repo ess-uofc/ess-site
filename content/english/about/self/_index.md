@@ -15,11 +15,11 @@ Experiential Learning (EL) is learning–by-doing that bridges knowledge and exp
 
 ## SELF Documents
 
-- [SELF Policy](https://drive.google.com/uc?export=download&id=1OV_3d5Fc66r_arvA5TPMRwO6hUIZ2huL)
+- [SELF Policy](public\SELF\SELF Policy 2026.pdf)
 - [Application I](https://drive.google.com/uc?export=download&id=1Cp3U-inwozhLcXVaDgGUFenjIQsJ_lLO)
 - [Application II](https://drive.google.com/uc?export=download&id=1MKIwP0hxg2tMOs69DqHe5xfXZwzNE0FC)
 - [Application III](https://drive.google.com/uc?export=download&id=1ZzvlRGocqbx7jtY7LPAgrytf8jKblQlm)
-- [SELF Budget](https://drive.google.com/uc?export=download&id=1QAg6bJp2fvDYtjYXKMWizPPdNvQUE52x)
+- [SELF Budget](public\SELF\SELF Budget Templates.xlsx)
 
 ## Timetable
 
