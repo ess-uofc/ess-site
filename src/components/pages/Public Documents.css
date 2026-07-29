@@ -1,0 +1,183 @@
+/* ===========================
+   PUBLIC DOCUMENTS PAGE
+=========================== */
+
+.documents-header{
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 60px 40px 80px;
+}
+
+/* ===========================
+   HEADINGS
+=========================== */
+
+.documents-header h1{
+    color: #C5332C;
+    margin: 60px 0 20px;
+    font-size: 2.4rem;
+    line-height: 1.2;
+}
+
+.documents-header h1:first-child{
+    margin-top: 0;
+}
+
+.documents-header h3{
+    color: #C5332C;
+    margin: 40px 0 15px;
+    font-size: 1.4rem;
+}
+
+/* ===========================
+   GENERAL TEXT
+=========================== */
+
+.documents-header p{
+    line-height: 1.8;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Intro paragraph */
+
+.documents-header > p:first-of-type{
+    max-width: 700px;
+    margin: 0 auto 30px;
+    font-size: 1.05rem;
+}
+
+/* Revision line */
+
+.documents-header h1 + p{
+    color: #666;
+    margin-bottom: 35px;
+}
+
+/* ===========================
+   PUBLIC DRIVE BUTTON
+=========================== */
+
+.public-drive-btn{
+    display: inline-block;
+    
+    margin: 10px 0 70px;
+    padding: 12px 22px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: #C5332C;
+    color: white;
+
+    cursor: pointer;
+
+    font-family: inherit;
+    font-size: 1rem;
+
+    transition: background 0.25s ease;
+}
+
+.public-drive-btn:hover{
+    background: #982822;
+}
+
+/* ===========================
+   ARTICLES
+=========================== */
+
+.article{
+    margin: 50px 0;
+    padding: 30px 35px;
+
+    background: antiquewhite;
+
+    border-radius: 16px;
+
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.article h3{
+    color: #C5332C;
+    margin-bottom: 25px;
+    font-size: 1.5rem;
+}
+
+.article p{
+    margin-bottom: 18px;
+    line-height: 1.8;
+}
+
+/* Numbering */
+
+.article strong{
+    color: #C5332C;
+}
+
+/* ===========================
+   SUBSECTIONS
+=========================== */
+
+.document-list{
+    list-style: none;
+
+    margin-top: 15px;
+    margin-left: 25px;
+    padding-left: 0;
+}
+
+.document-list li{
+    margin-bottom: 14px;
+    line-height: 1.8;
+}
+
+/* ===========================
+   MOBILE
+=========================== */
+
+@media (max-width: 768px){
+
+    .documents-header{
+        padding: 50px 25px 60px;
+    }
+
+    .documents-header h1{
+        font-size: 2rem;
+    }
+
+    .article{
+        padding: 25px;
+    }
+
+    .article h3{
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 600px){
+
+    .documents-header{
+        padding: 40px 20px 50px;
+    }
+
+    .documents-header h1{
+        font-size: 1.8rem;
+    }
+
+    .documents-header h3{
+        font-size: 1.2rem;
+    }
+
+    .article{
+        padding: 20px;
+    }
+
+    .document-list{
+        margin-left: 15px;
+    }
+
+    .public-drive-btn{
+        width: 100%;
+        text-align: center;
+    }
+}

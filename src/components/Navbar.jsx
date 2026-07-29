@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import {Link, NavLink} from 'react-router-dom';
 import "./Navbar.css";
 import logo from "../assets/ess-logo.png";
+import { FaInstagram } from "react-icons/fa";
 
 export const Navbar = () => {
 
@@ -99,7 +100,18 @@ export const Navbar = () => {
             </li>
 
             <li>
-                <NavLink to="/store"  onClick={closeAllMenus}>Store</NavLink>
+                <a
+                    href="https://instagram.com/ess_uofc"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="instagram-btn"
+                >
+                    <FaInstagram />
+                </a>
+            </li>
+
+            <li>
+                <NavLink to="/store" className='store-btn' onClick={closeAllMenus}>Store</NavLink>
             </li>
 
         </ul>

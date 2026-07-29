@@ -1,0 +1,44 @@
+.council-page{
+
+    max-width:1400px;
+    margin:auto;
+    padding:60px 40px;
+
+}
+
+.council-page h1{
+
+    color:#C5332C;
+    margin-bottom:20px;
+
+}
+
+.council-page>p{
+
+    max-width:750px;
+    line-height:1.8;
+
+    margin-bottom:50px;
+
+}
+
+.council-page section{
+
+    margin-bottom:80px;
+
+}
+
+.council-page h2{
+
+    color:#C5332C;
+    margin-bottom:35px;
+    justify-content: center;
+
+}
+
+.council-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(11rem,15.625rem));
+    justify-content:left;
+    gap:35px;
+}

@@ -1,0 +1,141 @@
+.self-page{
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 60px 40px 80px;
+}
+.self-page > div{
+    margin-bottom: 40px;
+}
+
+.self-hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    gap: 30px;
+}
+
+.self-hero-text{
+    flex: 1;
+}
+
+.self-hero-text h1{
+    color: #C5332C;
+    font-size: 3rem;
+    margin: 0;
+}
+
+.self-hero-image{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.self-hero-image img{
+    width: 100%;
+    max-width: 450px;
+    border-radius: 20px;
+    object-fit: cover;
+
+}
+.self-page h1{
+    color:#C5332C;
+    font-size:2.8rem;
+    margin-bottom:30px;
+}
+
+.self-page h2{
+    color:#C5332C;
+    margin-bottom:20px;
+    margin-top:10px;
+}
+
+.self-page p{
+    line-height:1.8;
+    color: #333;
+    margin-bottom:15px;
+}
+
+.self-page a{
+    color:#333;
+    text-decoration:none;
+    font-weight:500;
+    transition:color .25s ease;
+}
+
+.self-page a:hover{
+    color:#666;
+    cursor:pointer;
+    text-decoration:underline;
+}
+
+.self-documents ul{
+    margin-top:20px;
+    padding-left:25px;
+}
+
+.self-documents li{
+    margin-bottom:12px;
+}
+
+/* ==========================
+   TABLE
+========================== */
+.self-table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+
+    border:2px solid #C5332C;
+}
+
+.self-table th{
+    background:#C5332C;
+    color:white;
+    padding:15px;
+    text-align:left;
+    border:2px solid #982822;
+}
+
+.self-table td{
+    padding:14px 15px;
+    border:1px solid #ccc;
+}
+
+.self-table tr:nth-child(even){
+    background:#F8EDDB;
+}
+/* ==========================
+   HERO IMAGE
+========================== */
+
+.self-hero-image img{
+    width:100%;
+    max-width:450px;
+    border-radius:20px;
+}
+
+/* ==========================
+   MOBILE
+========================== */
+
+@media (max-width: 768px){
+
+    .self-hero{
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .self-hero-image{
+        justify-content: center;
+    }
+
+    .self-hero-text h1{
+        font-size: 2.2rem;
+    }
+
+    .self-hero-image img{
+        max-width: 300px;
+    }
+}

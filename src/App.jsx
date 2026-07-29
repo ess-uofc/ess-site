@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import { Route, Routes } from "react-router-dom";
 import { Home, Council, Events, Contact, Departments, Sponsors, Store, Membership, Applications, Conferences, PublicDocuments, SELF } from "./components/pages";
+import Footer from "./components/Footer.jsx";
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
 
 
     </Routes>
+    <Footer />
   </div>
   )
 }
