@@ -1,0 +1,192 @@
+
+
+/* Hero */
+
+.contact-hero{
+    max-width:1200px;
+    margin:0 auto;
+
+    padding: 40px 40px;
+
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+    gap:60px;
+}
+
+.contact-text{
+    flex:1;
+}
+
+.contact-text h1{
+    font-size:4rem;
+    margin-bottom:25px;
+    line-height:1.1;
+}
+
+.contact-text span{
+    color:#C5332C;
+}
+
+.contact-text p{
+    font-size:1.1rem;
+    line-height:1.8;
+    max-width:450px;
+}
+
+.contact-image{
+    flex:1.3;
+}
+
+.contact-image img{
+    width:100%;
+    height:300px;
+
+    object-fit:cover;
+
+    border-radius:20px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.12);
+}
+
+/* Contact */
+
+.contact-info{
+
+    background:white;
+
+    padding:70px 40px;
+}
+
+.contact-info h2{
+
+    text-align:center;
+
+    color:#C5332C;
+
+    margin-bottom:50px;
+
+    font-size:2rem;
+}
+
+.contact-grid{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+    gap:30px;
+}
+
+.contact-card{
+
+    background:#FFFDF9;
+
+    border-radius:20px;
+
+    padding:35px 30px;
+
+    text-align:center;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+
+    transition:.25s;
+}
+
+.contact-card:hover{
+
+    transform:translateY(-8px);
+}
+
+.icon-circle{
+
+    width:90px;
+    height:90px;
+
+    background:#F8EDDB;
+
+    border-radius:50%;
+
+    margin:0 auto 25px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.icon-circle img{
+
+    width:100px;
+}
+
+.contact-card h3{
+
+    color:#C5332C;
+
+    margin-bottom:20px;
+
+    font-size:1.3rem;
+}
+
+.contact-card p{
+
+    line-height:1.8;
+
+    color:#444;
+}
+
+.contact-card a{
+
+    color:#C5332C;
+
+    text-decoration:none;
+
+    font-weight:600;
+}
+
+.contact-card a:hover{
+
+    color:#982822;
+}
+
+/* Mobile */
+
+@media(max-width:900px){
+
+    .contact-hero{
+
+        flex-direction:column;
+
+        text-align:center;
+    }
+
+    .contact-text p{
+
+        margin:auto;
+    }
+
+}
+
+@media(max-width:600px){
+
+    .contact-hero{
+
+        padding:50px 20px;
+    }
+
+    .contact-info{
+
+        padding:50px 20px;
+    }
+
+    .contact-text h1{
+
+        font-size:3rem;
+    }
+
+}

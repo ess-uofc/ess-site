@@ -24,9 +24,14 @@ function PublicDocuments() {
     <p>ESS believes in transparency and accountability. Access publicly available documents including budgets, activity reports, election information, and governing documents.
     </p>
 
-    <button className='public-drive-btn'>
-        View Public Drive
-    </button>
+    <a
+    href="https://drive.google.com/drive/folders/1uDVChpl-1ni5lij5Mj7cHn3U7DJMRYao"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="public-drive-btn"
+>
+    View Public Drive
+</a>
 
     <h1>University of Calgary Engineering Students' Society Constitution</h1>
     <p>Revision Number: 14 | Revised: Date March 11, 2024</p>

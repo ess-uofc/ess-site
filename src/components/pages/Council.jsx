@@ -68,7 +68,7 @@ function Council(){
             </section>
 
 
-            <section>
+            <section className='commissioners'>
 
                 <h2>COMMMISSIONERS</h2>
 

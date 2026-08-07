@@ -159,7 +159,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 Current song on repeat "If 6 was 9" by Jimi Hendrix`,
     image:"src/assets/council/2026-2027/Admin Commissioner.png",
     email:"admin.comm@essucalgary.com",
-    linkedin:"none"
+    linkedin:"https://www.linkedin.com/in/minsung-kim-meng/"
 },
 
 {
@@ -430,7 +430,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 This year I really want to hit Challenger on League of Legends`,
     image:"src/assets/council/2026-2027/Technology Commissioner.png",
     email:"technology@essucalgary.com",
-    linkedin:"none"
+    linkedin:"https://www.linkedin.com/in/rabimkhan/"
 },
 
 {
@@ -446,7 +446,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A life long goal of mine is to survive in this economy`,
     image:"src/assets/council/2026-2027/Website Commissioner.png",
     email:"website@essucalgary.com",
-    linkedin:"none"
+    linkedin:"www.linkedin.com/in/artur-mararash-86a4a937b"
 },
 ];
 

@@ -6,27 +6,27 @@ function AboutSection() {
   return (
     <section className="membership">
 
-    <div className="membership-text">
+        <div className="membership-text">
 
-        <h1>BECOME A MEMBER!</h1>
+            <h1>BECOME A MEMBER!</h1>
 
-        <p>
-            Access to exclusive events, discounts, networking opportunities,
-            engineering resources, and much more by becoming an ESS member.
-        </p>
+            <p>
+                Access to exclusive events, discounts, networking opportunities,
+                engineering resources, and much more by becoming an ESS member.
+            </p>
 
-        <button className="membership-btn">
-            Purchase Membership
-        </button>
+            <button className="membership-btn">
+                Purchase Membership
+            </button>
 
-    </div>
+        </div>
 
-    <div className="membership-image">
-        <img
-            src={membershipCard}
-            alt="ESS Membership Card"
-        />
-    </div>
+        <div className="membership-image">
+            <img
+                src={membershipCard}
+                alt="ESS Membership Card"
+            />
+        </div>
 
 </section>
   )

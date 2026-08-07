@@ -8,7 +8,7 @@ function SELF() {
       <div className="self-hero">
 
         <div className="self-hero-text">
-            <h1>SELF - Student Experiential Learning Fund</h1>
+            <h1><span>SELF</span> - Student Experiential Learning Fund</h1>
         </div>
 
         <div className="self-hero-image">
@@ -30,7 +30,7 @@ function SELF() {
       <div className="self-documents">
         <h2>SELF Documents</h2>
         <ul>
-          <a href=''><li>SELF Policy</li></a>
+          <a href='https://drive.google.com/file/d/1j0NYxDX9N6NuVcOEmUFZHupXegyb1dAz/view?usp=drive_link'><li>SELF Policy</li></a>
           <a href=""><li>Application 1</li></a>
           <a href=""><li>Application 2</li></a>
           <a href=""><li>Application 2</li></a>
