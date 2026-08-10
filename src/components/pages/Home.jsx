@@ -15,7 +15,7 @@ const Home = () => {
     <div>
 
     <AboutSection />
-    <NewsSection />
+    <NewsSection /> 
     <MembershipSection />
     <WhoAreWe />
 

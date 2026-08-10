@@ -65,21 +65,10 @@ export const Navbar = () => {
                 <NavLink to="/sponsors" onClick={closeAllMenus}>Sponsors</NavLink>
             </li>
             
-            <li className="dropdown">
-                <div onClick={() => {
-                    // Only toggle via click if the window width is mobile size
-                    if (window.innerWidth <= 480) {
-                        setActiveDropdown(activeDropdown === "getInvolved" ? null : "getInvolved");
-                    }       
-                    }}>
-                    Get Involved ▾
-                    </div>
-                <ul className={`dropdown-menu ${activeDropdown === "getInvolved" ? "open" : ""}`}>
-                    <li><NavLink to="/applications" onClick={closeAllMenus}>Applications</NavLink></li>
-                    <li><NavLink to="/conferences" onClick={closeAllMenus}>Conferences</NavLink></li>
-                </ul>
+            <li>
+                <NavLink to="/applications" onClick={closeAllMenus}>Get Involved</NavLink>
             </li>
-
+           
             <li className="dropdown">
                 <div onClick={() => {
                     // Only toggle via click if the window width is mobile size
@@ -97,6 +86,10 @@ export const Navbar = () => {
 
             <li>
                 <NavLink to="/contact"  onClick={closeAllMenus}>Contact</NavLink>
+            </li>
+
+            <li>
+                <NavLink to="https://ess-bookings.square.site/" target='_blank' onClick={closeAllMenus}>Bookings</NavLink>
             </li>
 
             <li>

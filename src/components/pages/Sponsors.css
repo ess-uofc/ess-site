@@ -1,0 +1,211 @@
+.sponsors-page{
+
+    max-width:1200px;
+    margin:auto;
+
+
+}
+
+.sponsors-header{
+    max-width:1200px;
+    margin:0 auto;
+
+    padding-top: 40px;
+    padding-bottom: 50px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+    gap:60px;
+}
+
+.sponsors-text{
+    flex:1;
+}
+
+.sponsors-text h1{
+    font-size:2.5rem;
+    padding-bottom: 10px;
+    line-height:1.1;
+}
+
+.sponsors-text span{
+    font-size:2.5rem;
+    line-height:1.1;
+    color: black;
+}
+
+
+.sponsors-text p{
+    font-size:1.1rem;
+    line-height:1.8;
+    max-width:450px;
+}
+
+.sponsors-image{
+    flex:1.3;
+}
+
+.sponsors-image img{
+    width:100%;
+    height:300px;
+
+    object-fit:cover;
+
+    border-radius:20px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.12);
+}
+
+
+.sponsors-page h2{
+    text-align: center;
+}
+
+.sponsors-page h1{
+
+    color:#C5332C;
+    margin-bottom:20px;
+
+}
+
+.sponsors-page>p{
+
+    max-width:750px;
+    line-height:1.8;
+
+
+}
+
+.sponsors-page h2{
+
+    color:#C5332C;
+    font-size: 2em;
+    justify-content: center;
+
+}
+
+.sponsors-grid{
+    max-width: 1200px;
+    margin: 0 auto;
+    display:grid;
+    grid-template-columns:100%;
+    justify-content:center;
+    gap:35px;
+}
+
+.sponsors {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    padding: 40px 40px;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+
+
+/* WHY PARTNER WITH ESS */
+
+.why-partner {
+    background: #FFFDF9;
+    max-width: auto;
+    margin: 0px auto;
+    border-radius: 20px;
+}
+
+.why-partner-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 40px;
+    display: flex;
+}
+
+
+.why-partner-text{
+    margin-bottom:60px;
+    max-width: 300px;
+    align-content: center;
+}
+
+.why-partner-text h3{
+
+    color:#C5332C;
+    font-size:1.5rem;
+    margin-bottom:10px;
+
+}
+
+.why-partner-text p{
+
+    max-width:1200px;
+    line-height:1.8;
+    color:#444;
+
+}
+
+/* ========================= */
+
+.ess-pillars{
+
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+
+}
+
+.pillar{
+
+    padding:0 30px;
+    text-align:center;
+
+}
+
+.pillar:not(:last-child){
+
+    border-right:2px solid #ddd;
+
+}
+
+.pillar img{
+    background-color: #FAF2EA;
+    border-radius: 50px;
+    width:75px;
+    margin-bottom:20px;
+
+}
+
+.pillar h3{
+
+    color:#C5332C;
+    margin-bottom:15px;
+
+}
+
+.pillar p{
+
+    line-height:1.7;
+    color:#555;
+
+}
+
+@media (max-width:768px){
+
+     .ess-pillars{
+
+        grid-template-columns:1fr;
+        gap:40px;
+
+    }
+
+    .pillar{
+
+        border-right:none !important;
+        border-bottom:1px solid #ddd;
+        padding-bottom:30px;
+
+    }
+
+    .pillar:last-child{
+
+        border-bottom:none;
+
+    }
+}
