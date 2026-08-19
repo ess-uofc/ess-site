@@ -60,13 +60,17 @@ function Footer() {
                     </p>
 
                     <p>
-                        <FaEnvelope />
-                        info@essucalgary.com
+                        <a href="mailto:info@essucalgary.com">
+                            <FaEnvelope />
+                            info@essucalgary.com
+                        </a>
                     </p>
 
                     <p>
-                        <FaPhone />
-                        (403) 220-5737
+                        <a href="tel:+14032205737">
+                            <FaPhone />
+                            (403) 220-5737
+                        </a>
                     </p>
 
                 </div>

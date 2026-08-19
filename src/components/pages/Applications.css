@@ -1,7 +1,7 @@
 .application-page {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 60px 40px 80px;
+    padding: 60px 40px 40px;
     padding-bottom: 0px;
 }
 
@@ -40,11 +40,10 @@
 }
 
 
-
-
 .applications-container {
-    max-width: 1120px;
+    max-width: 1200px;
     margin: 0 auto;
+    padding: 0px 40px 0px;
 }
 
 

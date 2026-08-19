@@ -1,9 +1,194 @@
-@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Viga', sans-serif;
+  /* font-family: 'Viga', sans-serif;
+  
+  font-family: 'Source Serif Pro', sans-serif;
+} */
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700;800;900&display=swap');
+/* ===========================
+   GLOBAL TYPOGRAPHY
+=========================== */
+
+:root {
+
+    /* Fonts */
+    --font-display: "Source Sans 3", "Gotham",  system-ui, sans-serif;
+    --font-body: "Source Sans 3", system-ui, sans-serif;
+    --font-alt: "Source Sans 3", "Gotham", system-ui, sans-serif;
+    --font-serif: Georgia, "Times New Roman", serif;
+    --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+
+
+    /* Font weights */
+    --weight-light: 300;
+    --weight-regular: 400;
+    --weight-medium: 500;
+    --weight-bold: 700;
+    --weight-extrabold: 800;
+    --weight-black: 900;
+
+
+    /* Font sizes */
+    --text-2xs: 11px;
+    --text-xs: 13px;
+    --text-sm: 15px;
+    --text-base: 17px;
+    --text-md: 20px;
+    --text-lg: 25px;
+    --text-xl: 31px;
+    --text-2xl: 39px;
+    --text-3xl: 49px;
+    --text-4xl: 61px;
+    --text-5xl: 76px;
+
+
+    /* Line heights */
+    --leading-tight: 1.05;
+    --leading-snug: 1.2;
+    --leading-normal: 1.5;
+    --leading-relaxed: 1.65;
+
+
+    /* Letter spacing */
+    --tracking-tight: -0.02em;
+    --tracking-normal: 0;
+    --tracking-wide: 0.06em;
+    --tracking-caps: 0.12em;
+}
+
+
+/* ===========================
+   RESET
+=========================== */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: "Source Sans 3", sans-serif;
+    font-size: var(--text-base);
+    font-weight: var(--weight-regular);
+
+    line-height: var(--leading-relaxed);
+
+    color: #222;
+}
+
+
+/* ===========================
+   HEADINGS
+=========================== */
+
+h1 {
+   font-family: "Source Serif 4", serif;
+
+    font-size: var(--text-3xl);
+    font-weight: var(--weight-extrabold);
+
+    line-height: var(--leading-tight);
+    letter-spacing: var(--tracking-tight);
+
+    margin-top: 0;
+}
+
+
+h2 {
+    font-family: var(--font-display);
+
+    font-size: var(--text-2xl);
+    font-weight: var(--weight-bold);
+
+    line-height: var(--leading-snug);
+
+    margin-top: 0;
+}
+
+
+h3 {
+    font-family: var(--font-display);
+
+    font-size: var(--text-lg);
+    font-weight: var(--weight-bold);
+
+    line-height: var(--leading-snug);
+
+    margin-top: 0;
+}
+
+
+/* ===========================
+   BODY TEXT
+=========================== */
+
+p {
+    font-family: "Source Sans 3", serif;
+
+    font-size: var(--text-base);
+    font-weight: var(--weight-regular);
+
+    line-height: var(--leading-relaxed);
+    letter-spacing: 0.08rem;
+
+}
+
+
+/* ===========================
+   LINKS
+=========================== */
+
+a {
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: var(--weight-medium);
+
+}
+
+
+/* ===========================
+   BUTTONS
+=========================== */
+
+button {
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.08rem;
+
+}
+
+
+/* ===========================
+   MOBILE
+=========================== */
+
+@media (max-width: 768px) {
+
+    h1 {
+        font-size: var(--text-2xl);
+    }
+
+    h2 {
+        font-size: var(--text-xl);
+    }
+
+    h3 {
+        font-size: var(--text-md);
+    }
+
+    body,
+    p {
+        font-size: 16px;
+    }
 }

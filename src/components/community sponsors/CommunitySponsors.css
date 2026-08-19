@@ -1,0 +1,212 @@
+/* ===========================
+   SPONSORS SECTION
+=========================== */
+
+.community-sponsors-section {
+    width: 100%;
+    padding: 80px 0;
+}
+
+.community-sponsors-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 40px 0px;
+}
+
+
+/* ===========================
+   HEADER
+=========================== */
+
+.community-sponsors-container h2 {
+    color: #C5332C;
+    font-size: 2.2rem;
+    text-align: center;
+    margin: 0 0 15px;
+}
+
+.community-sponsors-intro {
+    max-width: 750px;
+
+    margin: 0 auto 45px;
+
+    text-align: center;
+
+    color: #444;
+
+    line-height: 1.8;
+}
+
+
+/* ===========================
+   GRID
+=========================== */
+
+.community-sponsors-grid {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 30px;
+}
+
+
+/* ===========================
+   CARD
+=========================== */
+
+.community-sponsor-card {
+    background: white;
+
+    border-radius: 20px;
+
+    padding: 20px;
+
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.08);
+
+    display: flex;
+    flex-direction: column;
+
+    min-height: 320px;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+}
+
+.community-sponsor-card:hover {
+    transform: translateY(-6px);
+
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+
+/* ===========================
+   IMAGE
+=========================== */
+
+.community-sponsor-image {
+    width: 100%;
+    height: 140px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 20px;
+}
+
+.community-sponsor-image img {
+    max-width: 80%;
+    max-height: 120px;
+
+    width: auto;
+    height: auto;
+
+    object-fit: contain;
+}
+
+
+/* ===========================
+   CONTENT
+=========================== */
+
+.community-sponsor-content {
+    display: flex;
+    flex-direction: column;
+
+    flex: 1;
+
+    text-align: center;
+}
+
+.community-sponsor-content h3 {
+    color: #C5332C;
+
+    font-size: 1.25rem;
+
+    margin: 0 0 12px;
+}
+
+.community-sponsor-content p {
+    color: #555;
+
+    line-height: 1.6;
+
+    margin: 0;
+}
+
+
+/* ===========================
+   WEBSITE ICON
+=========================== */
+
+.sponsor-icons {
+    margin-top: auto;
+
+    padding-top: 20px;
+}
+
+.sponsor-icons a {
+    color: #C5332C;
+
+    font-size: 1.5rem;
+
+    transition: color 0.2s ease;
+}
+
+.sponsor-icons a:hover {
+    color: #982822;
+
+    cursor: pointer;
+}
+
+
+/* ===========================
+   TABLET
+=========================== */
+
+@media (max-width: 900px) {
+
+    .community-sponsors-container {
+        padding: 0 30px;
+    }
+
+    .community-sponsors-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+/* ===========================
+   MOBILE
+=========================== */
+
+@media (max-width: 600px) {
+
+    .community-sponsors-section {
+        padding: 60px 0;
+    }
+
+    .community-sponsors-container {
+        padding: 0 20px;
+    }
+
+    .community-sponsors-container h2 {
+        font-size: 1.9rem;
+    }
+
+    .community-sponsors-grid {
+        grid-template-columns: 1fr;
+
+        gap: 25px;
+    }
+
+    .community-sponsor-card {
+        padding: 25px;
+
+        min-height: 0;
+    }
+
+}   

@@ -22,18 +22,19 @@ function Council(){
     return(
 
         <div className="council-page">
+            <div className='council-header'>
+                <h1>Meet Your ESS Council</h1>
 
-            <h1>Meet Your ESS Council</h1>
+                <p>
+                    The Engineering Students' Society Council is a group of student volunteers dedicated to the improvement of your time at the Schulich School of Engineering. We are a diverse group of students just like you, doing our best to be leaders for the engineering community here at the UofC. Our Board of Directors consists of the ESS President, 8 portfolio executives, 9 departmental representatives elected by you, and 10 first year representatives. Alongside our commissioners, we advocate on behalf of engineering students to the school, host social and professional events, and provide an array of services aimed at making your time at Schulich enjoyable!
 
-            <p>
-                The Engineering Students' Society Council is a group of student volunteers dedicated to the improvement of your time at the Schulich School of Engineering. We are a diverse group of students just like you, doing our best to be leaders for the engineering community here at the UofC. Our Board of Directors consists of the ESS President, 8 portfolio executives, 9 departmental representatives elected by you, and 10 first year representatives. Alongside our commissioners, we advocate on behalf of engineering students to the school, host social and professional events, and provide an array of services aimed at making your time at Schulich enjoyable!
+                    We can't wait to see you around!
 
-                We can't wait to see you around!
+                    -The ESS Council
+                </p>
 
-                -The ESS Council
-            </p>
-
-
+                <img src='src\assets\202324-council.jpg'></img>
+            </div>
             <section>
 
                 <h2>EXECUTIVE TEAM</h2>

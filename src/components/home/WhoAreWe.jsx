@@ -6,7 +6,7 @@ function WhoAreWe() {
         <div className='about-ess-container'>
             <div className="who-are-we">
 
-                <h2>Who We Are</h2>
+                <h1>Who We Are</h1>
 
                 <p>
                     The Engineering Students' Society (ESS) Council is a team of dedicated student volunteers committed to improving student life at the Schulich School of Engineering. Made up of students from every engineering discipline, we work together to build a stronger, more connected engineering community.

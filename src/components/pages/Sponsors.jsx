@@ -5,6 +5,8 @@ import "./Sponsors.css";
 
 import SponsorsCard from "../../components/sponsors/SponsorsCard";
 import SponsorsData from "../../components/sponsors/sponsorsData";
+import CommunitySponsors from "../community sponsors/CommunitySponsors";
+
 
 function Sponsors() {
   return (
@@ -91,7 +93,7 @@ function Sponsors() {
             </section>
           </div>
 
-
+          <CommunitySponsors />
 
           
         </div>

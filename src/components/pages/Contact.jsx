@@ -37,7 +37,7 @@ function Contact() {
 
             <section className="contact-info">
 
-                <h2>Get in Touch</h2>
+                <h2>GET IN TOUCH</h2>
 
                 <div className="contact-grid">
 
@@ -47,7 +47,7 @@ function Contact() {
                             <img src={mapIcon} alt="" />
                         </div>
 
-                        <h3>Visit Us</h3>
+                        <h3>VISIT US</h3>
 
                         <p>
                             Engineering Building
@@ -65,7 +65,7 @@ function Contact() {
                             <img src={emailIcon} alt="" />
                         </div>
 
-                        <h3>Email Us</h3>
+                        <h3>EMAIL US</h3>
 
                         <p>
                             <a href="mailto:ess@essucalgary.com">
@@ -81,7 +81,7 @@ function Contact() {
                             <img src={clockIcon} alt="" />
                         </div>
 
-                        <h3>Office Hours</h3>
+                        <h3>OFFICE HOURS</h3>
 
                         <p>
                             Monday - Friday

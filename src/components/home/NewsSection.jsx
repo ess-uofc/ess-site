@@ -21,17 +21,17 @@ function NewsSection() {
 
             <div className="news-card">
 
-                <img src="/images/event1.jpg" alt="Engineering BBQ" />
+                {/* <img src="/images/event1.jpg" alt="Engineering BBQ" /> */}
 
                 <div className="news-content">
-                    <h3>Engolympics</h3>
+                    <h3>Welcome Week</h3>
 
-                    <p className="event-date">September 12, 2026</p>
+                    <p className="event-date">Starting Sept 1, 2026</p>
 
 
                     <p>
                         Join fellow engineering students for the annual
-                        olympic games, and prizes.
+                        welcome week events, games, and a lot of fun.
                     </p>
 
                     <a href="/events" className="learn-more">
@@ -44,16 +44,15 @@ function NewsSection() {
 
             <div className="news-card">
 
-                <img src="/images/event2.jpg" alt="Industry Night" />
+                {/* <img src="/images/event2.jpg" alt="Industry Night" /> */}
 
                 <div className="news-content">
-                    <h3>Industry Night</h3>
+                    <h3>Career Fair</h3>
 
-                    <p className="event-date">September 23, 2026</p>
+                    <p className="event-date">October 15, 2026</p>
 
                     <p>
-                        Meet recruiters from top engineering companies and
-                        learn about internships and career opportunities.
+                        As one of the largest Engineering based career fairs in Western Canada, the ESS event is a popular and and eager way for students to connect with the industry. 
                     </p>
 
                     <a href="/events" className="learn-more">
@@ -64,7 +63,7 @@ function NewsSection() {
 
             </div>
 
-            <div className="news-card">
+            {/* <div className="news-card">
 
                 <img src="/images/event3.jpg" alt="ESS Elections" />
 
@@ -84,7 +83,7 @@ function NewsSection() {
 
                 </div>
 
-            </div>
+            </div> */}
 
         </div>
 

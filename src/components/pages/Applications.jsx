@@ -5,8 +5,8 @@ function Applications() {
   return (
     <section className='application-page'>
       <section className='application-header'>
-      <h1>Get involved with the ESS!</h1>
-      <p>The Engineering Students' Society is an entirely volunteer based organization. Positions with the society are available to all members of the Engineering Students' Society. If you have any questions or want to learn more about the society, feel free to drop us a line.</p>
+        <h1>Get involved with the ESS!</h1>
+        <p>The Engineering Students' Society is an entirely volunteer based organization. Positions with the society are available to all members of the Engineering Students' Society. If you have any questions or want to learn more about the society, feel free to drop us a line.</p>
       </section>
 
       <section className="applications">
@@ -20,7 +20,7 @@ function Applications() {
 
         </div>
 
-    </section>
+      </section>
     </section>
   )
 }

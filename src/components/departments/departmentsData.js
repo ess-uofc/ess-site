@@ -38,16 +38,7 @@ If you have any questions about CESS, please contact cess@ucalgary.ca`,
     president: ""
 },
 
-{
-    id:4,
-    name:"Digital Engineering Students' Society - DESS",
-    description:`The Digital Engineering Students' Society (DESS) is a student run organization that aims to represent students enrolled in the Digital Engineering Minor program. The Digital Minor allows students without a software engineering background to learn more about upcoming technology and computer programming skills. With the world advancing technologically, DESS and the Digital Minor work to equip individuals with programming skills to complement their major. We wish to represent these students providing platforms to enhance their knowledge and network with professionals and other like-minded individuals. DESS’ mission is to provide students with the means to gain out of classroom experiences applicable to the industry and learn what they can achieve using computer programmin`,
-    image: "src/assets/departments/dess.svg",
-    email:"dess@ucalgary.ca",
-    website:"",
-    instagram: "https://www.instagram.com/uofcdess/",
-    president: ""
-},
+
 
 {
     id:5,
@@ -105,16 +96,6 @@ If you have any questions about CESS, please contact cess@ucalgary.ca`,
     president: ""
 },
 
-{
-    id:10,
-    name:"Society of Energy Engineers - SEE",
-    description:"The University of Calgary Society of Energy Engineers (SEE) is a department student club run by undergraduate students with the fundamental purpose of creating a diverse, technical, and connected student workforce. The Society of Energy Engineers was found in 2016 by Energy Engineering students to better their university experience. We believe that by equipping our students with a solid foundation of engineering principals, knowledge, experience, and networking skills, they will gain a competitive advantage when entering any industry. We host events, mixers, international trips, and much more! We will have great collaboration events with other clubs that will be the biggest at the Schulich Engineering.",
-    image: "src/assets/departments/see.png",
-    email:"officialsee@ucalgary.ca",
-    website:"",
-    instagram: "",
-    president: ""
-},
 
 {
     id:11,
