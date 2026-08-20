@@ -40,10 +40,116 @@
     justify-content: center;
 
 }
+/* =========================
+   COUNCIL HERO / HEADER
+========================= */
+
+.council-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 60px;
+
+    margin-bottom: 80px;
+}
+
+
+/* =========================
+   HEADER TEXT
+========================= */
+
+.council-header-text {
+    flex: 1;
+    min-width: 0;
+}
+
+.council-header-text h1 {
+    color: #C5332C;
+
+    font-size: 3rem;
+    line-height: 1.1;
+
+    margin: 0 0 25px;
+}
+
+.council-header-text p {
+    max-width: 650px;
+
+    color: #444;
+
+    font-size: 1.05rem;
+    line-height: 1.75;
+
+    margin: 0;
+}
+
+
+/* =========================
+   HEADER IMAGE
+========================= */
+
+.council-header img {
+    width: 45%;
+    max-width: 500px;
+
+    aspect-ratio: 4 / 3;
+
+    object-fit: cover;
+
+    border-radius: 20px;
+
+    display: block;
+    flex-shrink: 0;
+}
 
 .council-grid{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(11rem,15.625rem));
     justify-content:center;
     gap:35px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 650px) {
+
+    .council-header {
+        flex-direction: column;
+        align-items: stretch;
+
+        gap: 30px;
+
+        margin-bottom: 60px;
+    }
+
+    .council-header-text {
+        width: 100%;
+    }
+
+    .council-header-text h1 {
+        font-size: 2.25rem;
+        line-height: 1.1;
+
+        margin-bottom: 20px;
+    }
+
+    .council-header-text p {
+        max-width: none;
+
+        font-size: 1rem;
+        line-height: 1.7;
+    }
+
+    .council-header img {
+        width: 100%;
+        max-width: none;
+
+        aspect-ratio: 16 / 9;
+
+        border-radius: 18px;
+    }
+
 }

@@ -30,11 +30,11 @@ function SELF() {
       <div className="self-documents">
         <h2>SELF Documents</h2>
         <ul>
-          <a href='https://drive.google.com/file/d/1j0NYxDX9N6NuVcOEmUFZHupXegyb1dAz/view?usp=drive_link'><li>SELF Policy</li></a>
-          <a href=""><li>Application 1</li></a>
-          <a href=""><li>Application 2</li></a>
-          <a href=""><li>Application 2</li></a>
-          <a href=""><li>SELF Budget</li></a>
+            <a href='https://drive.google.com/file/d/1j0NYxDX9N6NuVcOEmUFZHupXegyb1dAz/view?usp=drive_link'><li>SELF Policy</li></a>
+            <li><a href="https://drive.google.com/uc?export=download&amp;id=1Cp3U-inwozhLcXVaDgGUFenjIQsJ_lLO">Application I</a></li>
+            <li><a href="https://drive.google.com/uc?export=download&amp;id=1MKIwP0hxg2tMOs69DqHe5xfXZwzNE0FC">Application II</a></li>
+            <li><a href="https://drive.google.com/uc?export=download&amp;id=1ZzvlRGocqbx7jtY7LPAgrytf8jKblQlm">Application III</a></li>
+            <li><a href="https://docs.google.com/spreadsheets/d/197_bpNY8bvEGTWfPq7ub3mScDzunkHS0/edit?usp=drive_web&amp;ouid=111920029876893852073&amp;rtpof=true" target='_blank'>SELF Budget</a></li>
         </ul>
       </div>
 
@@ -116,7 +116,7 @@ function SELF() {
 
       <div>
         <h2>How to Submit Applications</h2>
-        <p>Applications can be submitted in the following form: <a href="">Fill out the Google Form</a></p>
+        <p>Applications can be submitted in the following form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9H29hNXB6pBOTDZbsxvJJEoegaFlWbKcm9aQL4xleRtj_4Q/viewform" target="_blank">Fill out the Google Form</a></p>
       </div>
 
       <div>
@@ -126,7 +126,7 @@ function SELF() {
 
       <div>
         <h2>Contact Us</h2>
-        <p>All inquiries can be emailed to: <a>self@essucalgary.com</a></p>
+        <p>All inquiries can be emailed to: <a  href="mailto:self@essucalgary.com">self@essucalgary.com</a></p>
       </div>
     </div>
   )
