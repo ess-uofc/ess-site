@@ -1,5 +1,12 @@
 import React from 'react'
 
+import represent from "../../assets/icons/7 1.png"
+import support from "../../assets/icons/8 1.png"
+import engage from "../../assets/icons/9 1.png"
+import empower from "../../assets/icons/10 1.png"
+
+
+
 function WhoAreWe() {
   return (
     <section className="about-ess">
@@ -17,7 +24,7 @@ function WhoAreWe() {
         <div className="ess-pillars">
 
             <div className="pillar">
-                <img src="src\assets\icons\7 1.png" alt="" />
+                <img src={represent} alt="" />
                 <h3>Represent</h3>
                 <p>
                     We represent the voices of engineering students by advocating on your behalf to the Schulich School of Engineering, the University of Calgary, and external organizations. Your feedback helps shape the decisions we make.
@@ -25,7 +32,7 @@ function WhoAreWe() {
             </div>
 
             <div className="pillar">
-                <img src="src\assets\icons\8 1.png" alt="" />
+                <img src={support} alt="" />
                 <h3>Support</h3>
                 <p>
                     From academic resources and funding opportunities to student services and club support, we're here to help you succeed throughout your engineering journey.
@@ -33,7 +40,7 @@ function WhoAreWe() {
             </div>
 
             <div className="pillar">
-                <img src="src\assets\icons\9 1.png" alt="" />
+                <img src={engage} alt="" />
                 <h3>Engage</h3>
                 <p>
                     We organize social events, networking nights, careerfairs, competitions, conferences, and traditions that bring engineering students together and create lasting memories outside the classroom.
@@ -41,7 +48,7 @@ function WhoAreWe() {
             </div>
 
             <div className="pillar">
-                <img src="src\assets\icons\10 1.png" alt="" />
+                <img src={empower} alt="" />
                 <h3>Empower</h3>
                 <p>
                     We provide leadership opportunities, professional development, and resources that help students grow as engineers, leaders, and members of the community.

@@ -3,7 +3,7 @@ import "./Departments.css";
 
 import DepartmentsCard from "../../components/departments/DepartmentsCard";
 import departmentsData from "../../components/departments/departmentsData";
-
+import departmentsImage from "../../assets/Schulic School of Engineering Picture.jpg"
 
 function Departments() {
     return (
@@ -21,7 +21,7 @@ function Departments() {
                     </p>
                 </div>
                 <div className="departments-image">
-                  <img src="src\assets\Schulic School of Engineering Picture.jpg"></img>
+                  <img src={departmentsImage}></img>
                 </div>
  
             </section>
