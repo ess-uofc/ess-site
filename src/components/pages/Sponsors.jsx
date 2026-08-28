@@ -5,7 +5,9 @@ import "./Sponsors.css";
 
 import SponsorsCard from "../../components/sponsors/SponsorsCard";
 import SponsorsData from "../../components/sponsors/sponsorsData";
-import CommunitySponsors from "../community sponsors/CommunitySponsors";
+import CommunitySponsors from "../../community sponsors/CommunitySponsors";
+import sponsorsHeader from "../../assets/Schulic School of Engineering Picture.jpg";
+
 
 
 function Sponsors() {
@@ -23,7 +25,7 @@ function Sponsors() {
                     </p>
                 </div>
                 <div className="sponsors-image">
-                  <img src="src\assets\Schulic School of Engineering Picture.jpg"></img>
+                  <img src={sponsorsHeader}></img>
                 </div>
  
             </section>
