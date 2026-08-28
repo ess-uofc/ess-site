@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link, NavLink} from 'react-router-dom';
-
+import aboutPhoto from "../../assets/202324-council.jpg";
 
 function AboutSection() {
   return (
@@ -11,8 +11,8 @@ function AboutSection() {
 
         <p>
           The Engineering Student's Society (ESS) represents, supports, 
-and empowers engineering students at the University of Calgary
-through advocacy, events, academic resources, and opportunities.
+          and empowers engineering students at the University of Calgary
+          through advocacy, events, academic resources, and opportunities.
         </p>
 
         <Link to="/council">
@@ -24,7 +24,7 @@ through advocacy, events, academic resources, and opportunities.
       </div>
 
       <div className="about-image">
-        <img src="src/assets/202324-council.jpg" alt="ESS Council" />
+        <img src={aboutPhoto} alt="ESS Council" />
       </div>
 
 
