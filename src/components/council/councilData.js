@@ -16,7 +16,7 @@ To help promote mental health and create more support for students and young adu
 
 I get way too excited about…
 Volleyball! I've played for most of my life and I hope to continue doing so. I’m always down to play!`,
-    image: "src/assets/council/2026-2027/President.png",
+    image: "../assets/council/2026-2027/President.png",
     email:"president@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/daniel-yang587"
 },
