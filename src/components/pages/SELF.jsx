@@ -1,5 +1,6 @@
 import React from 'react'
 import "./SELF.css";
+import selfPhoto from "../../assets/202223-council-1-banner.png";
 
 
 function SELF() {
@@ -13,7 +14,7 @@ function SELF() {
 
         <div className="self-hero-image">
             <img
-                src="src\assets\202223-council-1-banner.png"
+                src={selfPhoto}
                 alt="Student Experiential Learning Fund"
             />
         </div>
