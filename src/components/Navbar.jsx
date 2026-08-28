@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {Link, NavLink} from 'react-router-dom';
 import "./Navbar.css";
-import logo from "../../assets/ess-logo.png";
+import logo from "../assets/ess-logo.png";
 import { FaInstagram } from "react-icons/fa";
 
 export const Navbar = () => {
