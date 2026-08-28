@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "./departmentsCard.css";
+import "./DepartmentsCard.css";
 import { FaLinkedin, FaEnvelope, FaGlobe, FaInstagram } from "react-icons/fa";
 
 
