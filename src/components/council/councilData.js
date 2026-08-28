@@ -16,7 +16,7 @@ To help promote mental health and create more support for students and young adu
 
 I get way too excited aboutâ€¦
 Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€™m always down to play!`,
-    image: "../assets/council/2026-2027/President.png",
+    image: "../../assets/council/2026-2027/President.png",
     email:"president@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/daniel-yang587"
 },
@@ -32,7 +32,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 My favourite engineering memory is spending BSD last year working on my 300 project (itâ€™s only fun in retrospect..)
 
                 I get way too ecited about cheese and crackers`,
-    image:"src/assets/council/2026-2027/VP Academic.png",
+    image:"../../assets/council/2026-2027/VP Academic.png",
     email:"academic@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/luke-zenha-054a2033a/"
 },
@@ -48,7 +48,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A fun fact about myself is I have my pilots license
 
                 Current song on repeat "King for a Day" by Pierce the Veil`,
-    image:"src/assets/council/2026-2027/VP Communications.png",
+    image:"../../assets/council/2026-2027/VP Communications.png",
     email:"communications@essucalgary.com",
     linkedin:"none"
 },
@@ -63,7 +63,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 The most spontaneous thing I've done is go across Europe for a summer
 
                 I get way too excited about going to museums to look at old paintings`,
-    image:"src/assets/council/2026-2027/VP Corporate Relations.png",
+    image:"../../assets/council/2026-2027/VP Corporate Relations.png",
     email:"corporaterelations@essucalgary.com",
     linkedin:"http://www.linkedin.com/in/antonio-alapizco-bonardel-7b786b37a"
 },
@@ -78,7 +78,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 My mantra is dance like no one's watching
 
                 I get way too excited about spikeball!`,
-    image:"src/assets/council/2026-2027/VP External.png",
+    image:"../../assets/council/2026-2027/VP External.png",
     email:"external@essucalgary.com",
     linkedin:"none"
 },
@@ -93,7 +93,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 My mantra is Excel Excel Excel
 
                 Two truths and a lie I love excel, I dislike Google Sheets, I hate pivot tables`,
-    image:"src/assets/council/2026-2027/VP Finance.png",
+    image:"../../assets/council/2026-2027/VP Finance.png",
     email:"finance@essucalgary.com",
     linkedin:"none"
 },
@@ -109,7 +109,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A current song on repaet "Thinking Bout You" by Ariana Grande
 
                 My Mantra is it's not over till it's over`,
-    image:"src/assets/council/2026-2027/VP Internal.png",
+    image:"../../assets/council/2026-2027/VP Internal.png",
     email:"internal@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/fatima-zafar-ab41782a6"
 },
@@ -125,7 +125,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 Two truths and a lie I've taken apart an engine and successfully put it back together. I once spent more time designing a 3D printed part than the thing it was fixing. I've never Googled something mid-conversation to win an argument.
 
                 Current sonf on repeat "Bitin' List" by Tyler Childers`,
-    image:"src/assets/council/2026-2027/VP Operations.png",
+    image:"../../assets/council/2026-2027/VP Operations.png",
     email:"operations@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/taylor-k/"
 },
@@ -141,7 +141,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 I get way too excited about Ranch dressing
 
                 Current song on repeat "Shine a Little Light" by The Black Keys`,
-    image:"src/assets/council/2026-2027/VP Student Life.png",
+    image:"../../assets/council/2026-2027/VP Student Life.png",
     email:"studentlife@essucalgary.com",
     linkedin:"none"
 },
@@ -157,7 +157,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 My mantra is go with the flow
 
                 Current song on repeat "If 6 was 9" by Jimi Hendrix`,
-    image:"src/assets/council/2026-2027/Admin Commissioner.png",
+    image:"../../assets/council/2026-2027/Admin Commissioner.png",
     email:"admin.comm@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/minsung-kim-meng/"
 },
@@ -173,7 +173,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A life goal of mine is to go on a world tour and explore new cultures
 
                 My favorite engineering memory is fresh air after exams season`,
-    image:"src/assets/council/2026-2027/CR Commissioner.png",
+    image:"../../assets/council/2026-2027/CR Commissioner.png",
     email:"community@essucalgary.ca",
     linkedin:"http://www.linkedin.com/in/rayyan-hus"
 },
@@ -189,7 +189,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A life goal of mine is to go solo camping one day
 
                 Current song on repeat "TBH" by PARTYNEXTDOOR`,
-    image:"src/assets/council/2026-2027/Comps Commissioner.png",
+    image:"../../assets/council/2026-2027/Comps Commissioner.png",
     email:"competitions@essucalgary.com",
     linkedin:"none"
 },
@@ -205,7 +205,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 I get way too excited about the movie Encanto
 
                 My mantra is Hakuna Matata,`,
-    image:"src/assets/council/2026-2027/Comps Commissioner (2).png",
+    image:"../../assets/council/2026-2027/Comps Commissioner (2).png",
     email:"competitions@essucalgary.com",
     linkedin:"none"
 },
@@ -221,7 +221,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A life goal of mine is to study abroad
 
                 Current song on repeat "Ring of Past by Men I Trust"`,
-    image:"src/assets/council/2026-2027/Corporate Director.png",
+    image:"../../assets/council/2026-2027/Corporate Director.png",
     email:"corporatedirector@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/shanaya-kailey-562978389/"
 },
@@ -237,7 +237,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A fun fact about myself is I can play 5 musical instruments
 
                 A life goal of mine is to find a way for my cat to live longer than me`,
-    image:"src/assets/council/2026-2027/Design Commissioner.png",
+    image:"../../assets/council/2026-2027/Design Commissioner.png",
     email:"artistic@essucalgary.com",
     linkedin:"none"
 },
@@ -253,7 +253,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A life goal of mine is to learn how to integrate
 
                 I get way too excited about watching movies at the theatres`,
-    image:"src/assets/council/2026-2027/Diversity Commissioner.png",
+    image:"../../assets/council/2026-2027/Diversity Commissioner.png",
     email:"diversity@essucalgary.com",
     linkedin:"none"
 },
@@ -269,7 +269,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 My mantra is ff you did what you could, you did your best
 
                 I get way too excited about Antreaters!!`,
-    image:"src/assets/council/2026-2027/Dinner Director.png",
+    image:"../../assets/council/2026-2027/Dinner Director.png",
     email:"dinner.director1@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/jade-cosmilla-118964332"
 },
@@ -285,7 +285,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 Current song on repeat "Opalite" by Taylor Swift
 
                 My favorite engineering memory is going to CELC last year!`,
-    image:"src/assets/council/2026-2027/Finance Commissioner.png",
+    image:"../../assets/council/2026-2027/Finance Commissioner.png",
     email:"finance.comm@essucalgary.com",
     linkedin:"none"
 },
@@ -301,7 +301,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A life goal of mine is to backpack through Europe for a summer
 
                 I get way too excited about concerts and live music`,
-    image:"src/assets/council/2026-2027/Grad Director.png",
+    image:"../../assets/council/2026-2027/Grad Director.png",
     email:"grad.director@essucalgary.com",
     linkedin:"https://ca.linkedin.com/in/allison-h-73809039b"
 },
@@ -317,7 +317,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 I get way too excited about free food
 
                 A life goal of mine is to do a cross country road trip from California to North Carolina`,
-    image:"src/assets/council/2026-2027/Pro Dev Comm.png",
+    image:"../../assets/council/2026-2027/Pro Dev Comm.png",
     email:"pdevelopment@essucalgary.com",
     linkedin:"none"
 },
@@ -333,7 +333,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 I get way too excited about trying new hobbies
 
                 A life goal of mine is to learn piano and play in a jazz band`,
-    image:"src/assets/council/2026-2027/Publications Commissioner.png",
+    image:"../../assets/council/2026-2027/Publications Commissioner.png",
     email:"publications@essucalgary.com",
     linkedin:"none"
 },
@@ -349,7 +349,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A life goal of mine is to I'd love to backpack Europe and buy myself a pair of izzys, donâ€™t know which one I want more
 
                 Current song on repeat "Chosen" by Blood Orange & Caroline Polacheck`,
-    image:"src/assets/council/2026-2027/Social Commissioner.png",
+    image:"../../assets/council/2026-2027/Social Commissioner.png",
     email:"social.comm1@essucalgary.com",
     linkedin:"none"
 },
@@ -365,7 +365,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A fun fact about myself is one of my favorite hobbies is wind surfing!
 
                 Current song on repeat "Say my Name" by Hozier`,
-    image:"src/assets/council/2026-2027/Social Commissioner (2).png",
+    image:"../../assets/council/2026-2027/Social Commissioner (2).png",
     email:"social.comm3@essucalgary.com",
     linkedin:"none"
 },
@@ -381,7 +381,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 I get way too excited about new movies and music
 
                 Current song on repeat "Back Outside" by BNXN`,
-    image:"src/assets/council/2026-2027/Social Commissioner (3).png",
+    image:"../../assets/council/2026-2027/Social Commissioner (3).png",
     email:"social.comm2@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/chiedu-ngene/"
 },
@@ -397,7 +397,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 I get way too excited about knowing I can get 9 hours of sleep (I still won't do it though)
 
                 A life goal of mine is to quit playing League of Legends`,
-    image:"src/assets/council/2026-2027/Social Media Director.png",
+    image:"../../assets/council/2026-2027/Social Media Director.png",
     email:"none",
     linkedin:"none"
 },
@@ -413,7 +413,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A fun fact about myself is I love dancing
 
                 Current sogn on repeat "Window Seat" by Erykah Badu`,
-    image:"src/assets/council/2026-2027/Sponsorship Commissioner.png",
+    image:"../../assets/council/2026-2027/Sponsorship Commissioner.png",
     email:"sponsorship@essucalgary.com",
     linkedin:"none"
 },
@@ -428,7 +428,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 My life goal is to make enough money to never work again and just work on fun projects at home.
 
                 This year I really want to hit Challenger on League of Legends`,
-    image:"src/assets/council/2026-2027/Technology Commissioner.png",
+    image:"../../assets/council/2026-2027/Technology Commissioner.png",
     email:"technology@essucalgary.com",
     linkedin:"https://www.linkedin.com/in/rabimkhan/"
 },
@@ -444,7 +444,7 @@ Volleyball! I've played for most of my life and I hope to continue doing so. Iâ€
                 A fun fact about myself is I can bench press 260lbs (158 bw)
 
                 A life long goal of mine is to survive in this economy`,
-    image:"src/assets/council/2026-2027/Website Commissioner.png",
+    image:"../../assets/council/2026-2027/Website Commissioner.png",
     email:"website@essucalgary.com",
     linkedin:"www.linkedin.com/in/artur-mararash-86a4a937b"
 },
