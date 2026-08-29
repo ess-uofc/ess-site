@@ -11,9 +11,9 @@ function NewsSection() {
 
             <h1>News & Events</h1>
 
-            <a href="/events" className="view-all">
+            <Link to="/events" className="view-all">
                 View All Events →
-            </a>
+            </Link>
 
         </div>
 
@@ -34,9 +34,9 @@ function NewsSection() {
                         welcome week events, games, and a lot of fun.
                     </p>
 
-                    <a href="/events" className="learn-more">
+                    <Link to="/events" className="learn-more">
                         Learn More →
-                    </a>
+                    </Link>
 
                 </div>
 
@@ -55,9 +55,9 @@ function NewsSection() {
                         As one of the largest Engineering based career fairs in Western Canada, the ESS event is a popular and and eager way for students to connect with the industry. 
                     </p>
 
-                    <a href="/events" className="learn-more">
+                    <Link to="/events" className="learn-more">
                         Learn More →
-                    </a>
+                    </Link>
 
                 </div>
 
