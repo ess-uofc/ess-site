@@ -1,35 +1,94 @@
 import React, { useState } from 'react'
 import "./Events.css"
 
+
+const SIGNUP_LINK = "https://linktr.ee/ess___uofc";
+
 const events = [
-  {
-    month: "DATE:",
-    day: "TBA",
+   {
+    month: "Sept",
+    day: "1",
     category: "SOCIAL",
-    title: "Academic Dinner",
-    time: "",
-    location: "",
+    title: "FROSH Waffle Breakfast ",
+    time: "9am-12pm",
+    location: "ENGG Lounge",
+    signup: false,
     description:
-      "The annual Academic Dinner is an event hosted by the ESS to bring student’s together. We invite 1st, 2nd and 3rd year students, but we welcome anyone that registers. Click the link to register."
+      "Kick off your semester the right way and grab some waffles! FREE waffles from 9AM-12PM!"
   },
   {
-    month: "DATE:",
-    day: "TBA",
+    month: "Sept",
+    day: "1",
+    category: "SOCIAL",
+    title: "YCR Social Night",
+    time: "6pm",
+    location: "Last Defence Lounge",
+    signup: true,
+    description:
+      "Meet fellow students and network with industry professionals in a social setting. Enjoy FREE food and FREE drink for the first 20 attendees"
+  },
+
+
+
+   {
+    month: "Sept",
+    day: "2",
     category: "PROFESSIONAL",
-    title: "Annual General Meeting (AGM)",
-    time: "",
-    location: "",
+    title: "FROSH Week Club Fair",
+    time: "10am-3pm",
+    location: "ENGG lounge",
+    signup: false,
     description:
-      "The Annual General Meeting is where students come together to review the year, discuss important issues, and vote on motions that shape decisions affecting the entire student body. It’s a space for open discussion, transparency, and making meaningful changes moving forward."
+      "This club fair is features Engineering societies and clubs and allows new students and returning friends to understand the different opportunities U of C offers. It will be hosted in the ENGG lounge where clubs will set up portfolio stations."
   },
- 
+
   {
+    month: "Sept",
+    day: "2",
+    category: "SOCIAL",
+    title: "FROSH Jeopardy Trivia Night",
+    time: "6pm",
+    location: "Kampus Brewing Co",
+    signup: true,
+    description:
+      "Waybionic FROSH Jeopardy Trivia Night"
+  },
+
+  {
+    month: "Sept",
+    day: "3",
+    category: "SOCIAL",
+    title: "Mess engglympics/ Cess pool/ Ceus ice cream",
+    time: "10am",
+    location: "ENGG Lounge",
+    signup: false,
+    description:
+      `Engg Olympics hosted by MESS.
+        Watch your societies presidents slimed in a pool by CESS.
+        Enjoy free ice cream brought by the Ceus`
+  },
+
+  {
+    month: "Sept",
+    day: "4",
+    category: "SOCIAL",
+    title: "Tap the Town",
+    time: "6:30pm",
+    location: "Engineering Lounge",
+    signup: true,
+    description:
+      "Meet new people and experience Calgary's night life. Party bus to Wild Card Shack at 6:30pm + drink tickets provided"
+  },
+
+    {
     month: "OCT",
     day: "15",
     category: "GOVERNANCE",
     title: "Career Fair",
-    time: "10:00 am – 5:00 pm",
+    time: "10:00 am - 5:00 pm",
     location: "ENG Lounge",
+    signup: false,
+
     description:
       `As one of the largest Engineering based career fairs in Western Canada, the ESS event is a popular and and eager way for students to connect with the industry.
 
@@ -42,6 +101,32 @@ const events = [
 
   },
 
+  {
+    month: "DATE:",
+    day: "TBA",
+    category: "SOCIAL",
+    title: "Academic Dinner",
+    time: "",
+    location: "",
+    signup: false,
+    description:
+      "The annual Academic Dinner is an event hosted by the ESS to bring student’s together. We invite 1st, 2nd and 3rd year students, but we welcome anyone that registers. Click the link to register."
+  },
+  {
+    month: "DATE:",
+    day: "TBA",
+    category: "PROFESSIONAL",
+    title: "Annual General Meeting (AGM)",
+    time: "",
+    location: "",
+    signup: false,
+
+    description:
+      "The Annual General Meeting is where students come together to review the year, discuss important issues, and vote on motions that shape decisions affecting the entire student body. It’s a space for open discussion, transparency, and making meaningful changes moving forward."
+  },
+ 
+
+
    {
     month: "DATE:",
     day: "TBA",
@@ -49,6 +134,8 @@ const events = [
     title: "Graduation Banquet",
     time: "",
     location: "",
+    signup: false,
+
     description:
       `The annual Graduation Banquet is an event hosted by the ESS to bring the graduating year’s student’s together.`
   },
@@ -60,6 +147,8 @@ const events = [
     title: "High School Engineering Competition (HSEC)",
     time: "",
     location: "",
+    signup: false,
+
     description:
       `The High Schoool Engineering Competition (HSEC) is an annual competition in which high school students work in teams to complete an engineering challenge.`
   },
@@ -96,6 +185,28 @@ function EventCard({ event }) {
             {event.description}
           </p>
         )}
+
+        {/* <p className="event-signup">
+    Sign up:
+    <a
+        href={SIGNUP_LINK}
+        target="_blank"
+        rel="noreferrer"
+    >
+        Linktree →
+    </a>
+</p> */}
+
+      {event.signup && (
+        <a
+          className="event-signup"
+          href={SIGNUP_LINK}
+          target="_blank"
+          rel="noreferrer"
+      >
+          Linktree Sign Up 
+      </a>
+      )}
 
       </div>
 

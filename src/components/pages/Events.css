@@ -215,6 +215,74 @@
 }
 
 /* =========================
+   SIGN UP LINK
+========================= */
+
+/* .event-signup {
+    margin-top: 18px;
+
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+
+    color: #C5332C;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+
+    text-decoration: none;
+
+    transition: color 0.2s ease;
+}
+
+.event-signup:hover {
+    color: #982822;
+    text-decoration: underline;
+}
+
+.event-signup a {
+    color: inherit;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.event-signup a:hover {
+    text-decoration: underline;
+} */
+
+.event-signup {
+    display: inline-flex;
+    align-items: center;
+
+    margin-top: 18px;
+
+    padding: 9px 16px;
+
+    background-color: #C5332C;
+    color: white;
+
+    border-radius: 8px;
+
+    font-size: 0.9rem;
+    font-weight: 600;
+
+    text-decoration: none;
+
+    transition: background-color 0.2s ease,
+                transform 0.2s ease;
+}
+
+.event-signup:hover {
+    background-color: #982822;
+    transform: translateY(-2px);
+}
+
+.event-signup a {
+    color: white;
+    text-decoration: none;
+}
+
+/* =========================
    SHOW MORE
 ========================= */
 

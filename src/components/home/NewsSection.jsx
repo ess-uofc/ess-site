@@ -1,6 +1,8 @@
 import React from 'react'
 import {Link, NavLink} from 'react-router-dom';
 
+import FYR from "../../assets/news and updates/FYR.png"
+
 function NewsSection() {
   return (
     <section className="news-section">
@@ -18,23 +20,43 @@ function NewsSection() {
         </div>
 
         <div className="news-grid">
+            
+            <div className="news-card">
+
+                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
+
+                <div className="news-content">
+                    <h3>FROSH Waffle Breakfast </h3>
+
+                    <p className="event-date">September 1st at 9am</p>
+
+                    <p>
+                        Kick off your semester the right way and grab some waffles!
+                    </p>
+
+                    <a href="/events" className="learn-more">
+                        Learn More →
+                    </a>
+
+                </div>
+            </div>
 
             <div className="news-card">
 
-                {/* <img src="/images/event1.jpg" alt="Engineering BBQ" /> */}
+                {/* <img src={FYR} alt="Engineering BBQ" /> */}
 
                 <div className="news-content">
-                    <h3>Welcome Week</h3>
+                    <h3>First Year Rep Applications</h3>
 
-                    <p className="event-date">Starting Sept 1, 2026</p>
+                    <p className="event-date">Apply Before Sept 5th 11:59pm</p>
 
 
                     <p>
-                        Join fellow engineering students for the annual
-                        welcome week events, games, and a lot of fun.
+                        Calling all first years! 
+                        Want to get involved? Meet new people? Develop career-ready skills? Here's your chance!
                     </p>
 
-                    <Link to="/events" className="learn-more">
+                    <Link to="/applications" className="learn-more">
                         Learn More →
                     </Link>
 
@@ -47,12 +69,12 @@ function NewsSection() {
                 {/* <img src="/images/event2.jpg" alt="Industry Night" /> */}
 
                 <div className="news-content">
-                    <h3>Career Fair</h3>
+                    <h3>YCR Social Night</h3>
 
-                    <p className="event-date">October 15, 2026</p>
+                    <p className="event-date">September 1st at 6pm</p>
 
                     <p>
-                        As one of the largest Engineering based career fairs in Western Canada, the ESS event is a popular and and eager way for students to connect with the industry. 
+                        Come to he info night to meet fellow students and enjoy free food! 
                     </p>
 
                     <Link to="/events" className="learn-more">
@@ -63,18 +85,17 @@ function NewsSection() {
 
             </div>
 
-            {/* <div className="news-card">
+            <div className="news-card">
 
-                <img src="/images/event3.jpg" alt="ESS Elections" />
+                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
 
                 <div className="news-content">
-                    <h3>ESS Elections</h3>
+                    <h3>FROSH Week Club Fair</h3>
 
-                    <p className="event-date">October 8, 2026</p>
+                    <p className="event-date">September 2nd at 10am</p>
 
                     <p>
-                        Vote for your next Engineering Students' Society
-                        representatives and have your voice heard.
+                        This club fair is features Engineering societies and clubs and allows new students and returning friends to understand the different opportunities U of C offers.
                     </p>
 
                     <a href="/events" className="learn-more">
@@ -83,11 +104,56 @@ function NewsSection() {
 
                 </div>
 
-            </div> */}
+            </div>
+
+            <div className="news-card">
+
+                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
+
+                <div className="news-content">
+                    <h3>FROSH Jeopardy Trivia Night</h3>
+
+                    <p className="event-date">September 2nd at 6pm</p>
+
+                    <p>
+                        Waybionic FROSH Jeopardy Trivia Night
+                    </p>
+
+                    <a href="/events" className="learn-more">
+                        Learn More →
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div className="news-card">
+
+                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
+
+                <div className="news-content">
+                    <h3>Tap The Town</h3>
+
+                    <p className="event-date">September 4 at 6:30pm</p>
+
+                    <p>
+                        Meet new people and experience Calgary's night life
+                    </p>
+
+                    <a href="/events" className="learn-more">
+                        Learn More →
+                    </a>
+
+                </div>
+
+            </div>
+
+           
+            </div>
 
         </div>
 
-    </div>
+
 
 </section>
   )

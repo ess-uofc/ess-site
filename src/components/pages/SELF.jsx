@@ -31,10 +31,10 @@ function SELF() {
       <div className="self-documents">
         <h2>SELF Documents</h2>
         <ul>
-            <a href='https://drive.google.com/file/d/1j0NYxDX9N6NuVcOEmUFZHupXegyb1dAz/view?usp=drive_link'><li>SELF Policy</li></a>
-            <li><a href="https://drive.google.com/uc?export=download&amp;id=1Cp3U-inwozhLcXVaDgGUFenjIQsJ_lLO">Application I</a></li>
-            <li><a href="https://drive.google.com/uc?export=download&amp;id=1MKIwP0hxg2tMOs69DqHe5xfXZwzNE0FC">Application II</a></li>
-            <li><a href="https://drive.google.com/uc?export=download&amp;id=1ZzvlRGocqbx7jtY7LPAgrytf8jKblQlm">Application III</a></li>
+            <a href='https://drive.google.com/file/d/1j0NYxDX9N6NuVcOEmUFZHupXegyb1dAz/view?usp=drive_link' target='_blank'><li>SELF Policy</li></a>
+            <li><a href="https://drive.google.com/uc?export=download&amp;id=1Cp3U-inwozhLcXVaDgGUFenjIQsJ_lLO" target='_blank'>Application I</a></li>
+            <li><a href="https://drive.google.com/uc?export=download&amp;id=1MKIwP0hxg2tMOs69DqHe5xfXZwzNE0FC" target='_blank'>Application II</a></li>
+            <li><a href="https://drive.google.com/uc?export=download&amp;id=1ZzvlRGocqbx7jtY7LPAgrytf8jKblQlm" target='_blank'>Application III</a></li>
             <li><a href="https://docs.google.com/spreadsheets/d/197_bpNY8bvEGTWfPq7ub3mScDzunkHS0/edit?usp=drive_web&amp;ouid=111920029876893852073&amp;rtpof=true" target='_blank'>SELF Budget</a></li>
         </ul>
       </div>
