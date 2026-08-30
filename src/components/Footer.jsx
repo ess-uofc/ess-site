@@ -1,8 +1,10 @@
 import React from "react";
 import "./Footer.css";
+import {Link, NavLink} from 'react-router-dom';
 
 import { FaInstagram, FaDiscord, FaGlobe, FaMapMarkerAlt, FaEnvelope, FaPhone } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
+import essLogo from "../assets/ess-logo.png"
 
 function Footer() {
     return (
@@ -14,7 +16,7 @@ function Footer() {
                 <div className="footer-brand">
 
                     <img 
-                        src="src\assets\ess-logo.png" 
+                        src={essLogo} 
                         alt="ESS Logo"
                     />
 
@@ -26,11 +28,11 @@ function Footer() {
 
                     <h3>QUICK LINKS</h3>
 
-                    <a href="/">Home</a>
-                    <a href="/council">Council</a>
-                    <a href="/events">Events</a>
-                    <a href="/conferences">Conferences</a>
-                    <a href="/contact">Contact</a>
+                    <NavLink to="/">Home</NavLink>
+                    <NavLink to="/council">Council</NavLink>
+                    <NavLink to="/events">Events</NavLink>
+                    <NavLink to="/conferences">Conferences</NavLink>
+                    <NavLink to="/contact">Contact</NavLink>
 
                 </div>
 
@@ -40,11 +42,11 @@ function Footer() {
 
                     <h3>RESOURCES</h3>
 
-                    <a href="/publicdocuments">Public Documents</a>
-                    <a href="/departments">Departments</a>
-                    <a href="/self">SELF</a>
-                    <a href="/bookings">Bookings</a>
-                    <a href="/sponsors">Sponsors</a>
+                    <NavLink to="/publicdocuments">Public Documents</NavLink>
+                    <NavLink to="/departments">Departments</NavLink>
+                    <NavLink to="/self">SELF</NavLink>
+                    <NavLink to="/bookings">Bookings</NavLink>
+                    <NavLink to="/sponsors">Sponsors</NavLink>
 
                 </div>
 

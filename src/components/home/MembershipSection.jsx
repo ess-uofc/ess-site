@@ -15,9 +15,9 @@ function AboutSection() {
                 engineering resources, and much more by becoming an ESS member.
             </p>
 
-            <button className="membership-btn">
-                Purchase Membership
-            </button>
+            <Link to="/membership" className="membership-btn">
+                Learn More
+            </Link>
 
         </div>
 

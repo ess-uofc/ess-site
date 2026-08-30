@@ -17,7 +17,7 @@ function AboutSection() {
 
         <Link to="/council">
         <button className="about-btn">
-          Learn More
+          Meet the Council
         </button>
         </Link>
 
