@@ -78,7 +78,7 @@ A fun fact about myself is I have my pilots license
 Current song on repeat "King for a Day" by Pierce the Veil`,
         image: vpCommunications,
         email: "communications@essucalgary.com",
-        linkedin: "none"
+        linkedin: "https://www.linkedin.com/in/cathy-xie-535aa2326?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
     },
 
     {
@@ -110,7 +110,7 @@ My mantra is dance like no one's watching
 I get way too excited about spikeball!`,
         image: vpExternal,
         email: "external@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -126,7 +126,7 @@ My mantra is Excel Excel Excel
 Two truths and a lie I love excel, I dislike Google Sheets, I hate pivot tables`,
         image: vpFinance,
         email: "finance@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -174,7 +174,7 @@ I get way too excited about Ranch dressing
 Current song on repeat "Shine a Little Light" by The Black Keys`,
         image: vpStudentLife,
         email: "studentlife@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -222,7 +222,7 @@ A life goal of mine is to go solo camping one day
 Current song on repeat "TBH" by PARTYNEXTDOOR`,
         image: compsCommissioner,
         email: "competitions@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -238,7 +238,7 @@ I get way too excited about the movie Encanto
 My mantra is Hakuna Matata,`,
         image: compsCommissioner2,
         email: "competitions@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -270,7 +270,7 @@ A fun fact about myself is I can play 5 musical instruments
 A life goal of mine is to find a way for my cat to live longer than me`,
         image: designCommissioner,
         email: "artistic@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -286,7 +286,7 @@ A life goal of mine is to learn how to integrate
 I get way too excited about watching movies at the theatres`,
         image: diversityCommissioner,
         email: "diversity@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -318,7 +318,7 @@ Current song on repeat "Opalite" by Taylor Swift
 My favorite engineering memory is going to CELC last year!`,
         image: financeCommissioner,
         email: "finance.comm@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -350,7 +350,7 @@ I get way too excited about free food
 A life goal of mine is to do a cross country road trip from California to North Carolina`,
         image: proDevCommissioner,
         email: "pdevelopment@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -366,7 +366,7 @@ I get way too excited about trying new hobbies
 A life goal of mine is to learn piano and play in a jazz band`,
         image: publicationsCommissioner,
         email: "publications@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -382,7 +382,7 @@ A life goal of mine is to I'd love to backpack Europe and buy myself a pair of i
 Current song on repeat "Chosen" by Blood Orange & Caroline Polacheck`,
         image: socialCommissioner,
         email: "social.comm1@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -398,7 +398,7 @@ A fun fact about myself is one of my favorite hobbies is wind surfing!
 Current song on repeat "Say my Name" by Hozier`,
         image: socialCommissioner2,
         email: "social.comm3@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -429,8 +429,8 @@ I get way too excited about knowing I can get 9 hours of sleep (I still won't do
 
 A life goal of mine is to quit playing League of Legends`,
         image: socialMediaDirector,
-        email: "none",
-        linkedin: "none"
+        email: "social.media.director@essucalgary.com",
+        linkedin: ""
     },
 
     {
@@ -446,7 +446,7 @@ A fun fact about myself is I love dancing
 Current sogn on repeat "Window Seat" by Erykah Badu`,
         image: sponsorshipCommissioner,
         email: "sponsorship@essucalgary.com",
-        linkedin: "none"
+        linkedin: ""
     },
 
     {
@@ -478,7 +478,7 @@ A fun fact about myself is I can bench press 260lbs (158 bw)
 A life long goal of mine is to survive in this economy`,
         image: websiteCommissioner,
         email: "website@essucalgary.com",
-        linkedin: "www.linkedin.com/in/artur-mararash-86a4a937b"
+        linkedin: "www.linkedin.com/in/artur-mararash-86a4a937b/"
     },
 
 ];

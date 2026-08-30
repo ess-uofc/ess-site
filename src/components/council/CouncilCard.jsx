@@ -46,14 +46,15 @@ function CouncilCard({ member }) {
                 
                 <div className="card-icons">
 
-                    <a
-                        href={member.linkedin}
-                        target="_blank"
-                        rel="noreferrer">
-
-                        <FaLinkedin />
-
-                    </a>
+                   {member.linkedin && (
+                        <a
+                            href={member.linkedin}
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <FaLinkedin />
+                        </a>
+                    )}
 
                     <a href={`mailto:${member.email}`}>
 

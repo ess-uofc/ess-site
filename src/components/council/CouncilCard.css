@@ -1,120 +1,129 @@
-.council-card{
+.council-card {
+    background: white;
 
-    background:white;
+    border-radius: 20px;
 
-    border-radius:20px;
+    overflow: hidden;
 
-    overflow:hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,.08);
 
-    box-shadow:0 4px 15px rgba(0,0,0,.08);
+    transition: .25s;
 
-    transition:.25s;
+    display: flex;
+    flex-direction: column;
 
+    height: 100%;
 }
 
-.council-card:hover{
 
-    transform:translateY(-8px);
-    
-    box-shadow:0 12px 25px rgba(0,0,0,.12);
-
+.council-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 25px rgba(0,0,0,.12);
 }
 
-.council-card img{
 
-    width:100%;
-    object-fit:cover;
+.council-card img {
+    width: 100%;
+    object-fit: cover;
 
+    flex-shrink: 0;
 }
 
-.card-content{
 
-    padding:15px;
+.card-content {
+    padding: 15px;
 
+    display: flex;
+    flex-direction: column;
+
+    flex: 1;
 }
 
-.card-content h3{
 
-    color:#C5332C;
-    margin: button 5px;
-
+.card-content h3 {
+    color: #C5332C;
+    margin-bottom: 5px;
 }
 
-.card-content h4{
 
+.card-content h4 {
     margin-bottom: 2px;
-    color:#666;
-
+    color: #666;
 }
 
-.member-info{
 
-    font-weight:600;
-    margin-bottom:8px;
-
+.member-info {
+    font-weight: 600;
+    margin-bottom: 8px;
 }
 
-.card-content p{
+
+.card-content p {
     font-size: 1em;
     line-height: 1.5;
-
 }
 
-.card-icons{
 
-    display:flex;
+/* =========================
+   ICONS
+========================= */
 
-    gap:18px;
+.card-icons {
+    display: flex;
 
-    margin-top:20px;
+    gap: 18px;
 
+    margin-top: auto;
+
+    padding-top: 20px;
 }
 
-.card-icons a{
 
-    font-size:1.6rem;
+.card-icons a {
+    font-size: 1.6rem;
 
-    color:#C5332C;
+    color: #C5332C;
 
-    transition:.2s;
-
+    transition: .2s;
 }
 
-.card-icons a:hover{
 
-    color:#982822;
-
+.card-icons a:hover {
+    color: #982822;
 }
+
+
+/* =========================
+   EXPAND BUTTON
+========================= */
 
 .expand-button {
+    background: none;
+    border: none;
 
-    background:none;
+    color: #C5332C;
 
-    border:none;
+    font-weight: 600;
 
-    color:#C5332C;
+    cursor: pointer;
 
-    font-weight:600;
+    padding: 0;
 
-    cursor:pointer;
+    margin-top: 10px;
 
-    padding:0;
-
-    margin-top:10px;
-
-    font-size:1rem;
-
+    font-size: 1rem;
 }
 
 
 .expand-button:hover {
-    color:#982822;
+    color: #982822;
 }
 
 
 .description {
+    margin-top: 12px;
 
-    margin-top:12px;
-    line-height:1.5;
-    white-space:pre-line;
+    line-height: 1.5;
+
+    white-space: pre-line;
 }
