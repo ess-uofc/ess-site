@@ -92,15 +92,15 @@ function Footer() {
 
                 <div className="social-icons">
 
-                    <a href="https://www.instagram.com/ess_uofc/">
+                    <a href="https://www.instagram.com/ess_uofc/" target="_blank">
                         <FaInstagram />
                     </a>
 
-                    <a href="https://discord.com/invite/9mUubJU">
+                    <a href="https://discord.com/invite/9mUubJU" target="_blank">
                         <FaDiscord />
                     </a>
 
-                    <a href="https://www.linkedin.com/company/engineering-students%27-society-u-of-c-/">
+                    <a href="https://www.linkedin.com/company/engineering-students%27-society-u-of-c-/" target="_blank">
                         <FaLinkedin />
                     </a>
 

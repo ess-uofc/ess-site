@@ -1,6 +1,8 @@
 /about/membership    /membership    301
 /about/council       /council      301
 events/featured-events/career-fair /events 301
+/about/self           /self 301
+/about/public-documents /publicdocuments 301
 
 
 /*    /index.html   200
