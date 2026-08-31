@@ -63,7 +63,7 @@ const communitySponsors = [
     {
         id: 7,
         name: "Pangaea Pizza",
-        description: `$5 off purchases of $30 or more done online, redeemable through code when you buy a membership`,
+        description: `$5 off purchases of $30 or more done online, redeemable through the code when you buy a membership`,
         image: pangaeaPizza,
         website: "https://pangaeapizza.com/",
     },

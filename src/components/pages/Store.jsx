@@ -1,8 +1,12 @@
 import React from 'react'
+import "./Store.css";
+
 
 function Store() {
   return (
-    <div>Store</div>
+    <section className="store-page">
+      <h1>Comming Soon</h1>
+    </section>
   )
 }
 
