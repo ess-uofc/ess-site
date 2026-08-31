@@ -67,6 +67,17 @@ function DepartmentsCard({ member }) {
                     </a>
                     )}
 
+                    {member.linkedin && (    
+                    <a
+                        href={member.linkedin}
+                        target="_blank"
+                        rel="noreferrer">
+
+                        <FaLinkedin />
+
+                    </a>
+                    )}
+
                 </div>
 
             </div>
