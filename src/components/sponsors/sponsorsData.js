@@ -17,6 +17,12 @@ import garminCanada from "../../assets/sponsors/Garmin Canada.png";
 import soletancheBachy from "../../assets/sponsors/Soletanche Bachy Canada.png";
 import priEngineering from "../../assets/sponsors/PRI Engineering.png";
 import canselSurvey from "../../assets/sponsors/Cansel Survey.png";
+import worley from "../../assets/sponsors/Worley.png";
+import vista from "../../assets/sponsors/Vista.png";
+import mcw from "../../assets/sponsors/MCW.png";
+
+
+
 
 const sponsors = [
 
@@ -255,7 +261,95 @@ Resources and workshops to strengthen student’s resume, interview skills, and 
         instagram: "",
         facebook: "",
         linkedin: "[https://ca.linkedin.com/company/cansel](https://ca.linkedin.com/company/cansel)"
-    }
+    },
+
+    {
+        id: 20,
+        name: "LN Land Development Technologies",
+        description: `LN is a Certified Indigenous-Owned Business that has been providing technical services across Canada since 2007. With more than 200 employees, LN delivers Land Surveying, Utility Locating, Geotechnical Engineering, Materials Testing, and Environmental services to clients in the energy, mining, municipal infrastructure, transportation, residential, commercial, and industrial sectors. Combining experienced professionals, advanced technology, and innovative processes, LN delivers reliable, high-quality solutions for projects of all sizes and complexities. Built on a foundation of safety, integrity, collaboration, and service excellence, LN is committed to exceeding the expectations of its clients, employees, and the communities it serves.`,
+        image: "",
+        email: "",
+        website: "https://www.lnldt.ca/",
+        instagram: "",
+        facebook: "",
+        linkedin: ""
+    },
+
+    {
+        id: 21,
+        name: "MCW Consultants Ltd.",
+        description: `Founded in 1964, MCW provides innovative mechanical and electrical consulting engineering, energy management, and development services to the energy, power, and building construction industries. Our work helps create and improve the spaces where we live, work, and play. MCW has been part of some of the most significant projects in the energy, power, and building construction industries in Canada, and these successes are seen through repeat business and client prosperity while focusing on sustainable and energy-efficient solutions. With nearly 500 employees across Canada, MCW has offices located in Toronto, Vancouver, Edmonton, Calgary, Winnipeg, Moncton, Ottawa, Dauphin, Saint John, Truro, Halifax, and Thunder Bay.`,
+        image: mcw,
+        email: "",
+        website: "",
+        instagram: "https://www.instagram.com/mcw.group/",
+        facebook: "",
+        linkedin: "https://www.linkedin.com/company/mcw-group-of-companies/"
+    },
+
+    {
+        id: 22,
+        name: "Ovintiv",
+        description: `We're one of the largest producers of oil and natural gas in North America, with a focused portfolio in the U.S. and Canada. Our teams develop high‑quality shale assets to meet the world's growing need for reliable energy.`,
+        image: "",
+        email: "",
+        website: "",
+        instagram: "",
+        facebook: "",
+        linkedin: "https://www.linkedin.com/company/ovintiv/posts/?feedView=all"
+    },
+
+    {
+        id: 23,
+        name: "Worley",
+        description: `Worley is a global professional services company of energy, chemicals and resources experts headquartered in Australia. We partner with customers across the full asset lifecycle, from consulting and engineering to installation, commissioning, and remediation. Our integrated, data-centric solutions help solve complex challenges while accelerating the transition to more sustainable energy, including renewables, energy storage, and carbon capture.`,
+        image: worley,
+        email: "",
+        website: "",
+        instagram: "",
+        facebook: "",
+        linkedin: "linkedin.com/search/results/all/?keywords=worley&origin=GLOBAL_SEARCH_HEADER"
+    },
+
+    {
+        id: 24,
+        name: "Vista Projects",
+        description: `About Vista Projects
+Founded in 1985, Vista Projects is a multi-discipline engineering firm built on a simple premise: treat people fairly, act in clients’ best interests, and deliver high-quality work. Guided by The Vista Way, we believe that putting people first drives exceptional results. Our team embodies four core traits—Smart, Humble, Honest, and Hardworking—which fuel our collaborative culture and commitment to excellence. From pioneering projects in Alberta’s oil sands to innovative energy solutions, Vista’s success comes from empowering talented people to learn, lead, and make a meaningful impact.`,
+        image: vista,
+        email: "",
+        website: "",
+        instagram: "",
+        facebook: "",
+        linkedin: " https://www.linkedin.com/company/vista-projects"
+    },
+
+     {
+        id: 25,
+        name: "Liberty Energy",
+        description: `Liberty Energy Inc. (NYSE: LBRT) is a leading energy services company. Liberty is one of the largest providers of completion services and technologies to onshore oil, natural gas, and enhanced geothermal energy producers in North America. Liberty also owns and operates Liberty Power Innovations LLC, providing advanced distributed power and energy storage solutions, supported by strategic relationships across advanced nuclear, enhanced geothermal, and battery energy storage systems, serving the commercial and industrial, data center, energy, and mining industries. Liberty was founded in 2011 with a relentless focus on value creation through a culture of innovation and excellence and the development of next generation technology.`,
+        image: "",
+        email: "",
+        website: "",
+        instagram: "",
+        facebook: "",
+        linkedin: "https://www.linkedin.com/company/libertyenergy/"
+    },
+
+       {
+        id: 26,
+        name: "Corrpro Canada Inc.",
+        description: ` Corrpro Canada is a leading provider of cathodic protection engineering and technical services, delivering integrated asset protection solutions focused on corrosion prevention and infrastructure integrity. Our experts solve complex operational and mechanical challenges for energy, utility, and infrastructure assets. We help clients maximize asset performance and value through advanced technologies, technical expertise, and innovative solutions.`,
+        image: "",
+        email: "",
+        website: "",
+        instagram: "",
+        facebook: "",
+        linkedin: "https://www.linkedin.com/company/corrprocanada/?originalSubdomain=ca"
+    },
+
+
+
 
 ];
 

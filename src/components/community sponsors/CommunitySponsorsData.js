@@ -4,6 +4,10 @@ import villageFlatbread from "../../assets/community sponsors/village flatbread.
 import aggudoCoffee from "../../assets/community sponsors/aggudo coffee.jpeg";
 import isaiahCafe from "../../assets/community sponsors/isaiah cafe.jpeg";
 import confluenceDistilling from "../../assets/community sponsors/confluence distilling.jpg";
+import coldGarden from "../../assets/community sponsors/cold garden.png";
+import pangaeaPizza from "../../assets/community sponsors/Pangaea Pizza.png";
+
+
 
 
 const communitySponsors = [
@@ -54,6 +58,22 @@ const communitySponsors = [
         description: `Get 15% off everything at Confluence Distilling!`,
         image: confluenceDistilling,
         website: "https://confluencedistilling.ca/?srsltid=AfmBOooA9vb92D3FhRDf4MUmHuJr4uCvGP8dOohcxbxuWGWnnZIIoIxT",
+    },
+
+    {
+        id: 7,
+        name: "Pangaea Pizza",
+        description: `$5 off purchases of $30 or more done online, redeemable through code ESSPP2627 at Pangaea Pizza`,
+        image: pangaeaPizza,
+        website: "https://pangaeapizza.com/",
+    },
+
+     {
+        id: 8,
+        name: "Cold Garden",
+        description: `Cold Garden is offering ESS members 15% off taproom beverages, to-go cans, and growler fills`,
+        image: coldGarden,
+        website: "https://coldgarden.ca/",
     }
 
 ];
