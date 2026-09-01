@@ -109,7 +109,7 @@ CESS also serves as a link between undergraduate students, faculty, industry, an
     {
         id: 11,
         name: "Electrical & Software Engineering Students' Society - ZOO",
-        description: `The University of Calgary's Electrical and Software Engineering Students' Society, affectionally referred to as ZOO...`,
+        description: `The Electrical and Software Engineering Students’ Society, better known as ZOO, is the largest departmental student society at the Schulich School of Engineering, representing over 1,500 electrical and software engineering students. We advocate for students, build an inclusive community, and provide academic, professional, and social support through workshops, industry events, networking opportunities, and community-building initiatives.`,
         image: zoo,
         email: "execs@zooengg.ca.",
         website: "https://zooengg.ca/",
