@@ -23,7 +23,7 @@ import mcw from "../../assets/sponsors/MCW.png";
 import ln from "../../assets/sponsors/LN.png";
 import liberty from "../../assets/sponsors/Liberty.png";
 import ovintiv from "../../assets/sponsors/Ovintiv.png";
-import corrpro from "../../assets/sponsors/Corrpro.png";
+import corrpro from "../../assets/sponsors/corrpro.png";
 
 
 
