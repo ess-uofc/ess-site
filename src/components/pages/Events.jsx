@@ -203,15 +203,14 @@ function Events() {
             </p>
           </div>
 
-          <div className="calendar-container">
-            <iframe
-              src="https://calendar.google.com/calendar/u/0?cid=MDAwOTMyNzhkNjU1ZDQ0YTI3NWZiZTQ3N2E0YzAzNDQwYjMwNDdjMzgyNjc1ZDNhMDczNDVkMGFiNjYxNjhlN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
-              title="ESS Events Calendar"
-              frameBorder="0"
-              scrolling="no"
-            ></iframe>
-          </div>
-
+   <div className="calendar-container">
+  <iframe
+    src="https://calendar.google.com/calendar/embed?src=00093278d655d44a275fbe47a4c03440b307d382675d3a07345d0ab6168e7%40group.calendar.google.com&ctz=America%2FEdmonton"
+    title="ESS Events Calendar"
+    frameBorder="0"
+    scrolling="no"
+  ></iframe>
+</div>
         </div>
       </section>
 
