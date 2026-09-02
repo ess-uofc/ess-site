@@ -20,6 +20,14 @@ import canselSurvey from "../../assets/sponsors/Cansel Survey.png";
 import worley from "../../assets/sponsors/Worley.png";
 import vista from "../../assets/sponsors/Vista.png";
 import mcw from "../../assets/sponsors/MCW.png";
+import ln from "../../assets/sponsors/LN.png";
+import liberty from "../../assets/sponsors/Liberty.png";
+import ovintiv from "../../assets/sponsors/Ovintiv.png";
+import corrpro from "../../assets/sponsors/Corrpro.png";
+
+
+
+
 
 
 
@@ -267,7 +275,7 @@ Resources and workshops to strengthen student’s resume, interview skills, and 
         id: 20,
         name: "LN Land Development Technologies",
         description: `LN is a Certified Indigenous-Owned Business that has been providing technical services across Canada since 2007. With more than 200 employees, LN delivers Land Surveying, Utility Locating, Geotechnical Engineering, Materials Testing, and Environmental services to clients in the energy, mining, municipal infrastructure, transportation, residential, commercial, and industrial sectors. Combining experienced professionals, advanced technology, and innovative processes, LN delivers reliable, high-quality solutions for projects of all sizes and complexities. Built on a foundation of safety, integrity, collaboration, and service excellence, LN is committed to exceeding the expectations of its clients, employees, and the communities it serves.`,
-        image: "",
+        image: ln,
         email: "",
         website: "https://www.lnldt.ca/",
         instagram: "",
@@ -291,7 +299,7 @@ Resources and workshops to strengthen student’s resume, interview skills, and 
         id: 22,
         name: "Ovintiv",
         description: `We're one of the largest producers of oil and natural gas in North America, with a focused portfolio in the U.S. and Canada. Our teams develop high‑quality shale assets to meet the world's growing need for reliable energy.`,
-        image: "",
+        image: ovintiv,
         email: "",
         website: "",
         instagram: "",
@@ -328,7 +336,7 @@ Founded in 1985, Vista Projects is a multi-discipline engineering firm built on 
         id: 25,
         name: "Liberty Energy",
         description: `Liberty Energy Inc. (NYSE: LBRT) is a leading energy services company. Liberty is one of the largest providers of completion services and technologies to onshore oil, natural gas, and enhanced geothermal energy producers in North America. Liberty also owns and operates Liberty Power Innovations LLC, providing advanced distributed power and energy storage solutions, supported by strategic relationships across advanced nuclear, enhanced geothermal, and battery energy storage systems, serving the commercial and industrial, data center, energy, and mining industries. Liberty was founded in 2011 with a relentless focus on value creation through a culture of innovation and excellence and the development of next generation technology.`,
-        image: "",
+        image: liberty,
         email: "",
         website: "",
         instagram: "",
@@ -340,7 +348,7 @@ Founded in 1985, Vista Projects is a multi-discipline engineering firm built on 
         id: 26,
         name: "Corrpro Canada Inc.",
         description: ` Corrpro Canada is a leading provider of cathodic protection engineering and technical services, delivering integrated asset protection solutions focused on corrosion prevention and infrastructure integrity. Our experts solve complex operational and mechanical challenges for energy, utility, and infrastructure assets. We help clients maximize asset performance and value through advanced technologies, technical expertise, and innovative solutions.`,
-        image: "",
+        image: corrpro,
         email: "",
         website: "",
         instagram: "",

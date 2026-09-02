@@ -21,25 +21,6 @@ function NewsSection() {
 
         <div className="news-grid">
             
-            <div className="news-card">
-
-                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
-
-                <div className="news-content">
-                    <h3>FROSH Waffle Breakfast </h3>
-
-                    <p className="event-date">September 1st at 9am</p>
-
-                    <p>
-                        Kick off your semester the right way and grab some waffles!
-                    </p>
-
-                    <a href="/events" className="learn-more">
-                        Learn More →
-                    </a>
-
-                </div>
-            </div>
 
             <div className="news-card">
 
@@ -64,26 +45,7 @@ function NewsSection() {
 
             </div>
 
-            <div className="news-card">
-
-                {/* <img src="/images/event2.jpg" alt="Industry Night" /> */}
-
-                <div className="news-content">
-                    <h3>YCR Social Night</h3>
-
-                    <p className="event-date">September 1st at 6pm</p>
-
-                    <p>
-                        Come to he info night to meet fellow students and enjoy free food! 
-                    </p>
-
-                    <Link to="/events" className="learn-more">
-                        Learn More →
-                    </Link>
-
-                </div>
-
-            </div>
+            
 
             <div className="news-card">
 

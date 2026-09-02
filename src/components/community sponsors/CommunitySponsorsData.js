@@ -15,7 +15,7 @@ const communitySponsors = [
     {
         id: 1,
         name: "Best of Kin",
-        description: `Get 15% off everything at Confluence Distilling!`,
+        description: `Best of Kin is offering 10% off all in-person purchases.`,
         image: bestOfKin,
         website: "https://www.bestofkin.ca/",
     },

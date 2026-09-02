@@ -5,28 +5,6 @@ import "./Events.css"
 const SIGNUP_LINK = "https://linktr.ee/ess___uofc";
 
 const events = [
-   {
-    month: "Sept",
-    day: "1",
-    category: "SOCIAL",
-    title: "FROSH Waffle Breakfast ",
-    time: "9am-12pm",
-    location: "ENGG Lounge",
-    signup: false,
-    description:
-      "Kick off your semester the right way and grab some waffles! FREE waffles from 9AM-12PM!"
-  },
-  {
-    month: "Sept",
-    day: "1",
-    category: "SOCIAL",
-    title: "YCR Social Night",
-    time: "6pm",
-    location: "Last Defence Lounge",
-    signup: true,
-    description:
-      "Meet fellow students and network with industry professionals in a social setting. Enjoy FREE food and FREE drink for the first 20 attendees"
-  },
 
 
 
