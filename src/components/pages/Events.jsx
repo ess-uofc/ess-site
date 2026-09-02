@@ -205,7 +205,7 @@ function Events() {
 
           <div className="calendar-container">
             <iframe
-              src="https://calendar.google.com/calendar/u/0/embed?src=c_eb8022439936ef5ad9e25a6fbbd0a1f74ff9596d07f73a71018837d742f5fee3%40group.calendar.google.com&ctz=America%2FEdmonton"
+              src="https://calendar.google.com/calendar/u/0?cid=MDAwOTMyNzhkNjU1ZDQ0YTI3NWZiZTQ3N2E0YzAzNDQwYjMwNDdjMzgyNjc1ZDNhMDczNDVkMGFiNjYxNjhlN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
               title="ESS Events Calendar"
               frameBorder="0"
               scrolling="no"
