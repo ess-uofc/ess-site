@@ -164,17 +164,6 @@ function EventCard({ event }) {
           </p>
         )}
 
-        {/* <p className="event-signup">
-    Sign up:
-    <a
-        href={SIGNUP_LINK}
-        target="_blank"
-        rel="noreferrer"
-    >
-        Linktree →
-    </a>
-</p> */}
-
       {event.signup && (
         <a
           className="event-signup"
