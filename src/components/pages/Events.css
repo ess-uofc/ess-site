@@ -297,14 +297,17 @@
     border: 2px solid #C5332C;
     border-radius: 12px;
 
-    color: black;
-
+    color: #000000;
     background: white;
 
+    font-family: inherit;
     font-size: 1rem;
     font-weight: 600;
 
     cursor: pointer;
+
+    appearance: none;
+    -webkit-appearance: none;
 
     transition: all 0.2s ease;
 }
@@ -313,6 +316,7 @@
     background-color: #C5332C;
     color: white;
 }
+
 
 /* =========================
    EXPANDED EVENT
@@ -502,7 +506,6 @@
 
         margin:5px 0 0;
 
-        color: black;
 
         box-sizing:border-box;
 
