@@ -47,47 +47,7 @@ function NewsSection() {
 
             
 
-            <div className="news-card">
-
-                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
-
-                <div className="news-content">
-                    <h3>FROSH Week Club Fair</h3>
-
-                    <p className="event-date">September 2nd at 10am</p>
-
-                    <p>
-                        This club fair is features Engineering societies and clubs and allows new students and returning friends to understand the different opportunities U of C offers.
-                    </p>
-
-                    <a href="/events" className="learn-more">
-                        Learn More →
-                    </a>
-
-                </div>
-
-            </div>
-
-            <div className="news-card">
-
-                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
-
-                <div className="news-content">
-                    <h3>FROSH Jeopardy Trivia Night</h3>
-
-                    <p className="event-date">September 2nd at 6pm</p>
-
-                    <p>
-                        Waybionic FROSH Jeopardy Trivia Night
-                    </p>
-
-                    <a href="/events" className="learn-more">
-                        Learn More →
-                    </a>
-
-                </div>
-
-            </div>
+            
 
             <div className="news-card">
 

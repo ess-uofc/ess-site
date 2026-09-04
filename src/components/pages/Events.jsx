@@ -8,43 +8,6 @@ const events = [
 
 
 
-   {
-    month: "Sept",
-    day: "2",
-    category: "PROFESSIONAL",
-    title: "FROSH Week Club Fair",
-    time: "10am-3pm",
-    location: "ENGG lounge",
-    signup: false,
-    description:
-      "This club fair is features Engineering societies and clubs and allows new students and returning friends to understand the different opportunities U of C offers. It will be hosted in the ENGG lounge where clubs will set up portfolio stations."
-  },
-
-  {
-    month: "Sept",
-    day: "2",
-    category: "SOCIAL",
-    title: "FROSH Jeopardy Trivia Night",
-    time: "6pm",
-    location: "Kampus Brewing Co",
-    signup: true,
-    description:
-      "Waybionic FROSH Jeopardy Trivia Night"
-  },
-
-  {
-    month: "Sept",
-    day: "3",
-    category: "SOCIAL",
-    title: "Mess engglympics/ Cess pool/ Ceus ice cream",
-    time: "10am",
-    location: "ENGG Lounge",
-    signup: false,
-    description:
-      `Engg Olympics hosted by MESS.
-        Watch your societies presidents slimed in a pool by CESS.
-        Enjoy free ice cream brought by the Ceus`
-  },
 
   {
     month: "Sept",
