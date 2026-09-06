@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link, NavLink} from 'react-router-dom';
-import aboutPhoto from "../../assets/202324-council.jpg";
+import aboutPhoto from "../../assets/council_retreat_2025.jpg";
 
 function AboutSection() {
   return (

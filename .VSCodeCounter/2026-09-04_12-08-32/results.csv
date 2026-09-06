@@ -1,0 +1,74 @@
+"filename", "language", "JSON", "PostCSS", "Markdown", "JavaScript", "JavaScript JSX", "HTML", "XML", "comment", "blank", "total"
+"c:\Users\artur\OneDrive\Desktop\ess-site\.oxlintrc.json", "JSON", 8, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\artur\OneDrive\Desktop\ess-site\README.md", "Markdown", 0, 0, 9, 0, 0, 0, 0, 0, 8, 17
+"c:\Users\artur\OneDrive\Desktop\ess-site\index.html", "HTML", 0, 0, 0, 0, 0, 13, 0, 0, 1, 14
+"c:\Users\artur\OneDrive\Desktop\ess-site\package-lock.json", "JSON", 1487, 0, 0, 0, 0, 0, 0, 0, 1, 1488
+"c:\Users\artur\OneDrive\Desktop\ess-site\package.json", "JSON", 27, 0, 0, 0, 0, 0, 0, 0, 1, 28
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\App.css", "PostCSS", 0, 5, 0, 0, 0, 0, 0, 0, 0, 5
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\App.jsx", "JavaScript JSX", 0, 0, 0, 0, 30, 0, 0, 0, 6, 36
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\assets\departments\dess.svg", "XML", 0, 0, 0, 0, 0, 0, 53, 0, 2, 55
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Footer.css", "PostCSS", 0, 95, 0, 0, 0, 0, 0, 5, 104, 204
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Footer.jsx", "JavaScript JSX", 0, 0, 0, 0, 73, 0, 0, 5, 38, 116
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Navbar.css", "PostCSS", 0, 222, 0, 0, 0, 0, 0, 60, 167, 449
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Navbar.jsx", "JavaScript JSX", 0, 0, 0, 0, 92, 0, 0, 2, 20, 114
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\ScrollToTop.jsx", "JavaScript JSX", 0, 0, 0, 0, 10, 0, 0, 0, 4, 14
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\community sponsors\CommunitySponsors.css", "PostCSS", 0, 114, 0, 0, 0, 0, 0, 27, 71, 212
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\community sponsors\CommunitySponsors.jsx", "JavaScript JSX", 0, 0, 0, 0, 53, 0, 0, 0, 28, 81
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\community sponsors\CommunitySponsorsData.js", "JavaScript", 0, 0, 0, 67, 0, 0, 0, 0, 14, 81
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\council\CouncilCard.css", "PostCSS", 0, 73, 0, 0, 0, 0, 0, 6, 50, 129
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\council\CouncilCard.jsx", "JavaScript JSX", 0, 0, 0, 0, 47, 0, 0, 0, 28, 75
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\council\councilData.js", "JavaScript", 0, 0, 0, 453, 0, 0, 0, 0, 33, 486
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\departments\DepartmentsCard.css", "PostCSS", 0, 148, 0, 0, 0, 0, 0, 39, 113, 300
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\departments\DepartmentsCard.jsx", "JavaScript JSX", 0, 0, 0, 0, 57, 0, 0, 0, 34, 91
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\departments\departmentsData.js", "JavaScript", 0, 0, 0, 109, 0, 0, 0, 0, 13, 122
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\AboutSection.jsx", "JavaScript JSX", 0, 0, 0, 0, 28, 0, 0, 0, 13, 41
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\Instagram.jsx", "JavaScript JSX", 0, 0, 0, 0, 13, 0, 0, 0, 2, 15
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\MembershipSection.jsx", "JavaScript JSX", 0, 0, 0, 0, 26, 0, 0, 0, 9, 35
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\NewsSection.jsx", "JavaScript JSX", 0, 0, 0, 0, 45, 0, 0, 2, 37, 84
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\WhoAreWe.jsx", "JavaScript JSX", 0, 0, 0, 0, 50, 0, 0, 0, 14, 64
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Applications.css", "PostCSS", 0, 146, 0, 0, 0, 0, 0, 36, 172, 354
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Applications.jsx", "JavaScript JSX", 0, 0, 0, 0, 41, 0, 0, 0, 15, 56
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Bookings.jsx", "JavaScript JSX", 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Conferences.jsx", "JavaScript JSX", 0, 0, 0, 0, 7, 0, 0, 0, 2, 9
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Contact.css", "PostCSS", 0, 113, 0, 0, 0, 0, 0, 3, 76, 192
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Contact.jsx", "JavaScript JSX", 0, 0, 0, 0, 92, 0, 0, 0, 35, 127
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Council.css", "PostCSS", 0, 91, 0, 0, 0, 0, 0, 12, 53, 156
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Council.jsx", "JavaScript JSX", 0, 0, 0, 0, 95, 0, 0, 0, 46, 141
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Departments.css", "PostCSS", 0, 63, 0, 0, 0, 0, 0, 0, 34, 97
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Departments.jsx", "JavaScript JSX", 0, 0, 0, 0, 34, 0, 0, 0, 9, 43
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Events.css", "PostCSS", 0, 268, 0, 0, 0, 0, 0, 73, 182, 523
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Events.jsx", "JavaScript JSX", 0, 0, 0, 0, 154, 0, 0, 0, 40, 194
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Home.css", "PostCSS", 0, 367, 0, 0, 0, 0, 0, 55, 311, 733
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Home.jsx", "JavaScript JSX", 0, 0, 0, 0, 18, 0, 0, 0, 9, 27
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Membership.css", "PostCSS", 0, 167, 0, 0, 0, 0, 0, 24, 96, 287
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Membership.jsx", "JavaScript JSX", 0, 0, 0, 0, 62, 0, 0, 4, 24, 90
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Public Documents.css", "PostCSS", 0, 114, 0, 0, 0, 0, 0, 24, 46, 184
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Public Documents.jsx", "JavaScript JSX", 0, 0, 0, 0, 49, 0, 0, 0, 10, 59
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\SELF.css", "PostCSS", 0, 111, 0, 0, 0, 0, 0, 9, 27, 147
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\SELF.jsx", "JavaScript JSX", 0, 0, 0, 0, 111, 0, 0, 0, 25, 136
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Sponsors.css", "PostCSS", 0, 200, 0, 0, 0, 0, 0, 33, 206, 439
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Sponsors.jsx", "JavaScript JSX", 0, 0, 0, 0, 103, 0, 0, 17, 61, 181
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Store.css", "PostCSS", 0, 5, 0, 0, 0, 0, 0, 0, 0, 5
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Store.jsx", "JavaScript JSX", 0, 0, 0, 0, 10, 0, 0, 0, 3, 13
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\index.js", "JavaScript", 0, 0, 0, 12, 0, 0, 0, 0, 8, 20
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article1.jsx", "JavaScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 5, 16
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article10.jsx", "JavaScript JSX", 0, 0, 0, 0, 35, 0, 0, 0, 5, 40
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article11.jsx", "JavaScript JSX", 0, 0, 0, 0, 24, 0, 0, 0, 9, 33
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article12.jsx", "JavaScript JSX", 0, 0, 0, 0, 10, 0, 0, 0, 5, 15
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article13.jsx", "JavaScript JSX", 0, 0, 0, 0, 28, 0, 0, 0, 4, 32
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article2.jsx", "JavaScript JSX", 0, 0, 0, 0, 18, 0, 0, 0, 6, 24
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article3.jsx", "JavaScript JSX", 0, 0, 0, 0, 17, 0, 0, 0, 8, 25
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article4.jsx", "JavaScript JSX", 0, 0, 0, 0, 59, 0, 0, 0, 7, 66
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article5.jsx", "JavaScript JSX", 0, 0, 0, 0, 98, 0, 0, 0, 14, 112
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article6.jsx", "JavaScript JSX", 0, 0, 0, 0, 15, 0, 0, 0, 5, 20
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article7.jsx", "JavaScript JSX", 0, 0, 0, 0, 44, 0, 0, 0, 24, 68
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article8.jsx", "JavaScript JSX", 0, 0, 0, 0, 73, 0, 0, 0, 13, 86
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article9.jsx", "JavaScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 4, 15
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\index.js", "JavaScript", 0, 0, 0, 13, 0, 0, 0, 0, 0, 13
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\sponsors\SponsorsCard.css", "PostCSS", 0, 100, 0, 0, 0, 0, 0, 21, 109, 230
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\sponsors\SponsorsCard.jsx", "JavaScript JSX", 0, 0, 0, 0, 60, 0, 0, 0, 34, 94
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\components\sponsors\sponsorsData.js", "JavaScript", 0, 0, 0, 325, 0, 0, 0, 0, 39, 364
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\index.css", "PostCSS", 0, 102, 0, 0, 0, 0, 0, 36, 56, 194
+"c:\Users\artur\OneDrive\Desktop\ess-site\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 12, 0, 0, 0, 2, 14
+"c:\Users\artur\OneDrive\Desktop\ess-site\vite.config.js", "JavaScript", 0, 0, 0, 5, 0, 0, 0, 1, 2, 8
+"Total", "-", 1522, 2504, 9, 984, 1822, 13, 53, 494, 2655, 10056

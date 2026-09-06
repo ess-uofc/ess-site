@@ -1,0 +1,116 @@
+Date : 2026-09-04 12:08:32
+Directory : c:\Users\artur\OneDrive\Desktop\ess-site
+Total : 72 files,  6907 codes, 494 comments, 2655 blanks, all 10056 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| PostCSS        |         19 |      2,504 |        463 |      1,873 |      4,840 |
+| JavaScript JSX |         40 |      1,822 |         30 |        659 |      2,511 |
+| JSON           |          3 |      1,522 |          0 |          3 |      1,525 |
+| JavaScript     |          7 |        984 |          1 |        109 |      1,094 |
+| XML            |          1 |         53 |          0 |          2 |         55 |
+| HTML           |          1 |         13 |          0 |          1 |         14 |
+| Markdown       |          1 |          9 |          0 |          8 |         17 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                   |         72 |      6,907 |        494 |      2,655 |     10,056 |
+| . (Files)                                                                                           |          6 |      1,549 |          1 |         14 |      1,564 |
+| src                                                                                                 |         66 |      5,358 |        493 |      2,641 |      8,492 |
+| src (Files)                                                                                         |          4 |        149 |         36 |         64 |        249 |
+| src\assets                                                                                          |          1 |         53 |          0 |          2 |         55 |
+| src\assets\departments                                                                              |          1 |         53 |          0 |          2 |         55 |
+| src\components                                                                                      |         61 |      5,156 |        457 |      2,575 |      8,188 |
+| src\components (Files)                                                                              |          5 |        492 |         72 |        333 |        897 |
+| src\components\community sponsors                                                                   |          3 |        234 |         27 |        113 |        374 |
+| src\components\council                                                                              |          3 |        573 |          6 |        111 |        690 |
+| src\components\departments                                                                          |          3 |        314 |         39 |        160 |        513 |
+| src\components\home                                                                                 |          5 |        162 |          2 |         75 |        239 |
+| src\components\pages                                                                                |         25 |      2,440 |        290 |      1,492 |      4,222 |
+| src\components\public documents                                                                     |         14 |        456 |          0 |        109 |        565 |
+| src\components\sponsors                                                                             |          3 |        485 |         21 |        182 |        688 |
++-----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                            | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\artur\OneDrive\Desktop\ess-site\.oxlintrc.json                                             | JSON           |          8 |          0 |          1 |          9 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\README.md                                                  | Markdown       |          9 |          0 |          8 |         17 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\index.html                                                 | HTML           |         13 |          0 |          1 |         14 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\package-lock.json                                          | JSON           |      1,487 |          0 |          1 |      1,488 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\package.json                                               | JSON           |         27 |          0 |          1 |         28 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\App.css                                                | PostCSS        |          5 |          0 |          0 |          5 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\App.jsx                                                | JavaScript JSX |         30 |          0 |          6 |         36 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\assets\departments\dess.svg                            | XML            |         53 |          0 |          2 |         55 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Footer.css                                  | PostCSS        |         95 |          5 |        104 |        204 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Footer.jsx                                  | JavaScript JSX |         73 |          5 |         38 |        116 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Navbar.css                                  | PostCSS        |        222 |         60 |        167 |        449 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\Navbar.jsx                                  | JavaScript JSX |         92 |          2 |         20 |        114 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\ScrollToTop.jsx                             | JavaScript JSX |         10 |          0 |          4 |         14 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\community sponsors\CommunitySponsors.css    | PostCSS        |        114 |         27 |         71 |        212 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\community sponsors\CommunitySponsors.jsx    | JavaScript JSX |         53 |          0 |         28 |         81 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\community sponsors\CommunitySponsorsData.js | JavaScript     |         67 |          0 |         14 |         81 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\council\CouncilCard.css                     | PostCSS        |         73 |          6 |         50 |        129 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\council\CouncilCard.jsx                     | JavaScript JSX |         47 |          0 |         28 |         75 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\council\councilData.js                      | JavaScript     |        453 |          0 |         33 |        486 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\departments\DepartmentsCard.css             | PostCSS        |        148 |         39 |        113 |        300 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\departments\DepartmentsCard.jsx             | JavaScript JSX |         57 |          0 |         34 |         91 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\departments\departmentsData.js              | JavaScript     |        109 |          0 |         13 |        122 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\AboutSection.jsx                       | JavaScript JSX |         28 |          0 |         13 |         41 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\Instagram.jsx                          | JavaScript JSX |         13 |          0 |          2 |         15 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\MembershipSection.jsx                  | JavaScript JSX |         26 |          0 |          9 |         35 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\NewsSection.jsx                        | JavaScript JSX |         45 |          2 |         37 |         84 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\home\WhoAreWe.jsx                           | JavaScript JSX |         50 |          0 |         14 |         64 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Applications.css                      | PostCSS        |        146 |         36 |        172 |        354 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Applications.jsx                      | JavaScript JSX |         41 |          0 |         15 |         56 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Bookings.jsx                          | JavaScript JSX |          7 |          0 |          2 |          9 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Conferences.jsx                       | JavaScript JSX |          7 |          0 |          2 |          9 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Contact.css                           | PostCSS        |        113 |          3 |         76 |        192 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Contact.jsx                           | JavaScript JSX |         92 |          0 |         35 |        127 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Council.css                           | PostCSS        |         91 |         12 |         53 |        156 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Council.jsx                           | JavaScript JSX |         95 |          0 |         46 |        141 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Departments.css                       | PostCSS        |         63 |          0 |         34 |         97 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Departments.jsx                       | JavaScript JSX |         34 |          0 |          9 |         43 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Events.css                            | PostCSS        |        268 |         73 |        182 |        523 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Events.jsx                            | JavaScript JSX |        154 |          0 |         40 |        194 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Home.css                              | PostCSS        |        367 |         55 |        311 |        733 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Home.jsx                              | JavaScript JSX |         18 |          0 |          9 |         27 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Membership.css                        | PostCSS        |        167 |         24 |         96 |        287 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Membership.jsx                        | JavaScript JSX |         62 |          4 |         24 |         90 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Public Documents.css                  | PostCSS        |        114 |         24 |         46 |        184 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Public Documents.jsx                  | JavaScript JSX |         49 |          0 |         10 |         59 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\SELF.css                              | PostCSS        |        111 |          9 |         27 |        147 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\SELF.jsx                              | JavaScript JSX |        111 |          0 |         25 |        136 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Sponsors.css                          | PostCSS        |        200 |         33 |        206 |        439 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Sponsors.jsx                          | JavaScript JSX |        103 |         17 |         61 |        181 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Store.css                             | PostCSS        |          5 |          0 |          0 |          5 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\Store.jsx                             | JavaScript JSX |         10 |          0 |          3 |         13 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\pages\index.js                              | JavaScript     |         12 |          0 |          8 |         20 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article1.jsx               | JavaScript JSX |         11 |          0 |          5 |         16 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article10.jsx              | JavaScript JSX |         35 |          0 |          5 |         40 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article11.jsx              | JavaScript JSX |         24 |          0 |          9 |         33 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article12.jsx              | JavaScript JSX |         10 |          0 |          5 |         15 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article13.jsx              | JavaScript JSX |         28 |          0 |          4 |         32 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article2.jsx               | JavaScript JSX |         18 |          0 |          6 |         24 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article3.jsx               | JavaScript JSX |         17 |          0 |          8 |         25 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article4.jsx               | JavaScript JSX |         59 |          0 |          7 |         66 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article5.jsx               | JavaScript JSX |         98 |          0 |         14 |        112 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article6.jsx               | JavaScript JSX |         15 |          0 |          5 |         20 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article7.jsx               | JavaScript JSX |         44 |          0 |         24 |         68 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article8.jsx               | JavaScript JSX |         73 |          0 |         13 |         86 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\Article9.jsx               | JavaScript JSX |         11 |          0 |          4 |         15 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\public documents\index.js                   | JavaScript     |         13 |          0 |          0 |         13 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\sponsors\SponsorsCard.css                   | PostCSS        |        100 |         21 |        109 |        230 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\sponsors\SponsorsCard.jsx                   | JavaScript JSX |         60 |          0 |         34 |         94 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\components\sponsors\sponsorsData.js                    | JavaScript     |        325 |          0 |         39 |        364 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\index.css                                              | PostCSS        |        102 |         36 |         56 |        194 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\src\main.jsx                                               | JavaScript JSX |         12 |          0 |          2 |         14 |
+| c:\Users\artur\OneDrive\Desktop\ess-site\vite.config.js                                             | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                                                               |                |      6,907 |        494 |      2,655 |     10,056 |
++-----------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
