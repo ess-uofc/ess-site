@@ -49,26 +49,7 @@ function NewsSection() {
 
             
 
-            <div className="news-card">
-
-                {/* <img src="/images/event3.jpg" alt="ESS Elections" /> */}
-
-                <div className="news-content">
-                    <h3>Tap The Town</h3>
-
-                    <p className="event-date">September 4 at 6:30pm</p>
-
-                    <p>
-                        Meet new people and experience Calgary's night life
-                    </p>
-
-                    <a href="/events" className="learn-more">
-                        Learn More →
-                    </a>
-
-                </div>
-
-            </div>
+            
 
            
             </div>

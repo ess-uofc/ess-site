@@ -9,17 +9,7 @@ const events = [
 
 
 
-  {
-    month: "Sept",
-    day: "4",
-    category: "SOCIAL",
-    title: "Tap the Town",
-    time: "6:30pm",
-    location: "Engineering Lounge",
-    signup: true,
-    description:
-      "Meet new people and experience Calgary's night life. Party bus to Wild Card Shack at 6:30pm + drink tickets provided"
-  },
+ 
 
     {
     month: "OCT",
