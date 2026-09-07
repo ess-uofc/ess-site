@@ -44,7 +44,34 @@ function Applications() {
                 Apply Now →
             </a>
 
-        </div>
+          </div>
+
+          <div className="application-card">
+
+            <div className="application-card-top">
+                <span className="application-status">NOW OPEN</span>
+            </div>
+
+            <h3>Schulich Engineering Competition</h3>
+
+            <p className="due-date">
+                Application deadline: <strong>September 27th at 11:59 PM</strong>
+            </p>
+
+            <p className="description">
+                Categories to Compete in are: Jr. Design, Sr. Design, Competitive Programming, Innovative Design, Consulting
+            </p>
+
+            <a
+                href="https://forms.gle/RLWuic2JS1V6JHQ88"
+                target="_blank"
+                rel="noreferrer"
+                className="application-btn"
+            >
+                Apply Now →
+            </a>
+
+          </div>
 
         </div>
 
