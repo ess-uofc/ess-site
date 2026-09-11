@@ -12,6 +12,24 @@ const events = [
  
 
     {
+    month: "SEPT",
+    day: "29",
+    category: "ACADEMIC",
+    title: "Industry Spotlight",
+    time: "3:00 pm - 5:00 pm",
+    location: "ENG Lounge",
+    signup: "https://elevate.ucalgary.ca/entityRedirect.htm?eventId=92979",
+
+    description:
+      `Meet engineers from diverse backgrounds and learn what a day in their career looks like.
+      Hear Presentations.
+      Ask Questions.
+      Network with Professionals.`
+
+
+  },
+
+   {
     month: "OCT",
     day: "15",
     category: "GOVERNANCE",
