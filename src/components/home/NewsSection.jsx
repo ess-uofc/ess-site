@@ -22,6 +22,29 @@ function NewsSection() {
         <div className="news-grid">
             
 
+
+            <div className="news-card">
+
+                {/* <img src={FYR} alt="Engineering BBQ" /> */}
+
+                <div className="news-content">
+                    <h3>Siendo Naturaleza Lunch and Learn</h3>
+
+                    <p className="event-date">Sept 25th 1:00pm - 2:00pm</p>
+
+
+                    <p>
+                        Learn about sustainability and environmental engineering and enjoy pizza lunch.
+                    </p>
+
+                    <Link to="/applications" className="learn-more">
+                        Learn More →
+                    </Link>
+
+                </div>
+
+            </div>
+
             <div className="news-card">
 
                 {/* <img src={FYR} alt="Engineering BBQ" /> */}

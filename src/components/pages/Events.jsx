@@ -8,6 +8,24 @@ const events = [
 
 
 
+ {
+    month: "SEPT",
+    day: "27",
+    category: "Social",
+    title: "Industry Spotlight",
+    time: "1:00 pm - 2:00 pm",
+    location: "ENG Lounge",
+    signup: "https://elevate.ucalgary.ca/entityRedirect.htm?eventId=92979",
+
+    description:
+      `It is a nonprofit organization that focuses around sustainability and environmental engineering.
+      The Learning Center is located in the cloud forest of the Tiracu Valley, on 14 hectares adjacent to the
+      Regional Conservation Area Cordillera Escalera. It is located 50 minutes away from Tarapoto City, Peru. 
+
+      This event is also in collaboration with S4E and EEESA.`
+
+
+  },
 
  
 
