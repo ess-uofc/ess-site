@@ -49,6 +49,21 @@ const events = [
 
    {
     month: "OCT",
+    day: "7",
+    category: "S0CIAL",
+    title: "YCR Info Night",
+    time: "11:00 am",
+    location: "ENG Lounge",
+    signup: false,
+
+    description:
+      `Come join us at YCR info night in the Engg Lounge. Socialize with people and enjoy free food provided.`
+
+
+  },
+
+   {
+    month: "OCT",
     day: "15",
     category: "GOVERNANCE",
     title: "Career Fair",
@@ -64,6 +79,21 @@ const events = [
         Thank you to all the sponsor support for this year’s ESS Career Fair!
 
         Any questions related to pricing and attendance can be directed to corporaterelations@essucalgary.com and sponsorship@essucalgary.com`
+
+
+  },
+
+   {
+    month: "NOV",
+    day: "10",
+    category: "SOCIAL",
+    title: "ABB Info Night",
+    time: "11:00 am",
+    location: "ENG Lounge",
+    signup: false,
+
+    description:
+      `Come join us at ABB info night in the Engg Lounge. Socialize with people and enjoy free food provided.`
 
 
   },
