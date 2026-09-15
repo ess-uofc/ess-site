@@ -37,7 +37,7 @@ function NewsSection() {
                         Learn about sustainability and environmental engineering and enjoy pizza lunch.
                     </p>
 
-                    <Link to="/applications" className="learn-more">
+                    <Link to="/events" className="learn-more">
                         Learn More →
                     </Link>
 

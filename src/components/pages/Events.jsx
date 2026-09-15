@@ -15,7 +15,7 @@ const events = [
     title: "Industry Spotlight",
     time: "1:00 pm - 2:00 pm",
     location: "ENG Lounge",
-    signup: "https://elevate.ucalgary.ca/entityRedirect.htm?eventId=92979",
+    signup: false,
 
     description:
       `It is a nonprofit organization that focuses around sustainability and environmental engineering.
