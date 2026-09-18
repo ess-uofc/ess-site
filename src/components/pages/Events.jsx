@@ -8,14 +8,15 @@ const events = [
 
 
 
+
  {
     month: "SEPT",
-    day: "27",
+    day: "25",
     category: "Social",
-    title: "Industry Spotlight",
+    title: "Siendo Naturaleza Lunch and Learn",
     time: "1:00 pm - 2:00 pm",
     location: "ENG Lounge",
-    signup: false,
+    signup: "https://docs.google.com/forms/d/e/1FAIpQLSfGbjEUk6n3HXXS0tgi5v39mXIi7A9s2ntjGksH_0ohebw7tg/viewform",
 
     description:
       `It is a nonprofit organization that focuses around sustainability and environmental engineering.
@@ -42,7 +43,7 @@ const events = [
       `Meet engineers from diverse backgrounds and learn what a day in their career looks like.
       Hear Presentations.
       Ask Questions.
-      Network with Professionals.`
+      Network with Professionals. *Free food and drinks will be provided.`
 
 
   },
@@ -58,6 +59,22 @@ const events = [
 
     description:
       `Come join us at YCR info night in the Engg Lounge. Socialize with people and enjoy free food provided.`
+
+
+  },
+
+  
+   {
+    month: "OCT",
+    day: "7",
+    category: "S0CIAL",
+    title: "Engineering LinkedIn Headshot Event",
+    time: "11:30 am",
+    location: "4th Floor Eng Building",
+    signup:   "https://docs.google.com/forms/d/e/1FAIpQLSftcsJRHLhspnun0mSeijQ-ecMSCg2BiurHxZXoNvxC0SKDBg/viewform",
+
+    description:
+      `Come with your best look to update that stunning LinkedIn profile picture! `
 
 
   },
