@@ -27,6 +27,24 @@ import socialMediaDirector from "../../assets/council/2026-2027/Social Media Dir
 import sponsorshipCommissioner from "../../assets/council/2026-2027/Sponsorship Commissioner.png";
 import technologyCommissioner from "../../assets/council/2026-2027/Technology Commissioner.png";
 import websiteCommissioner from "../../assets/council/2026-2027/Website Commissioner.png";
+import blockAdvising from "../../assets/council/2026-2027/Block Advising.png";
+import fyr1 from "../../assets/council/2026-2027/FYR1.png";
+import fyr2 from "../../assets/council/2026-2027/FYR2.png";
+import fyr3 from "../../assets/council/2026-2027/FYR3.png";
+import fyr4 from "../../assets/council/2026-2027/FYR4.png";
+import fyr5 from "../../assets/council/2026-2027/FYR5.png";
+import fyr6 from "../../assets/council/2026-2027/FYR6.png";
+import fyr7 from "../../assets/council/2026-2027/FYR7.png";
+import fyr8 from "../../assets/council/2026-2027/FYR8.png";
+import fyr9 from "../../assets/council/2026-2027/FYR9.png";
+import fyr10 from "../../assets/council/2026-2027/FYR10.png";
+import fyr11 from "../../assets/council/2026-2027/FYR11.png";
+import fyr12 from "../../assets/council/2026-2027/FYR12.png";
+
+
+
+
+
 
 
 const councilMembers = [
@@ -480,6 +498,219 @@ A life long goal of mine is to survive in this economy`,
         email: "website@essucalgary.com",
         linkedin: "www.linkedin.com/in/artur-mararash-86a4a937b/"
     },
+
+     {
+        id: 29,
+        name: "Elle Djogović",
+        role: "BLOCK ADVISING",
+        year: "2nd Year",
+        major: "Mechanical & Business",
+        description: `A life goal of mine is to buy a ride-on lawnmower.
+
+        I get way too excited about The Denver Nuggets!!!!!!!!
+
+        A fun fact about myself is thatI have a DVD collection.`,
+        image: blockAdvising,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 30,
+        name: "Josephina Hovdestad",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "Dual degree in Astrophysics",
+        description: `Current song on repeat "Bowling Alley" by Audrey Hobert
+
+        A fun fact about myself is after every achievement or milestone, I get a tattoo! It's a cool way to celebrate an accomplishment, plus tattoos look sick B)
+
+        I get way too excited about SPACE! Specifically black holes. Gravitational waves are fascinating and wonderful and cool.`,
+        image: fyr1,
+        email: "",
+        linkedin: ""
+    },
+
+ 
+     {
+        id: 31,
+        name: "Anjelie Fe Pedrano",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `My mantra is don’t worry, be happy😋
+
+A fun fact about myself is I love doing card tricks and musicals
+
+A life goal of mine is to live a peaceful and fulfilling life`,
+        image: fyr2,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 32,
+        name: "Sophie McLean",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `Current song on repeat "Cheer me on" by Malcolm Todd
+
+        I get way too excited about Kool-aid
+
+        A life goal of mine is to travel every continent`,
+        image: fyr3,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 33,
+        name: "Ridhima Saha Choudhury",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `Current song on repeat "Carla's Song" by Harry Styles
+
+        I get way too excited about mountains
+
+        My mantra is manifest it`,
+        image: fyr4,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 34,
+        name: "Stef Rodriguez Moran",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `Current song on repeat "Roses" by The Chainsmokers.
+
+        I get way too excited about spontaneous hangouts with friends!
+
+        A life goal of mine is to travel around the world`,
+        image: fyr5,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 35,
+        name: "Iman Rehman",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `Current song on repeat "Moment of Your Life" by Brent Faiyaz and Coco Jones.
+
+I get way too excited about basketball, specfically in the rain. If you know you know.
+
+A life goal of mine is to own a Ferrari`,
+        image: fyr6,
+        email: "",
+        linkedin: ""
+    },
+
+
+
+     {
+        id: 36,
+        name: "Benjamin Litchfield",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `A fun fact about  myself is I've already done a year of a math degree before engineering.
+
+I get way too excited about spending time outside in any capacity.
+
+Favorite engineering memory is getting accepted to engineering, was pretty cool thing for sure.`,
+        image: fyr7,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 37,
+        name: "Manpreet Chahal",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `My mantra is live life in the moment, and deal with the stupid consequences later.
+
+I get way too excited about chocolate
+
+Current song on repeat "Deja Vu" by Beyonce`,
+        image: fyr8,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 38,
+        name: "Simi Akin-Akinola",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `A life goal of mine is to live out my purpose
+
+I get way too excited about Yarn
+
+Current song on repeat "End" by Frank Ocean`,
+        image: fyr9,
+        email: "",
+        linkedin: ""
+    },
+
+     {
+        id: 39,
+        name: "Maryza Mulugeta",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `A fun fact about myself is I love to sing!
+
+I get way too excited about going on trips and side quests no matter how short or small!
+
+Current song on repeat "Glimpse of Heaven" by Sondae`,
+        image: fyr10,
+        email: "",
+        linkedin: ""
+    },
+
+         {
+        id: 40,
+        name: "Lillian Zhang",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `I get way too excited about historically accurate movie costumes
+
+A life goal of mine is to bring my mom on a Europe trip
+
+Current song on repeat "Racecar" by Izna`,
+        image: fyr11,
+        email: "",
+        linkedin: ""
+    },
+
+          {
+        id: 41,
+        name: "Meti Olana",
+        role: "First Year Representative",
+        year: "1st Year",
+        major: "",
+        description: `I get way too excited about discovering new music when my playlists get boring
+
+A life goal of mine is to make enough money so that I stop checking the price before ordering food
+
+Current song on repeat "Ok Love You Bye" by Olivia Dean`,
+        image: fyr12,
+        email: "",
+        linkedin: ""
+    },
+
+
 
 ];
 

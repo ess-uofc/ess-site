@@ -18,7 +18,8 @@ function Council() {
         councilMembers.filter(
             member =>
                 member.role.includes("Commissioner") ||
-                member.role.includes("Director")
+                member.role.includes("Director") ||
+                member.role.includes("Block")
         );
 
     const firstYears =
