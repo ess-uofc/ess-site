@@ -28,6 +28,21 @@ const events = [
   },
 
    {
+    month: "",
+    day: "",
+    category: "ACADEMIC",
+    title: "Resources Survey",
+    time: "",
+    location: "",
+    signup: "https://docs.google.com/forms/d/e/1FAIpQLSfGbY7p3x3x6DGKiWH2qzxu7jzZ0QQrQ40MDbn9FBUbAPLltg/viewform",
+
+    description:
+      `Do you have feedback for any of the following services: SSAF, Advising, VMOCK, Lab PPE, Water fountains in Schulich? Make sure your voice is heard by filling out the first Annual Engineering Student Experience Improvement Consultation. This survey will serve as a baseline for future consultations with student leaders. Lets start off strong by making making our feedback loud and clear`
+
+
+  },
+
+   {
     month: "OCT",
     day: "7",
     category: "S0CIAL",
@@ -37,7 +52,7 @@ const events = [
     signup: false,
 
     description:
-      `Come join us at YCR info night in the Engg Lounge. Socialize with people and enjoy free food provided.`
+      `Come join us at YCR info night in the Engg Lounge. Socialize with people and enjoy free shawarma provided (while supply lasts).`
 
 
   },
@@ -49,11 +64,11 @@ const events = [
     category: "S0CIAL",
     title: "Engineering LinkedIn Headshot Event",
     time: "11:30 am",
-    location: "4th Floor Eng Building",
+    location: "ESS Office (ENA 134A)",
     signup:   "https://docs.google.com/forms/d/e/1FAIpQLSftcsJRHLhspnun0mSeijQ-ecMSCg2BiurHxZXoNvxC0SKDBg/viewform",
 
     description:
-      `Come with your best look to update that stunning LinkedIn profile picture! `
+      `Come with your best look to update your LinkedIn profile with a job-ready photo! `
 
 
   },

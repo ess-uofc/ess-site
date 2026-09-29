@@ -25,27 +25,7 @@ function NewsSection() {
 
             
 
-            <div className="news-card">
-
-                {/* <img src={FYR} alt="Engineering BBQ" /> */}
-
-                <div className="news-content">
-                    <h3>Schulich Engineering Competition</h3>
-
-                    <p className="event-date">Apply Before Sept 27th 11:59pm</p>
-
-
-                    <p>
-                        Interested in competing against other students in multiple categories? This is for you!
-                    </p>
-
-                    <Link to="/applications" className="learn-more">
-                        Learn More →
-                    </Link>
-
-                </div>
-
-            </div>
+          
 
             <div className="news-card">
 
@@ -59,6 +39,50 @@ function NewsSection() {
 
                     <p>
                         Meet engineers from diverse backgrounds and learn what a day in their career looks like
+                    </p>
+
+                    <Link to="/events" className="learn-more">
+                        Learn More →
+                    </Link>
+
+                </div>
+
+            </div>
+
+            <div className="news-card">
+
+                {/* <img src={FYR} alt="Engineering BBQ" /> */}
+
+                <div className="news-content">
+                    <h3>YCR Info Night</h3>
+
+                    <p className="event-date">Oct 7 11:30AM</p>
+
+
+                    <p>
+                        Come join us at YCR info night in the Engg Lounge. Socialize with people and enjoy free shawarma provided (while supply lasts)
+                    </p>
+
+                    <Link to="/events" className="learn-more">
+                        Learn More →
+                    </Link>
+
+                </div>
+
+            </div>
+
+               <div className="news-card">
+
+                {/* <img src={FYR} alt="Engineering BBQ" /> */}
+
+                <div className="news-content">
+                    <h3>How should the school spend additional resource for YOU?</h3>
+
+                    <p className="event-date">Oct 7 11:30AM</p>
+
+
+                    <p>
+                        YOU help decide where additional resources should go
                     </p>
 
                     <Link to="/events" className="learn-more">

@@ -19,20 +19,20 @@ function Applications() {
 
           <div className="application-card">
 
-            <div className="application-card-top">
+            {/* <div className="application-card-top">
                 <span className="application-status">NOW OPEN</span>
-            </div>
+            </div> */}
 
-            <h3>Schulich Engineering Competition</h3>
+            <h3>There are no current applications</h3>
 
-            <p className="due-date">
+            {/* <p className="due-date">
                 Application deadline: <strong>September 27th at 11:59 PM</strong>
-            </p>
+            </p> */}
 
             <p className="description">
-                Categories to Compete in are: Jr. Design, Sr. Design, Competitive Programming, Innovative Design, Consulting
+                Come later for some updates
             </p>
-
+{/* 
             <a
                 href="https://forms.gle/RLWuic2JS1V6JHQ88"
                 target="_blank"
@@ -40,7 +40,7 @@ function Applications() {
                 className="application-btn"
             >
                 Apply Now →
-            </a>
+            </a> */}
 
           </div>
 
