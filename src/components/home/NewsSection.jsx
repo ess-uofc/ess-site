@@ -27,27 +27,7 @@ function NewsSection() {
 
           
 
-            <div className="news-card">
-
-                {/* <img src={FYR} alt="Engineering BBQ" /> */}
-
-                <div className="news-content">
-                    <h3>Industry Spotlight Events</h3>
-
-                    <p className="event-date">Sep 29 3 PM - 5 PM</p>
-
-
-                    <p>
-                        Meet engineers from diverse backgrounds and learn what a day in their career looks like
-                    </p>
-
-                    <Link to="/events" className="learn-more">
-                        Learn More →
-                    </Link>
-
-                </div>
-
-            </div>
+           
 
             <div className="news-card">
 
@@ -78,7 +58,7 @@ function NewsSection() {
                 <div className="news-content">
                     <h3>How should the school spend additional resource for YOU?</h3>
 
-                    <p className="event-date">Oct 7 11:30AM</p>
+                    <p className="event-date">DUE Oct 8 11:59PM</p>
 
 
                     <p>
@@ -91,7 +71,32 @@ function NewsSection() {
 
                 </div>
 
+
+                <div className="news-card">
+
+                {/* <img src={FYR} alt="Engineering BBQ" /> */}
+
+                <div className="news-content">
+                    <h3>Conference on Diversity in Engineering (CDE)</h3>
+
+                    <p className="event-date">Oct 7 11:30AM</p>
+
+
+                    <p>
+                        Over four days you will join more than 150 engineering students from across Canada to delve into topics surrounding diversity, equity, and belonging in engineering through collaboration, reflection, and problem-solving.
+                    </p>
+
+                    <Link to="/applications" className="learn-more">
+                        Learn More →
+                    </Link>
+
+                </div>
+
+                </div>
+
             </div>
+
+            
 
             
 

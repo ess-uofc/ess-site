@@ -9,27 +9,10 @@ const events = [
 
 
 
-    {
-    month: "SEPT",
-    day: "29",
-    category: "ACADEMIC",
-    title: "Industry Spotlight",
-    time: "3:00 pm - 5:00 pm",
-    location: "ENG Lounge",
-    signup: "https://elevate.ucalgary.ca/entityRedirect.htm?eventId=92979",
-
-    description:
-      `Meet engineers from diverse backgrounds and learn what a day in their career looks like.
-      Hear Presentations.
-      Ask Questions.
-      Network with Professionals. *Free food and drinks will be provided.`
-
-
-  },
 
    {
-    month: "",
-    day: "",
+    month: "DUE OCT",
+    day: "7",
     category: "ACADEMIC",
     title: "Resources Survey",
     time: "",
@@ -64,7 +47,7 @@ const events = [
     category: "S0CIAL",
     title: "Engineering LinkedIn Headshot Event",
     time: "11:30 am",
-    location: "ESS Office (ENA 134A)",
+    location: "4th Floor of ENG Building",
     signup:   "https://docs.google.com/forms/d/e/1FAIpQLSftcsJRHLhspnun0mSeijQ-ecMSCg2BiurHxZXoNvxC0SKDBg/viewform",
 
     description:
