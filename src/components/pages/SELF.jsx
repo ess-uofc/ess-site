@@ -31,7 +31,7 @@ function SELF() {
       <div className="self-documents">
         <h2>SELF Documents</h2>
         <ul>
-            <a href='https://drive.google.com/file/d/1j0NYxDX9N6NuVcOEmUFZHupXegyb1dAz/view?usp=drive_link' target='_blank'><li>SELF Policy</li></a>
+            <a href='https://drive.google.com/file/d/1IcwHPA_7LnqHvcu97QOxHPlcYelX026G/view' target='_blank'><li>SELF Policy</li></a>
             <li><a href="https://drive.google.com/uc?export=download&amp;id=1Cp3U-inwozhLcXVaDgGUFenjIQsJ_lLO" target='_blank'>Application I</a></li>
             <li><a href="https://drive.google.com/uc?export=download&amp;id=1MKIwP0hxg2tMOs69DqHe5xfXZwzNE0FC" target='_blank'>Application II</a></li>
             <li><a href="https://drive.google.com/uc?export=download&amp;id=1ZzvlRGocqbx7jtY7LPAgrytf8jKblQlm" target='_blank'>Application III</a></li>
