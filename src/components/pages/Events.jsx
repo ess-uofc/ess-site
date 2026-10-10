@@ -10,52 +10,7 @@ const events = [
 
 
 
-   {
-    month: "DUE OCT",
-    day: "7",
-    category: "ACADEMIC",
-    title: "Resources Survey",
-    time: "",
-    location: "",
-    signup: "https://docs.google.com/forms/d/e/1FAIpQLSfGbY7p3x3x6DGKiWH2qzxu7jzZ0QQrQ40MDbn9FBUbAPLltg/viewform",
-
-    description:
-      `Do you have feedback for any of the following services: SSAF, Advising, VMOCK, Lab PPE, Water fountains in Schulich? Make sure your voice is heard by filling out the first Annual Engineering Student Experience Improvement Consultation. This survey will serve as a baseline for future consultations with student leaders. Lets start off strong by making making our feedback loud and clear`
-
-
-  },
-
-   {
-    month: "OCT",
-    day: "7",
-    category: "S0CIAL",
-    title: "YCR Info Night",
-    time: "11:00 am",
-    location: "ENG Lounge",
-    signup: false,
-
-    description:
-      `Come join us at YCR info night in the Engg Lounge. Socialize with people and enjoy free shawarma provided (while supply lasts).`
-
-
-  },
-
   
-   {
-    month: "OCT",
-    day: "7",
-    category: "S0CIAL",
-    title: "Engineering LinkedIn Headshot Event",
-    time: "11:30 am",
-    location: "4th Floor of ENG Building",
-    signup:   "https://docs.google.com/forms/d/e/1FAIpQLSftcsJRHLhspnun0mSeijQ-ecMSCg2BiurHxZXoNvxC0SKDBg/viewform",
-
-    description:
-      `Come with your best look to update your LinkedIn profile with a job-ready photo! `
-
-
-  },
-
    {
     month: "OCT",
     day: "15",
@@ -74,6 +29,49 @@ const events = [
 
         Any questions related to pricing and attendance can be directed to corporaterelations@essucalgary.com and sponsorship@essucalgary.com`
 
+
+  },
+
+  {
+    month: "NOV",
+    day: "3",
+    category: "Professional",
+    title: "A Day in the Life: Meet & Network with Transportation Engineers ",
+    time: "5:00 pm - 6:30 pm",
+    location: "ENG Lounge",
+    signup: false,
+
+    description:
+      `Join ITE to hear from transportation engineering professionals about their career journeys, day-to-day work, and the projects shaping Calgary and surrounding communities. From redesigning roads and evaluating traffic to planning infrastructure, discover diverse career paths in transportation engineering. Enjoy short presentations, gain industry insights, and network with professionals! Food will be provided!`
+
+  },
+
+    {
+    month: "NOV",
+    day: "5",
+    category: "Professional",
+    title: "Study Abroad Info Night",
+    time: "4:30 pm - 6:30 pm",
+    location: "ENG Lounge",
+    signup: "https://docs.google.com/forms/d/e/1FAIpQLSe3wqURfRIqVlWqOzz3Z5ACJ3SL55tTRO6aSo8-8scVrzgzig/viewform?usp=sharing&ouid=110810394704781955027",
+
+    description:
+      `Enjoy beverages and food a chance to learn more and ask questions about the study abroad program.`
+
+  },
+
+  {
+    month: "NOV",
+    day: "6",
+    category: "Social",
+    title: "Lectures on Tap - Luis Alvarado",
+    time: "11:00 am - 1:00 pm",
+    location: "ENG Lounge",
+    signup: false,
+
+    description:
+      `Enjoy beverages and a chance to learn more about your professors interests outside of class time. Chance to socialize and bond with your professors.
+Presentation topic: Transdisciplinary engineering-From Discipline to Global Impact `
 
   },
 
