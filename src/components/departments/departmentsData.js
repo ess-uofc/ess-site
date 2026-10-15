@@ -41,11 +41,20 @@ CESS also serves as a link between undergraduate students, faculty, industry, an
     {
         id: 3,
         name: "Civil Engineering Undergraduate Society - CEUS",
-        description: `CEUS represents all undergraduate Civil Engineering students at the Schulich School of Engineering...`,
+        description: `The Civil Engineering Undergraduate Society (CEUS) at the University of Calgary is an organization run by civil engineering students for civil engineering students. It serves as a platform for students to connect, collaborate, and engage in various activities related to their field of study.
+
+ 
+
+CEUS plays a vital role in enhancing the university experience for civil engineering students by organizing a wide range of events and initiatives. These include technical workshops, guest lectures by industry professionals, career development sessions, industry tours, and social gatherings. The society also facilitates academic support programs, study groups, and mentoring opportunities to help students excel in their coursework.
+
+ 
+
+Through its initiatives, CEUS aims to create a sense of community among civil engineering students, promote professional development, and facilitate connections with industry professionals. It acts as a bridge between students and the civil engineering industry, offering networking opportunities and fostering partnerships with potential employers and sponsors.`,
         image: ceus,
         email: "ceus@ucalgary.ca",
-        website: "www.ceusucalgary.ca",
+        website: "https://www.ceusucalgary.ca/",
         instagram: "https://www.instagram.com/ceusucalgary/",
+        linkedin: "https://www.linkedin.com/company/ceus-ucalgary/",
         president: ""
     },
 
