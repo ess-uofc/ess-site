@@ -7,28 +7,17 @@ const SIGNUP_LINK = "https://linktr.ee/ess___uofc";
 const events = [
 
 
-
-
-
-  
-   {
+  {
     month: "OCT",
-    day: "15",
-    category: "GOVERNANCE",
-    title: "Career Fair",
-    time: "10:00 am - 5:00 pm",
+    day: "30",
+    category: "Social",
+    title: "Cookies & Costumes",
+    time: "12:00 pm - 3:00 pm",
     location: "ENG Lounge",
     signup: false,
 
     description:
-      `As one of the largest Engineering based career fairs in Western Canada, the ESS event is a popular and and eager way for students to connect with the industry.
-
-        UCalgary Engineering has some of the most entrepreneurial and knowledgeable students and graduates. Our students come from diverse backgrounds and bring different perspectives to each company.
-
-        Thank you to all the sponsor support for this year’s ESS Career Fair!
-
-        Any questions related to pricing and attendance can be directed to corporaterelations@essucalgary.com and sponsorship@essucalgary.com`
-
+      `Costume competition with prizes to be won! You may enter by snapping a picture of your costume as a submission under 3 categories (funniest, duo/group, best in general). Afterward you also get the opportunity to decorate some cookies! (Cookie decorating is also open to the general public :) )  `
 
   },
 
@@ -86,6 +75,22 @@ Presentation topic: Transdisciplinary engineering-From Discipline to Global Impa
 
     description:
       `Come join us at ABB info night in the Engg Lounge. Socialize with people and enjoy free food provided.`
+
+
+  },
+
+    {
+    month: "NOV",
+    day: "27",
+    category: "SOCIAL",
+    title: "Lectures on Tap - Omar Boursalie",
+    time: "11:00 am - 1:00 pm",
+    location: "ENG Lounge",
+    signup: false,
+
+    description:
+      `Enjoy beverages and a chance to learn more about your professors interests outside of class time. Chance to socialize and bond with your professors.
+Presentation topic: Designing Machine Learning Models for the Complex World of Healthcare. **Drinks will be non-alcohlic`
 
 
   },

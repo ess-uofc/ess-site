@@ -24,50 +24,6 @@ function NewsSection() {
 
             <div className="news-card">
 
-                {/* <img src={FYR} alt="Engineering BBQ" /> */}
-
-                <div className="news-content">
-                    <h3>YCR Info Night</h3>
-
-                    <p className="event-date">Oct 15 10AM - 3PM</p>
-
-                    <p>
-                        Learn more about the industry, network with professionals, and get job-ready!! Bring your resume too!
-                    </p>
-
-                    <Link to="/events" className="learn-more">
-                        Learn More →
-                    </Link>
-
-                </div>
-
-            </div>
-               
-
-            <div className="news-card">
-
-                {/* <img src={FYR} alt="Engineering BBQ" /> */}
-
-                <div className="news-content">
-                    <h3>Conference on Diversity in Engineering (CDE)</h3>
-
-                    <p className="event-date">Apply Before Due Oct 12</p>
-
-
-                    <p>
-                        Over four days you will join more than 150 engineering students from across Canada to delve into topics surrounding diversity, equity, and belonging in engineering through collaboration, reflection, and problem-solving.
-                    </p>
-
-                    <Link to="/applications" className="learn-more">
-                        Learn More →
-                    </Link>
-
-                </div>
-
-            </div>
-
-              <div className="news-card">
-
                 <div className="news-content">
                     <h3>A Day in the Life: Meet & Network with Transportation Engineers</h3>
 

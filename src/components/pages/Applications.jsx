@@ -19,13 +19,13 @@ function Applications() {
 
           <div className="application-card">
 
-            <div className="application-card-top">
+            {/* <div className="application-card-top">
                 <span className="application-status">NOW OPEN</span>
-            </div>
+            </div> */}
 
-            <h3>Conference on Diversity in Engineering (CDE)</h3>
+            <h3>There are no open applications currently. Check out our EVENTS page though!</h3>
 
-            <p className="due-date">
+            {/* <p className="due-date">
                 Application deadline: <strong>October 18th at 11:59 PM</strong><br></br>
                 Event Date: <strong>November 20th - 23rd, 2026</strong>
             </p>
@@ -41,7 +41,7 @@ function Applications() {
                 className="application-btn"
             >
                 Apply Now →
-            </a>
+            </a> */}
 
           </div>
 
