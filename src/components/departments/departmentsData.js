@@ -73,11 +73,13 @@ Through its initiatives, CEUS aims to create a sense of community among civil en
     {
         id: 6,
         name: "Geomatics Engineering Students' Society - GESS",
-        description: `GESS strives to represent the students of Geomatics Engineering and provide them with the support and opportunities required to be as successful as possible...`,
+        description: `Geomatics engineering is the intersection of surveying, remote sensing, GIS, GNSS, and spatial computing.
+The Geomatics Engineering Students' Society (GESS) represents undergraduate students in the program. We connect students with industry, research, and peers through events, mentorship, and technical programming.
+Beyond academics, we host ski trips, run an intramural dodgeball team (go Geomonkeys!), sponsor participants in the National Geomatics Competition, and are organizing a student-led trip to Switzerland this year. For a full list of initiatives run by GESS, stay connected by following our Instagram.`,
         image: gess,
-        email: "gess@ucalgary.ca",
-        website: "http://www.facebook.com/GeomaticsEngineeringStudentsSociety",
-        instagram: "",
+        email: "",
+        website: "https://gessucalgary.com/",
+        instagram: "https://www.instagram.com/gessuofc/",
         president: ""
     },
 
