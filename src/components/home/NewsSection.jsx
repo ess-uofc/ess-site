@@ -79,6 +79,25 @@ function NewsSection() {
 
             </div>
 
+            <div className="news-card">
+
+                <div className="news-content">
+                    <h3>Canadian Engineering Leadership Conference (CELC) 2027 </h3>
+
+                    <p className="event-date">Apply by Nov 15</p>
+
+                    <p>
+                       The Canadian Engineering Leadership Conference (CELC) brings together 150–200 delegates from over 50 engineering schools for a weekend of networking, professional development, and collaboration.
+                    </p>
+
+                    <Link to="/applications" className="learn-more">
+                        Learn More →
+                    </Link>
+
+                </div>
+
+            </div>
+
            
         </div>
 

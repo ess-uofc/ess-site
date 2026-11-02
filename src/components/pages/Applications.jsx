@@ -23,25 +23,25 @@ function Applications() {
                 <span className="application-status">NOW OPEN</span>
             </div> */}
 
-            <h3>There are no open applications currently. Check out our EVENTS page though!</h3>
+            <h3>Canadian Engineering Leadership Conference (CELC) 2027 </h3>
 
-            {/* <p className="due-date">
-                Application deadline: <strong>October 18th at 11:59 PM</strong><br></br>
-                Event Date: <strong>November 20th - 23rd, 2026</strong>
+            <p className="due-date">
+                Application deadline: <strong>November 15th at 11:59 PM</strong><br></br>
+                {/* Event Date: <strong>November 20th - 23rd, 2026</strong> */}
             </p>
 
             <p className="description">
-                Over four days you will join more than 150 engineering students from across Canada to delve into topics surrounding diversity, equity, and belonging in engineering through collaboration, reflection, and problem-solving. Our three streams: Breaking Barriers, Cementing Connections, and Driving Change, will invite you to explore the impact you can have on the engineering profession beyond the limits of circuit boards, stress tests, and code errors.
+                The Canadian Engineering Leadership Conference (CELC) brings together 150-200 delegates from over 50 engineering schools for a weekend of networking, professional development, and collaboration. From industry speakers and engaging panels to student-led discussions, CELC offers the opportunity to learn from industry professionals, exchange ideas, and connect with student leaders from across the country.
             </p>
 
             <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSe6h3sYI0pR4smt37cWwzOp3yjTDazKLL-OzlYQ6WVqo9QIQw/viewform"
+                href="https://forms.gle/ZM66Ft8iUzjqxVRJ8"
                 target="_blank"
                 rel="noreferrer"
                 className="application-btn"
             >
                 Apply Now →
-            </a> */}
+            </a>
 
           </div>
 
