@@ -22,15 +22,33 @@ function NewsSection() {
         <div className="news-grid">
             
 
+        
             <div className="news-card">
 
                 <div className="news-content">
-                    <h3>A Day in the Life: Meet & Network with Transportation Engineers</h3>
-
-                    <p className="event-date">Nov 3 5:00PM-6:30PM</p>
+                    <h3> Mental Health and Wellness Survey</h3>
+                    <p className="event-date"></p>
 
                     <p>
-                      Join ITE to hear from transportation engineering professionals about their career journeys, day-to-day work, and the projects shaping Calgary and surrounding communities.
+                       Complete a 5 minute survey about mental health and wellness support and get a chance to win bake chef gift!
+                    </p>
+
+                    <Link to="/events" className="learn-more">
+                        Learn More →
+                    </Link>
+
+                </div>
+
+            </div>
+
+             <div className="news-card">
+
+                <div className="news-content">
+                    <h3>I Scream for Ice Cream</h3>
+                    <p className="event-date">Nov 20 11AM - until supply lasts</p>
+
+                    <p>
+                       Failed a midterm? It's ok we all have, that's why we want to give you a consolation prize in the form of free ice cream.
                     </p>
 
                     <Link to="/events" className="learn-more">
@@ -44,12 +62,12 @@ function NewsSection() {
             <div className="news-card">
 
                 <div className="news-content">
-                    <h3>Study Abroad Info Night</h3>
+                    <h3>ABB Info Night</h3>
 
-                    <p className="event-date">Nov 5 4:30PM-6:30PM</p>
+                    <p className="event-date">Nov 25 11AM</p>
 
                     <p>
-                      Enjoy beverages and food a chance to learn more and ask questions about the study abroad program.
+                       Come learn about global leader in electrification and automation and connect with industry professionals. **Food will be provided.
                     </p>
 
                     <Link to="/events" className="learn-more">
@@ -63,9 +81,9 @@ function NewsSection() {
             <div className="news-card">
 
                 <div className="news-content">
-                    <h3>Lectures on Tap - Luis Alvarado</h3>
+                    <h3>Lectures on Tap - Omar Boursalie</h3>
 
-                    <p className="event-date">Nov 6 11AM-1PM</p>
+                    <p className="event-date">Nov 27 11AM-1PM</p>
 
                     <p>
                        Enjoy beverages and a chance to learn more about your professors interests outside of class time.
@@ -79,24 +97,7 @@ function NewsSection() {
 
             </div>
 
-            <div className="news-card">
-
-                <div className="news-content">
-                    <h3>Canadian Engineering Leadership Conference (CELC) 2027 </h3>
-
-                    <p className="event-date">Apply by Nov 15</p>
-
-                    <p>
-                       The Canadian Engineering Leadership Conference (CELC) brings together 150–200 delegates from over 50 engineering schools for a weekend of networking, professional development, and collaboration.
-                    </p>
-
-                    <Link to="/applications" className="learn-more">
-                        Learn More →
-                    </Link>
-
-                </div>
-
-            </div>
+            
 
            
         </div>

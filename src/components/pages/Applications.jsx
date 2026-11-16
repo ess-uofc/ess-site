@@ -23,14 +23,14 @@ function Applications() {
                 <span className="application-status">NOW OPEN</span>
             </div> */}
 
-            <h3>Canadian Engineering Leadership Conference (CELC) 2027 </h3>
+            <h3>There are current open applications. Please come back later! </h3>
 
-            <p className="due-date">
-                Application deadline: <strong>November 15th at 11:59 PM</strong><br></br>
-                {/* Event Date: <strong>November 20th - 23rd, 2026</strong> */}
-            </p>
+            {/* <p className="due-date">
+                Application deadline: <strong>November 15th</strong><br></br>
+                {/* Event Date: <strong>November 20th - 23rd, 2026</strong> 
+            </p> */}
 
-            <p className="description">
+            {/* <p className="description">
                 The Canadian Engineering Leadership Conference (CELC) brings together 150-200 delegates from over 50 engineering schools for a weekend of networking, professional development, and collaboration. From industry speakers and engaging panels to student-led discussions, CELC offers the opportunity to learn from industry professionals, exchange ideas, and connect with student leaders from across the country.
             </p>
 
@@ -41,7 +41,7 @@ function Applications() {
                 className="application-btn"
             >
                 Apply Now →
-            </a>
+            </a> */}
 
           </div>
 

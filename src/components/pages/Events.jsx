@@ -7,78 +7,45 @@ const SIGNUP_LINK = "https://linktr.ee/ess___uofc";
 const events = [
 
 
-  {
-    month: "OCT",
-    day: "30",
-    category: "Social",
-    title: "Cookies & Costumes",
-    time: "12:00 pm - 3:00 pm",
-    location: "ENG Lounge",
-    signup: false,
+   {
+    month: "N/A",
+    day: "",
+    category: "PROFESSIONAL",
+    title: "Mental Health and Wellness Survey",
+    time: "",
+    location: "",
+    signup: "https://docs.google.com/forms/d/e/1FAIpQLScmnApLF6h0lz1rh0nzSFGT6UbPrazF97xbrjnbO4g2XZj40w/viewform",
 
     description:
-      `Costume competition with prizes to be won! You may enter by snapping a picture of your costume as a submission under 3 categories (funniest, duo/group, best in general). Afterward you also get the opportunity to decorate some cookies! (Cookie decorating is also open to the general public :) )  `
-
+      `Help improve the Mental Health and Wellness supports for engineering students! Fill out this 5-minute survey to help support our recommendations for better and more active supports for students. Chance to win bake chef gift cards if you fill it out!`
   },
 
-  {
-    month: "NOV",
-    day: "3",
-    category: "Professional",
-    title: "A Day in the Life: Meet & Network with Transportation Engineers ",
-    time: "5:00 pm - 6:30 pm",
-    location: "ENG Lounge",
-    signup: false,
-
-    description:
-      `Join ITE to hear from transportation engineering professionals about their career journeys, day-to-day work, and the projects shaping Calgary and surrounding communities. From redesigning roads and evaluating traffic to planning infrastructure, discover diverse career paths in transportation engineering. Enjoy short presentations, gain industry insights, and network with professionals! Food will be provided!`
-
-  },
-
-    {
-    month: "NOV",
-    day: "5",
-    category: "Professional",
-    title: "Study Abroad Info Night",
-    time: "4:30 pm - 6:30 pm",
-    location: "ENG Lounge",
-    signup: "https://docs.google.com/forms/d/e/1FAIpQLSe3wqURfRIqVlWqOzz3Z5ACJ3SL55tTRO6aSo8-8scVrzgzig/viewform?usp=sharing&ouid=110810394704781955027",
-
-    description:
-      `Enjoy beverages and food a chance to learn more and ask questions about the study abroad program.`
-
-  },
-
-  {
-    month: "NOV",
-    day: "6",
-    category: "Social",
-    title: "Lectures on Tap - Luis Alvarado",
-    time: "11:00 am - 1:00 pm",
-    location: "ENG Lounge",
-    signup: false,
-
-    description:
-      `Enjoy beverages and a chance to learn more about your professors interests outside of class time. Chance to socialize and bond with your professors.
-Presentation topic: Transdisciplinary engineering-From Discipline to Global Impact `
-
-  },
 
    {
     month: "NOV",
-    day: "10",
+    day: "20",
     category: "SOCIAL",
-    title: "ABB Info Night",
-    time: "11:00 am",
+    title: "I scream for ice cream",
+    time: "11:00 am - end of supply",
+    location: "ESS office",
+    signup: false,
+
+    description:
+      `Failed a midterm? It's ok we all have, that's why we want to give you a consolation prize in the form of free ice cream. Show your failed midterm grade to the person working in the ESS office, grab your favourite flavour and pose for a picture! `
+  },
+ 
+     {
+    month: "NOV",
+    day: "27",
+    category: "SOCIAL",
+    title: " ABB Info Night",
+    time: "11:00 am start",
     location: "ENG Lounge",
     signup: false,
 
     description:
-      `Come join us at ABB info night in the Engg Lounge. Socialize with people and enjoy free food provided.`
-
-
+      `Come learn about global leader in electrification and automation and connect with industry professionals. **Food will be provided.`
   },
-
     {
     month: "NOV",
     day: "27",
